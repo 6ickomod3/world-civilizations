@@ -2,11 +2,11 @@
 
 An interactive single-page atlas for comparing major world civilizations through time and geography. Explore regional timeline lanes, select a civilization to see its geographic core, and compare cultures that overlapped in time.
 
-Dates are approximate and represent selected historical periods. Map markers indicate geographic cores rather than historical borders. The atlas is a starting selection, not an exhaustive list of world civilizations; individual entries link to sources for further reading.
+Dates are approximate and represent selected historical periods. Highlighted modern countries locate geographic cores rather than historical borders. The atlas is a starting selection, not an exhaustive list of world civilizations; individual entries link to sources for further reading.
 
 ## Website
 
-The proposed repository is `6ickomod3/world-civilizations`. Once the repository is created and GitHub Pages finishes its first deployment, its expected address is:
+The repository is [6ickomod3/world-civilizations](https://github.com/6ickomod3/world-civilizations). GitHub Pages publishes the atlas at:
 
 [https://6ickomod3.github.io/world-civilizations/](https://6ickomod3.github.io/world-civilizations/)
 
