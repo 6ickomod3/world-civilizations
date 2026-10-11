@@ -34,6 +34,7 @@ jobs:
           mkdir -p _site/europe
           cp europe/*.html europe/*.css europe/*.js europe/*.json _site/europe/
           cp -R europe/images _site/europe/images
+          cp -R europe/locales _site/europe/locales
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v4

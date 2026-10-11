@@ -80,7 +80,7 @@ export function filterPlaces(places,options = {},recordFn = () => ({})) {
     if (category !== 'all' && category !== '' && place.category !== category) return false;
     if (query && !searchable([
       place.name,place.cityArea,place.city,place.country,place.cluster,place.category,
-      place.eraPeriod,place.whatToSee,place.whyItMatters,place.connectsTo,place.routeNotes,
+      place.eraPeriod,place.whatToSee,place.whyItMatters,place.connectsTo,place.routeNotes,place.searchText,
     ].join(' ')).includes(query)) return false;
     return true;
   });
