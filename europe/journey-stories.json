@@ -1,0 +1,3880 @@
+{
+  "1": {
+    "title": "Mainland Greece",
+    "kicker": "PALACES, CITIES & SACRED LANDSCAPES",
+    "hook": "At Mycenae a stone gate guards a palace; in Athens, small voting objects open a different question about who could belong.",
+    "storyBeats": [
+      {
+        "title": "Before the city-state",
+        "text": "Begin with the Lion Gate, palace remains and tombs at Mycenae. These belong to a Bronze Age world of administration, production and Mediterranean exchange. Read the archaeological evidence alongside the later myths, keeping the two distinct.",
+        "pageRefs": [
+          11
+        ],
+        "placeIds": [
+          "01-11"
+        ],
+        "timeLabel": "Second millennium BCE"
+      },
+      {
+        "title": "A city makes its claims",
+        "text": "The Acropolis gives civic religion a monumental setting. Down in the Agora, building footprints and museum objects bring courts, voting, commerce and daily life into view. The contrast asks how public institutions worked in space, and who was included in their community.",
+        "pageRefs": [
+          9,
+          10
+        ],
+        "placeIds": [
+          "01-01",
+          "01-03"
+        ],
+        "timeLabel": "Classical Athens; chiefly fifth-century BCE temples"
+      },
+      {
+        "title": "The Greek story keeps moving",
+        "text": "Epidaurus joins healing, ritual and theatre; Mystras carries the journey into painted Byzantine churches. Greek history extends through Macedonian, Roman, Orthodox and modern worlds. Later Europeans repeatedly reused its forms and ideas, often for purposes quite different from those of their makers.",
+        "pageRefs": [
+          9,
+          11,
+          12
+        ],
+        "placeIds": [
+          "01-13",
+          "01-17"
+        ],
+        "timeLabel": "Classical and Hellenistic sanctuaries; later Byzantine towns"
+      }
+    ],
+    "takeaway": "Compare who organised each place, who used it and how its meaning changed when later societies inherited it.",
+    "chapterQuestions": [
+      "How did Greek communities organise power, worship, exchange, art and knowledge?",
+      "What changes when a palace, an agora and a healing sanctuary become your evidence?"
+    ],
+    "geographySummary": "Athens and Attica connect to Corinth, Nafplio and the Argolid. Delphi or the western Peloponnese is a deliberate extension; northern Greece is another route choice.",
+    "geoHops": [
+      "Athens",
+      "Corinth",
+      "Nafplio / Argolid"
+    ],
+    "chronologySummary": "Bronze Age palaces → competing Greek cities and shared sanctuaries → Macedonian, Roman and Byzantine layers → modern Greece.",
+    "periods": [
+      {
+        "label": "Cycladic objects · third millennium BCE",
+        "start": -3000,
+        "end": -2000,
+        "sourceMeaning": "Rounded display window for the collection period stated in the PDF, not the dates of this whole chapter.",
+        "pageRefs": [
+          10
+        ]
+      },
+      {
+        "label": "Mycenaean palaces · second millennium BCE",
+        "start": -2000,
+        "end": -1000,
+        "sourceMeaning": "Rounded display window for Mycenae and Tiryns' source period.",
+        "pageRefs": [
+          11
+        ]
+      },
+      {
+        "label": "Acropolis temples · chiefly fifth century BCE",
+        "start": -500,
+        "end": -400,
+        "sourceMeaning": "Rounded century window for the principal temple phase identified in the PDF.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "label": "Mystras · thirteenth–fifteenth centuries and later",
+        "start": 1200,
+        "end": 1500,
+        "sourceMeaning": "Rounded window for the principal source period; later layers extend beyond it.",
+        "pageRefs": [
+          12
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "01-11",
+        "name": "Mycenae citadel, Lion Gate, tholos tombs and museum",
+        "why": "Bronze Age administration and exchange before the polis.",
+        "pageRefs": [
+          11
+        ]
+      },
+      {
+        "placeId": "01-01",
+        "name": "Acropolis: Parthenon, Erechtheion and Temple of Athena Nike",
+        "why": "Civic religion and the resources behind monumental building.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "placeId": "01-03",
+        "name": "Ancient Agora and Museum in the Stoa of Attalos",
+        "why": "Voting, courts, commerce and citizenship in physical space.",
+        "pageRefs": [
+          10
+        ]
+      },
+      {
+        "placeId": "01-13",
+        "name": "Epidaurus healing sanctuary, theatre and museum",
+        "why": "Healing practices, ritual and performance in one sanctuary.",
+        "pageRefs": [
+          11
+        ]
+      },
+      {
+        "placeId": "01-17",
+        "name": "Mystras Byzantine fortified town and painted churches",
+        "why": "Painted churches carry Greek history into the Byzantine world.",
+        "pageRefs": [
+          12
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "When choosing a return, compare this inventory with your own previous visits.",
+      "Use Athens for civic, artistic and archaeological comparisons.",
+      "Continue through Corinth to an Argolid base for Mycenae and Epidaurus.",
+      "Choose one wider extension according to the story still missing."
+    ],
+    "routeOptions": [
+      {
+        "label": "Southern core",
+        "hops": [
+          "Athens",
+          "Corinth",
+          "Nafplio / Argolid"
+        ],
+        "note": "The guide allows one considered extension and nature time."
+      },
+      {
+        "label": "A different return",
+        "hops": [
+          "Mystras",
+          "Meteora",
+          "Thessaloniki / northern Macedonia"
+        ],
+        "note": "Alternative clusters or later returns, rather than additions to every southern stop."
+      }
+    ],
+    "coverageThemes": [
+      "Bronze Age society",
+      "Citizenship",
+      "Sacred landscapes",
+      "Medicine and performance",
+      "Byzantine Christianity",
+      "Modern Greek art"
+    ],
+    "cautions": [
+      "Individual visited status belongs to your own records; a regional chapter does not establish that every candidate has been visited.",
+      "The full mainland inventory exceeds a ten-day trip.",
+      "Crete and its Minoan palatial world remain a separate coverage gap."
+    ],
+    "gapPageRefs": [
+      82
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 1,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 9,
+      "end": 13
+    },
+    "pageRefs": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Roman elites appropriated and transformed Greek art, mythology, architecture and knowledge.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "The Greek-speaking Eastern Roman world and Orthodox traditions extend the story beyond classical antiquity.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Renaissance artists and patrons repeatedly reinterpret classical bodies, architecture and texts.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "legId": 15,
+        "text": "Greek, Byzantine, Venetian and Ottoman networks overlap across the Balkans and eastern Mediterranean.",
+        "pageRefs": [
+          9
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Modern classicism, antiquities collecting and philhellenism shape how Greece is seen in Europe.",
+        "pageRefs": [
+          9
+        ]
+      }
+    ],
+    "candidateCount": 22,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "2": {
+    "title": "Rome–Campania",
+    "kicker": "IMPERIAL SPACE & EVERYDAY LIFE",
+    "hook": "From Rome’s ceremonial centre to a Pompeian shop, the scale of the empire changes when you look at the people who kept it running.",
+    "storyBeats": [
+      {
+        "title": "Power takes up space",
+        "text": "In the Forum and on the Palatine, temples, council spaces and successive residences show the movement from civic competition toward concentrated imperial authority. The imperial capital supplies one view of Rome; baths, roads and the port at Ostia reveal the infrastructure beneath its display.",
+        "pageRefs": [
+          14,
+          15
+        ],
+        "placeIds": [
+          "02-01"
+        ],
+        "timeLabel": "Republican and imperial Rome"
+      },
+      {
+        "title": "An empire at household scale",
+        "text": "Around Vesuvius, Pompeii and Herculaneum bring rooms, shops, work and consumption into focus. Paintings, graffiti and surviving objects put ordinary lives beside the capital's monuments. The eruption's human consequences belong to this account alongside the unusual preservation of urban evidence.",
+        "pageRefs": [
+          17
+        ],
+        "placeIds": [
+          "02-15",
+          "02-16"
+        ],
+        "timeLabel": "Roman towns buried in 79 CE"
+      },
+      {
+        "title": "Rome becomes many later Romes",
+        "text": "San Clemente makes religious and urban change visible through successive underground levels. St Peter's and the Vatican collections show Christian authority and later artistic patronage. Bourbon Caserta joins court ceremony to gardens, water engineering and silk production, continuing the story far beyond antiquity.",
+        "pageRefs": [
+          15,
+          16,
+          17
+        ],
+        "placeIds": [
+          "02-08",
+          "02-10",
+          "02-20"
+        ],
+        "timeLabel": "Roman and medieval reuse; Renaissance, Baroque and eighteenth-century courts"
+      }
+    ],
+    "takeaway": "Set the imperial capital beside a provincial household, then follow how buildings and objects acquired new religious and political uses.",
+    "chapterQuestions": [
+      "How did Rome sustain an empire and an urban society?",
+      "What can a shop, a water system or a reused sacred space add to an imperial monument?"
+    ],
+    "geographySummary": "Rome and Vatican City form the first base; Naples and its bay form the second. Pompeii and Herculaneum sit within the Naples orbit.",
+    "geoHops": [
+      "Rome",
+      "Vatican City",
+      "Naples",
+      "Pompeii / Herculaneum"
+    ],
+    "chronologySummary": "Greek and Etruscan foundations → Republican and imperial Rome → Christian reuse → Renaissance and Baroque patronage → Bourbon and modern layers.",
+    "periods": [
+      {
+        "label": "Colosseum and Arch of Constantine · first–fourth centuries CE",
+        "start": 1,
+        "end": 400,
+        "sourceMeaning": "Broad century span attached to these two monuments in the source; it is not a continuous construction campaign.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "label": "Vesuvian towns buried in 79 CE",
+        "start": 79,
+        "end": 79,
+        "sourceMeaning": "The eruption date explicitly given for Pompeii and Herculaneum.",
+        "pageRefs": [
+          17
+        ]
+      },
+      {
+        "label": "Christian and medieval reuse",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The PDF describes successive Roman, late antique and medieval layers without a bounded chapter-wide range.",
+        "pageRefs": [
+          15
+        ]
+      },
+      {
+        "label": "Caserta and San Leucio · eighteenth century",
+        "start": 1700,
+        "end": 1800,
+        "sourceMeaning": "Rounded window for the Bourbon court and production setting in the PDF.",
+        "pageRefs": [
+          17
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "02-01",
+        "name": "Roman Forum and Palatine Hill",
+        "why": "Compare Republican civic competition with imperial authority.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "placeId": "02-08",
+        "name": "San Clemente: layered basilicas, Roman structures and Mithraeum",
+        "why": "Read religious transformation through physically stacked urban layers.",
+        "pageRefs": [
+          15
+        ]
+      },
+      {
+        "placeId": "02-10",
+        "name": "St Peter’s Basilica and square",
+        "why": "Devotion, patronage and papal ceremony shape public space.",
+        "pageRefs": [
+          16
+        ]
+      },
+      {
+        "placeId": "02-15",
+        "name": "Pompeii: forum, houses, shops, theatres and burial evidence",
+        "why": "Households and shops expose work, slavery and inequality.",
+        "pageRefs": [
+          17
+        ]
+      },
+      {
+        "placeId": "02-20",
+        "name": "Royal Palace of Caserta, gardens and San Leucio silk heritage",
+        "why": "Court display depends on engineering and production.",
+        "pageRefs": [
+          17
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Read public institutions and infrastructure in Rome.",
+      "Compare Roman sacred reuse with papal and artistic patronage.",
+      "Move to Naples for the objects and daily-life evidence of the Vesuvian towns.",
+      "Select one wider Campanian branch rather than every alternative."
+    ],
+    "routeOptions": [
+      {
+        "label": "Two main bases",
+        "hops": [
+          "Rome / Vatican",
+          "Naples"
+        ],
+        "note": "Choose Pompeii and Herculaneum within the Naples orbit."
+      },
+      {
+        "label": "One wider branch",
+        "hops": [
+          "Caserta",
+          "Paestum",
+          "Vesuvius",
+          "Amalfi / Ravello"
+        ],
+        "note": "These are competing choices, selected for court culture, Greek foundations, volcanoes or cultivated coast."
+      }
+    ],
+    "coverageThemes": [
+      "Imperial institutions",
+      "Infrastructure",
+      "Household life",
+      "Slavery and inequality",
+      "Religious reuse",
+      "Papal and Bourbon patronage"
+    ],
+    "cautions": [
+      "The 23 candidates are a research pool, larger than an unhurried ten-day trip.",
+      "Sicily's Arab-Norman and Mediterranean synthesis is a separate regional gap.",
+      "Original settings and relocated museum objects answer different questions."
+    ],
+    "gapPageRefs": [
+      82
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 2,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 14,
+      "end": 18
+    },
+    "pageRefs": [
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "connectedLegs": [
+      {
+        "legId": 1,
+        "text": "Roman art, religion, theatre and philosophy repeatedly adapt Greek forms and ideas.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "The imperial center shifts east, while Roman Christianity develops in different institutional and artistic directions.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Renaissance and Baroque artists reinterpret antiquity and serve powerful patrons.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Papal and royal collecting, Versailles-Caserta comparison, and European neoclassicism recur.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Spanish and Bourbon connections place southern Italy within a wider dynastic Mediterranean.",
+        "pageRefs": [
+          14
+        ]
+      },
+      {
+        "legId": 15,
+        "text": "Roman infrastructure and later maritime powers link Italy to Adriatic and Balkan sites.",
+        "pageRefs": [
+          14
+        ]
+      }
+    ],
+    "candidateCount": 23,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "3": {
+    "title": "Istanbul–Marmara",
+    "kicker": "ONE STRAIT, MANY WORLDS",
+    "hook": "A ferry crosses the strait while the city’s monuments cross centuries: Roman institutions, Byzantine sacred art and Ottoman court life remain in conversation.",
+    "storyBeats": [
+      {
+        "title": "Above and beneath Constantinople",
+        "text": "Hagia Sophia sets domes, marble, mosaics and later Ottoman additions within one sacred building. Nearby, the Basilica Cistern shifts attention underground to columns, vaults and water storage. Together they let you compare imperial ceremony with the provisioning that made a capital possible.",
+        "pageRefs": [
+          19,
+          20
+        ],
+        "placeIds": [
+          "03-01",
+          "03-03"
+        ],
+        "timeLabel": "Sixth-century Constantinople; later sacred reuse"
+      },
+      {
+        "title": "The Ottoman city builds institutions",
+        "text": "At Topkapı, courts and controlled approaches organise government and the imperial household. Mosque complexes connect religious patronage to institutions around them; bazaars and hans bring commerce into the same urban account. Palaces and markets reveal different workings of the city.",
+        "pageRefs": [
+          20,
+          21
+        ],
+        "placeIds": [
+          "03-05",
+          "03-07"
+        ],
+        "timeLabel": "Fifteenth–nineteenth-century court; sixteenth–seventeenth-century complexes"
+      },
+      {
+        "title": "The strait connects communities",
+        "text": "Galata, Pera and the Bosphorus carry the story through maritime exchange, minority communities and a later cosmopolitan city. The Jewish museum connects Sephardic migration after 1492 to Ottoman lives. Modern art and an Asian-shore neighbourhood keep this chapter rooted in a city that continues to change.",
+        "pageRefs": [
+          19,
+          21,
+          22
+        ],
+        "placeIds": [
+          "03-13",
+          "03-17"
+        ],
+        "timeLabel": "Sephardic migration after 1492; Ottoman and modern communities"
+      }
+    ],
+    "takeaway": "Read the city across water and across layers: its sacred buildings, infrastructure, courts and neighbourhoods explain one another.",
+    "chapterQuestions": [
+      "How did one strategic city become a centre of Eastern Roman and Ottoman worlds?",
+      "What survives, what was reused and whose community story does each institution tell?"
+    ],
+    "geographySummary": "Istanbul spans European and Asian shores. Bursa/Cumalıkızık with selected İznik, or Edirne, is an optional second cluster.",
+    "geoHops": [
+      "Istanbul · historic peninsula",
+      "Galata / Pera",
+      "Bosphorus",
+      "Istanbul · Asian shore"
+    ],
+    "chronologySummary": "Roman and Byzantine imperial city → Ottoman governance and exchange → nineteenth-century reform and representation → modern and contemporary lives.",
+    "periods": [
+      {
+        "label": "Basilica Cistern and Hagia Sophia · sixth century",
+        "start": 500,
+        "end": 600,
+        "sourceMeaning": "Rounded source century for Eastern Roman structures, with later histories described separately.",
+        "pageRefs": [
+          19,
+          20
+        ]
+      },
+      {
+        "label": "Chora decoration · early fourteenth century",
+        "start": 1300,
+        "end": 1400,
+        "sourceMeaning": "The full century is a display window; the PDF narrows the principal decoration to its early part.",
+        "pageRefs": [
+          20
+        ]
+      },
+      {
+        "label": "Topkapı's court history · fifteenth–nineteenth centuries",
+        "start": 1400,
+        "end": 1900,
+        "sourceMeaning": "Rounded period of court use stated in the source, not one building phase.",
+        "pageRefs": [
+          20
+        ]
+      },
+      {
+        "label": "Süleymaniye and Blue Mosque · sixteenth–seventeenth centuries",
+        "start": 1500,
+        "end": 1700,
+        "sourceMeaning": "Rounded source centuries for two distinct Ottoman complexes.",
+        "pageRefs": [
+          20
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "03-01",
+        "name": "Hagia Sophia / Ayasofya",
+        "why": "Sacred architecture records Eastern Roman authority and Ottoman transformation.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "placeId": "03-03",
+        "name": "Basilica Cistern",
+        "why": "Urban water provision sits beneath the ceremonial capital.",
+        "pageRefs": [
+          20
+        ]
+      },
+      {
+        "placeId": "03-05",
+        "name": "Topkapı Palace: courts, council, harem and collections",
+        "why": "Courts and controlled access reveal Ottoman government and household organisation.",
+        "pageRefs": [
+          20
+        ]
+      },
+      {
+        "placeId": "03-07",
+        "name": "Süleymaniye complex and Sultan Ahmed / Blue Mosque",
+        "why": "Mosque patronage also creates urban institutions.",
+        "pageRefs": [
+          20
+        ]
+      },
+      {
+        "placeId": "03-13",
+        "name": "Quincentennial Foundation Museum of Turkish Jews and Neve Shalom context",
+        "why": "Sephardic migration connects Iberia with Ottoman community histories.",
+        "pageRefs": [
+          21
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Compare imperial and sacred space on the historic peninsula.",
+      "Read palace, mosque-complex and commercial institutions together.",
+      "Cross the water and include Galata/Pera and an Asian-shore neighbourhood.",
+      "Choose either one compact regional extension or island time."
+    ],
+    "routeOptions": [
+      {
+        "label": "Istanbul in depth",
+        "hops": [
+          "Historic peninsula",
+          "Galata / Pera",
+          "Bosphorus",
+          "Asian shore"
+        ],
+        "note": "Istanbul alone supports a substantial ten-day chapter."
+      },
+      {
+        "label": "One regional extension",
+        "hops": [
+          "Bursa / Cumalıkızık",
+          "İznik",
+          "Edirne"
+        ],
+        "note": "Choose a compact Bursa–İznik cluster or Edirne; do not assume all three plus islands."
+      }
+    ],
+    "coverageThemes": [
+      "Byzantine engineering",
+      "Ottoman institutions",
+      "Maritime exchange",
+      "Minority communities",
+      "Sephardic migration",
+      "Modern art"
+    ],
+    "cautions": [
+      "This is a Europe–Asia crossroads chapter; it does not geographically classify all Türkiye as Europe.",
+      "Multiple regional extensions and islands would fragment a ten-day leg.",
+      "Later Orthodox worlds in eastern Europe remain outside the chapter's coverage."
+    ],
+    "gapPageRefs": [
+      83
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 3,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 19,
+      "end": 23
+    },
+    "pageRefs": [
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "connectedLegs": [
+      {
+        "legId": 1,
+        "text": "Greek language, philosophy, Hellenistic objects and Orthodox art connect the Greek and Eastern Roman worlds.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 2,
+        "text": "Constantinople continues Roman institutions and imperial urbanism while diverging from papal Rome.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 5,
+        "text": "Islamic art and Sephardic migration link Iberia with Ottoman lands.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Italian maritime powers, trade and parallel artistic traditions link the eastern Mediterranean with Venice and Italy.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Ottoman and Habsburg spheres repeatedly meet in Central and Southeastern Europe.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 15,
+        "text": "Byzantine, Orthodox and Ottoman legacies overlap across the Balkans and Adriatic.",
+        "pageRefs": [
+          19
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "European and Ottoman painting, Orientalism and collections connect artistic representation across capitals.",
+        "pageRefs": [
+          19
+        ]
+      }
+    ],
+    "candidateCount": 22,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "4": {
+    "title": "Nordic kingdoms",
+    "kicker": "SEA ROUTES, KINGDOMS & SOCIAL LIFE",
+    "hook": "A cargo hull, a royal runestone and a workers’ meeting house tell three different histories of the North.",
+    "storyBeats": [
+      {
+        "title": "The sea carries more than raiders",
+        "text": "Roskilde's ships distinguish cargo vessels, warships and the craftsmanship behind them. Sea routes connected northern societies with Britain, the Baltic and wider medieval worlds. Jelling's runestones then bring royal claims and Christian conversion into the same monumental landscape.",
+        "pageRefs": [
+          24,
+          25
+        ],
+        "placeIds": [
+          "L04-02",
+          "L04-04"
+        ],
+        "timeLabel": "Tenth-century royal claims; eleventh-century ships"
+      },
+      {
+        "title": "Kingdoms make themselves visible",
+        "text": "Cathedrals, treasuries and the Vasa's carved propaganda place religion, royal hierarchy and naval ambition in material form. The original warship also invites questions about engineering failure and conservation. These objects sit within different Danish, Swedish and Norwegian histories rather than one northern story.",
+        "pageRefs": [
+          24,
+          25,
+          26,
+          27
+        ],
+        "placeIds": [
+          "L04-12"
+        ],
+        "timeLabel": "Vasa, 1628; later recovery and conservation"
+      },
+      {
+        "title": "Ordinary and Indigenous lives",
+        "text": "The Workers Museum adds family life, work and labour organisation to the royal sequence; art and design show other modern institutions. Sámi histories take the map beyond national borders. Their languages, livelihoods and rights belong to living societies, not a final museum footnote.",
+        "pageRefs": [
+          26,
+          28
+        ],
+        "placeIds": [
+          "L04-09",
+          "L04-24"
+        ],
+        "timeLabel": "Nineteenth–twenty-first-century labour; living Sámi histories"
+      }
+    ],
+    "takeaway": "Follow movement by sea, then compare the institutions that organised royal power, work and contemporary cultural life.",
+    "chapterQuestions": [
+      "How did maritime societies become Christian kingdoms, Baltic powers and modern societies?",
+      "What changes when cargo, labour and Indigenous lives enter a history usually told through rulers?"
+    ],
+    "geographySummary": "A capital corridor links Copenhagen/Roskilde, Stockholm and Oslo. Western Norway is a competing nature-led branch; Jelling and northern Sápmi add substantial geography.",
+    "geoHops": [
+      "Copenhagen",
+      "Roskilde",
+      "Stockholm",
+      "Oslo"
+    ],
+    "chronologySummary": "Prehistoric and Viking material worlds → conversion and medieval kingdoms → Reformation and Baltic rivalry → industry, national art, design and living Indigenous cultures.",
+    "periods": [
+      {
+        "label": "Jelling · tenth century",
+        "start": 900,
+        "end": 1000,
+        "sourceMeaning": "Rounded source century for the royal monumental complex.",
+        "pageRefs": [
+          25
+        ]
+      },
+      {
+        "label": "Skuldelev ships · eleventh century",
+        "start": 1000,
+        "end": 1100,
+        "sourceMeaning": "Rounded source century for the original ships, separate from modern reconstructions.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "label": "Vasa · 1628",
+        "start": 1628,
+        "end": 1628,
+        "sourceMeaning": "Explicit historical ship date; recovery and conservation belong to later periods.",
+        "pageRefs": [
+          26
+        ]
+      },
+      {
+        "label": "Workers' lives · nineteenth–twenty-first centuries",
+        "start": 1800,
+        "end": null,
+        "sourceMeaning": "Open-ended source collection period, not a fixed route date.",
+        "pageRefs": [
+          26
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L04-02",
+        "name": "Viking Ship Museum",
+        "why": "Ship forms distinguish trade, warfare and controlled waterways.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "placeId": "L04-04",
+        "name": "Jelling monuments and Kongernes Jelling",
+        "why": "Kingship and conversion meet in royal monumental claims.",
+        "pageRefs": [
+          25
+        ]
+      },
+      {
+        "placeId": "L04-12",
+        "name": "Vasa Museum",
+        "why": "One failed warship makes Baltic ambition tangible.",
+        "pageRefs": [
+          26
+        ]
+      },
+      {
+        "placeId": "L04-09",
+        "name": "Workers Museum",
+        "why": "Labour and households explain modern social change.",
+        "pageRefs": [
+          26
+        ]
+      },
+      {
+        "placeId": "L04-24",
+        "name": "Ájtte and contemporary Sámi cultural encounters",
+        "why": "Living Sámi cultures challenge a nation-state-only map.",
+        "pageRefs": [
+          28
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Use Copenhagen and Roskilde to connect objects, ships and medieval institutions.",
+      "Compare Stockholm's royal, civic and maritime evidence.",
+      "Continue to Oslo for art and vernacular traditions.",
+      "Choose whether capital comparison or western-Norwegian landscape is the principal emphasis."
+    ],
+    "routeOptions": [
+      {
+        "label": "Capital comparison",
+        "hops": [
+          "Copenhagen / Roskilde",
+          "Stockholm",
+          "Oslo"
+        ],
+        "note": "A selective three-capital survey with an accessible nature outing."
+      },
+      {
+        "label": "Norwegian landscape alternative",
+        "hops": [
+          "Copenhagen / Roskilde",
+          "Oslo",
+          "Bergen",
+          "One fjord"
+        ],
+        "note": "This replaces most Swedish coverage rather than being added to it."
+      }
+    ],
+    "coverageThemes": [
+      "Maritime craft",
+      "Conversion",
+      "Baltic power",
+      "Labour history",
+      "National art and design",
+      "Living Indigenous societies"
+    ],
+    "cautions": [
+      "Capitals, Jelling, western fjords and northern Sápmi do not all fit one unhurried ten-day route.",
+      "Far-northern travel requires a separate geographic and seasonal choice.",
+      "Finland, Iceland and the full northern Indigenous story remain coverage gaps."
+    ],
+    "gapPageRefs": [
+      83,
+      84
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 4,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 24,
+      "end": 28
+    },
+    "pageRefs": [
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "connectedLegs": [
+      {
+        "legId": 3,
+        "text": "Viking eastern waterways and contacts with Byzantium complicate the idea of isolated northern peoples.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Norman histories connect Scandinavian maritime mobility to northern France and England; Nordic national art later converses with Paris.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Hanseatic/Baltic trade and modern northern urban cultures complement the Low Countries maritime story.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Viking settlement, conquest, sea power, industrialization and parliamentary institutions can be compared across the North Sea.",
+        "pageRefs": [
+          24
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Swedish great-power history and Baltic trade connect to northern Germany and Poland.",
+        "pageRefs": [
+          24
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "5": {
+    "title": "Andalusia",
+    "kicker": "SACRED SPACE & CHANGING SOVEREIGNTY",
+    "hook": "An Islamic prayer hall, a Christian commission in an Islamic-derived style and an Atlantic archive put successive powers in the same southern cities.",
+    "storyBeats": [
+      {
+        "title": "Córdoba was a political world",
+        "text": "The Mosque-Cathedral's columns, mihrab and later crossing expose changing sacred uses. Nearby Medina Azahara adds the infrastructure and ceremonial setting of a caliphal city. The archaeological comparison gives al-Andalus institutions and internal conflict, alongside its celebrated ornament.",
+        "pageRefs": [
+          29
+        ],
+        "placeIds": [
+          "L05-01",
+          "L05-02"
+        ],
+        "timeLabel": "Eighth–tenth-century mosque and caliphal Córdoba"
+      },
+      {
+        "title": "Conquest changes the patron",
+        "text": "At Seville's Alcázar, Christian rulers commissioned Islamic-derived artistic forms. Granada's Nasrid palaces stand beside later Christian overlays. These places show influence continuing through changed sovereignty; Jewish buildings and interpretation also demand attention to unequal status, persecution and expulsion.",
+        "pageRefs": [
+          29,
+          30,
+          31
+        ],
+        "placeIds": [
+          "L05-07",
+          "L05-16"
+        ],
+        "timeLabel": "Medieval Islamic and later Christian palace layers"
+      },
+      {
+        "title": "The river opens an Atlantic chapter",
+        "text": "Seville's port history and Archivo General de Indias move the account from courtly space to imperial administration overseas. Records and exhibitions connect European wealth to conquest and coerced labour. Painting, patios, flamenco and a chosen landscape branch keep the southern cities larger than a medieval religious survey.",
+        "pageRefs": [
+          29,
+          30,
+          31,
+          32
+        ],
+        "placeIds": [
+          "L05-09"
+        ],
+        "timeLabel": "Sixteenth–nineteenth-century Atlantic documentation"
+      }
+    ],
+    "takeaway": "Distinguish the origin of an artistic form from the ruler, institution and unequal relationships that commissioned its later use.",
+    "chapterQuestions": [
+      "How did Islamic Iberia, Christian conquest, Jewish life and Atlantic empire reshape the same cities?",
+      "Which parts of a palace or sacred building reveal a change of patron and sovereignty?"
+    ],
+    "geographySummary": "Seville, Córdoba and Granada form the principal city backbone in either direction. Archaeological excursions near Seville and Córdoba differ from the larger nature and coastal branches.",
+    "geoHops": [
+      "Seville",
+      "Córdoba",
+      "Granada"
+    ],
+    "chronologySummary": "Roman provincial prelude → Umayyad and caliphal Córdoba → later Islamic Granada → Christian courts and conquest → Atlantic empire, art and living culture.",
+    "periods": [
+      {
+        "label": "Córdoba mosque · eighth–tenth centuries",
+        "start": 700,
+        "end": 1000,
+        "sourceMeaning": "Rounded window for the mosque phases specified in the PDF; Christian use begins later.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "label": "Medina Azahara · tenth century",
+        "start": 900,
+        "end": 1000,
+        "sourceMeaning": "Rounded source century for the palatine city.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "label": "Nasrid Alhambra · thirteenth–fifteenth centuries",
+        "start": 1200,
+        "end": 1500,
+        "sourceMeaning": "Rounded window for the source's Nasrid complex, with later Christian overlays.",
+        "pageRefs": [
+          31
+        ]
+      },
+      {
+        "label": "Atlantic documentation · sixteenth–nineteenth centuries",
+        "start": 1500,
+        "end": 1900,
+        "sourceMeaning": "Period of the records described in the PDF, not the archive's construction; the archive was founded in 1785.",
+        "pageRefs": [
+          30
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L05-01",
+        "name": "Mosque-Cathedral of Córdoba",
+        "why": "Sacred space makes changing patronage and power visible.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "placeId": "L05-02",
+        "name": "Medina Azahara archaeological city and site museum",
+        "why": "A caliphal city reveals administration, infrastructure and internal conflict.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "placeId": "L05-07",
+        "name": "Real Alcázar of Seville",
+        "why": "Christian patronage uses Islamic-derived artistic language.",
+        "pageRefs": [
+          30
+        ]
+      },
+      {
+        "placeId": "L05-16",
+        "name": "Alhambra: Nasrid palaces, Alcazaba and Christian overlays",
+        "why": "Nasrid court culture meets later imperial overlays.",
+        "pageRefs": [
+          31
+        ]
+      },
+      {
+        "placeId": "L05-09",
+        "name": "Archivo General de Indias",
+        "why": "Documents expose the institutions and coercion behind Atlantic empire.",
+        "pageRefs": [
+          30
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Read Seville's palaces, sacred reuse and Atlantic institutions.",
+      "Compare Córdoba's prayer hall with the caliphal city at Medina Azahara.",
+      "Continue to Granada for Nasrid court space and later overlays.",
+      "Choose one principal landscape or coastal branch; the city sequence can also be reversed."
+    ],
+    "routeOptions": [
+      {
+        "label": "Three-city core",
+        "hops": [
+          "Seville",
+          "Córdoba",
+          "Granada"
+        ],
+        "note": "The guide's substantial ten-day backbone, with selected near-city archaeology."
+      },
+      {
+        "label": "One alternative branch",
+        "hops": [
+          "Doñana",
+          "Sierra Nevada",
+          "Málaga",
+          "Cádiz"
+        ],
+        "note": "Choose a nature or coastal emphasis rather than adding all four."
+      }
+    ],
+    "coverageThemes": [
+      "Islamic court culture",
+      "Sacred reuse",
+      "Jewish histories",
+      "Conquest",
+      "Atlantic administration",
+      "Painting and living culture"
+    ],
+    "cautions": [
+      "Artistic exchange should not be mistaken for consistently equal religious coexistence.",
+      "Coast, wetlands and mountains compete with city depth.",
+      "Catalonia and Gaudí's architectural chapter are outside this southern route."
+    ],
+    "gapPageRefs": [
+      82
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 5,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 29,
+      "end": 32
+    },
+    "pageRefs": [
+      29,
+      30,
+      31,
+      32
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Itálica and Córdoba's Roman finds show provincial life after the imperial center.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "Compare Islamic and Christian sacred architecture and imperial succession across the Mediterranean, without conflating the Byzantine and Islamic worlds.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Italian Renaissance forms and Islamic craftsmanship meet in Christian Andalusian palaces.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Granada's conquest, Castilian monarchy and religious policy lead into Madrid-Castile and the Habsburg story.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 9,
+        "text": "Seville's Atlantic administration complements Portuguese exploration, slavery and empire.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Flemish religious paintings and trans-European court networks become visible in Granada's Royal Chapel.",
+        "pageRefs": [
+          29
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Iberian imperial sea routes set up later comparisons with British maritime expansion.",
+        "pageRefs": [
+          29
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "6": {
+    "title": "Paris and northern France",
+    "kicker": "ROYAL LIGHT, REVOLUTION & THE MODERN CITY",
+    "hook": "Royal stained glass, revolutionary prison rooms and paintings in a railway station let the city’s changing authority become visible.",
+    "storyBeats": [
+      {
+        "title": "Sacred prestige and court ceremony",
+        "text": "Sainte-Chapelle's glass once framed a royal collection of eastern Christian relics. Saint-Denis joins kingship to a burial landscape; Versailles later organises court display through rooms and garden axes. Different kinds of royal authority become tangible in light, movement and controlled space.",
+        "pageRefs": [
+          33,
+          34
+        ],
+        "placeIds": [
+          "L06-02",
+          "L06-06"
+        ],
+        "timeLabel": "Thirteenth-century sacred prestige; seventeenth–eighteenth-century court"
+      },
+      {
+        "title": "A capital changes its public",
+        "text": "The Conciergerie turns from royal palace to revolutionary detention and tribunal. Paris's redesigned boulevards and public spaces bring another institutional world into view. At Orsay, works from 1848–1914 share a former railway station, linking artistic experiments with urbanisation, leisure and new ways of seeing.",
+        "pageRefs": [
+          34,
+          35
+        ],
+        "placeIds": [
+          "L06-08",
+          "L06-10"
+        ],
+        "timeLabel": "Revolutionary Tribunal, 1793–1795; art, 1848–1914"
+      },
+      {
+        "title": "Normandy has its own sequence",
+        "text": "Rouen, Caen and Bayeux lead through ducal and cross-Channel histories, religious buildings and later memory. A selected D-Day coast circuit brings terrain and individual lives to the account of 1944. Coastal painting or the tidal bay of Mont-Saint-Michel offers a different regional emphasis.",
+        "pageRefs": [
+          33,
+          35,
+          36,
+          37
+        ],
+        "placeIds": [
+          "L06-17"
+        ],
+        "timeLabel": "Medieval Normandy; 1944 and postwar commemoration"
+      }
+    ],
+    "takeaway": "Read changes in political legitimacy through the spaces, images and landscapes that successive publics inherited.",
+    "chapterQuestions": [
+      "How did royal-Christian France become a centre of revolution, modern urban life and artistic reinvention?",
+      "How do restoration, museum display and commemoration change the evidence you encounter?"
+    ],
+    "geographySummary": "Paris/Île-de-France links to selected Normandy bases. Chartres, Reims and the Loire are separate competing branches.",
+    "geoHops": [
+      "Paris",
+      "Saint-Denis / Versailles",
+      "Rouen",
+      "Caen / Bayeux"
+    ],
+    "chronologySummary": "Medieval kingship and Gothic Christianity → royal collecting and court power → revolution → nineteenth-century city and painting → 1944 and later memory.",
+    "periods": [
+      {
+        "label": "Sainte-Chapelle · thirteenth century",
+        "start": 1200,
+        "end": 1300,
+        "sourceMeaning": "Rounded source century for the royal chapel.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "label": "Versailles · seventeenth–eighteenth centuries",
+        "start": 1600,
+        "end": 1800,
+        "sourceMeaning": "Rounded principal source period; later museum and diplomatic uses continue.",
+        "pageRefs": [
+          34
+        ]
+      },
+      {
+        "label": "Revolutionary Tribunal · 1793–1795",
+        "start": 1793,
+        "end": 1795,
+        "sourceMeaning": "Explicit source dates for the Conciergerie's tribunal context.",
+        "pageRefs": [
+          34
+        ]
+      },
+      {
+        "label": "Orsay collections · 1848–1914",
+        "start": 1848,
+        "end": 1914,
+        "sourceMeaning": "Explicit collection range; the station building dates to 1900.",
+        "pageRefs": [
+          35
+        ]
+      },
+      {
+        "label": "D-Day coast · 1944",
+        "start": 1944,
+        "end": 1944,
+        "sourceMeaning": "Explicit campaign date, with postwar commemoration described separately.",
+        "pageRefs": [
+          36
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L06-02",
+        "name": "Sainte-Chapelle",
+        "why": "Glass and acquired relics express royal sacred prestige.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "placeId": "L06-06",
+        "name": "Versailles: palace, gardens and Trianon choices",
+        "why": "Ceremony and garden planning display court authority.",
+        "pageRefs": [
+          34
+        ]
+      },
+      {
+        "placeId": "L06-08",
+        "name": "Conciergerie",
+        "why": "One building records royal power, revolutionary justice and terror.",
+        "pageRefs": [
+          34
+        ]
+      },
+      {
+        "placeId": "L06-10",
+        "name": "Musée d'Orsay",
+        "why": "Modern painting sits inside a former railway station.",
+        "pageRefs": [
+          35
+        ]
+      },
+      {
+        "placeId": "L06-17",
+        "name": "D-Day coast: selected beaches, remains and cemetery",
+        "why": "Terrain and personal lives ground the history of 1944.",
+        "pageRefs": [
+          36
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Compare medieval sacred prestige with Versailles's later court world.",
+      "Read revolution and the modern city through buildings and selected collections.",
+      "Choose a Normandy emphasis: medieval/cross-Channel, wartime memory or painting coast.",
+      "Treat the Loire as a replacement regional option rather than an added circuit."
+    ],
+    "routeOptions": [
+      {
+        "label": "Paris and selected Normandy",
+        "hops": [
+          "Paris",
+          "Rouen",
+          "Caen / Bayeux"
+        ],
+        "note": "A western continuation or painting-coast branch requires deliberate selection."
+      },
+      {
+        "label": "Paris and Loire alternative",
+        "hops": [
+          "Paris",
+          "Amboise / selected Loire châteaux"
+        ],
+        "note": "This replaces much of Normandy with Renaissance court and landscape study."
+      }
+    ],
+    "coverageThemes": [
+      "Gothic Christianity",
+      "Kingship",
+      "Revolution",
+      "Urban modernity",
+      "Changing painting",
+      "War and memory"
+    ],
+    "cautions": [
+      "The full French candidate list exceeds ten days and represents only part of France.",
+      "The PDF's museum and loan availability notes are dated research observations; verify them before selecting actual dates.",
+      "Roman/medieval southern France and Burgundian courts remain substantial geographic gaps."
+    ],
+    "gapPageRefs": [
+      81,
+      82
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 6,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 33,
+      "end": 37
+    },
+    "pageRefs": [
+      33,
+      34,
+      35,
+      36,
+      37
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Cluny's Roman baths and early Christian objects bridge Roman urbanism to medieval France.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "Relics acquired from the eastern Christian world connect royal Paris to Constantinople; sacred buildings communicate political authority in both contexts.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 4,
+        "text": "Norman origins and maritime mobility connect Scandinavia to northern France.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Royal French collecting and Loire Renaissance courts connect directly with Italian artists and forms.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Compare centralized monarchies, Catholic patronage and later political revolutions.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Northern painting, trade, bourgeois life and modern art networks link France with the Low Countries.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Versailles provides a model and point of contrast for Habsburg and Central European courts.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Norman conquest, Hundred Years' War, maritime encounters and 1944 create repeated cross-Channel connections.",
+        "pageRefs": [
+          33
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Revolution, Napoleon, national urbanism and twentieth-century war connect to Berlin and Poland.",
+        "pageRefs": [
+          33
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "7": {
+    "title": "Florence–Tuscany–Venice",
+    "kicker": "CIVIC WEALTH & ARTISTIC EXPERIMENT",
+    "hook": "A civic square, a cathedral dome, a telescope and a Venetian mosaic show wealth turning into different ways of making and knowing.",
+    "storyBeats": [
+      {
+        "title": "A city funds its image",
+        "text": "Florence's cathedral complex ties engineering to collective ambition and artistic competition. Palazzo Vecchio records the movement from communal government toward Medici rule. Uffizi paintings place mythological bodies and new representations of space beside devotional images, all shaped by patrons and institutions.",
+        "pageRefs": [
+          38,
+          39
+        ],
+        "placeIds": [
+          "L07-03",
+          "L07-08",
+          "L07-01"
+        ],
+        "timeLabel": "Medieval and Renaissance Florence"
+      },
+      {
+        "title": "Looking becomes a craft",
+        "text": "Sculpture, painting and instruments belong in the same inquiry. At Museo Galileo, telescopes and measuring devices join mathematical ideas to skilled manufacture and court patronage. Tuscan civic places and cultivated landscapes provide settings beyond the museum room for this exchange of knowledge and resources.",
+        "pageRefs": [
+          38,
+          40
+        ],
+        "placeIds": [
+          "L07-11"
+        ],
+        "timeLabel": "Sixteenth–eighteenth-century instruments"
+      },
+      {
+        "title": "Venice has a parallel Renaissance",
+        "text": "St Mark's gold mosaics and transferred objects connect sacred identity to Byzantine inheritance, commerce and conquest. Painting, printing, trading communities and the lagoon give Venice its own account of artistic life. Comparing it with Florence makes the Renaissance a set of connected urban histories.",
+        "pageRefs": [
+          38,
+          40,
+          41
+        ],
+        "placeIds": [
+          "L07-17"
+        ],
+        "timeLabel": "Medieval and Renaissance Venice; later interpretation"
+      }
+    ],
+    "takeaway": "Follow who paid for images and knowledge, then compare the civic and maritime worlds in which they were made.",
+    "chapterQuestions": [
+      "How did commercial cities turn wealth, competition and classical learning into art and new ways of knowing?",
+      "What differs between a Florentine civic commission and a Venetian sacred or maritime object?"
+    ],
+    "geographySummary": "Florence and Venice are the two main city anchors, with one selected Tuscan city or countryside cluster between them.",
+    "geoHops": [
+      "Florence",
+      "One Tuscan cluster",
+      "Venice"
+    ],
+    "chronologySummary": "Medieval communes and devotional culture → Renaissance civic and merchant patronage → princely rule, scientific instruments and maritime art → living cultivated landscapes.",
+    "periods": [
+      {
+        "label": "Florentine cathedral complex · eleventh–sixteenth centuries",
+        "start": 1000,
+        "end": 1600,
+        "sourceMeaning": "Rounded span for a multi-part ensemble and its objects, not one construction campaign.",
+        "pageRefs": [
+          39
+        ]
+      },
+      {
+        "label": "Civic Florence · thirteenth–sixteenth centuries",
+        "start": 1200,
+        "end": 1600,
+        "sourceMeaning": "Rounded source range for Palazzo Vecchio and Piazza della Signoria.",
+        "pageRefs": [
+          39
+        ]
+      },
+      {
+        "label": "Scientific instruments · sixteenth–eighteenth centuries",
+        "start": 1500,
+        "end": 1800,
+        "sourceMeaning": "Rounded collection period from Museo Galileo's source entry.",
+        "pageRefs": [
+          40
+        ]
+      },
+      {
+        "label": "St Mark's layers · ninth–sixteenth centuries",
+        "start": 800,
+        "end": 1600,
+        "sourceMeaning": "Rounded source span for the basilica's accumulated fabric and artistic history.",
+        "pageRefs": [
+          40
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L07-03",
+        "name": "Cathedral, Baptistery and Opera del Duomo Museum",
+        "why": "Cathedral building joins engineering and civic artistic competition.",
+        "pageRefs": [
+          39
+        ]
+      },
+      {
+        "placeId": "L07-08",
+        "name": "Palazzo Vecchio and Piazza della Signoria",
+        "why": "Public rooms and sculptures record communal and dynastic authority.",
+        "pageRefs": [
+          39
+        ]
+      },
+      {
+        "placeId": "L07-01",
+        "name": "Uffizi Galleries",
+        "why": "Patronage shapes bodies, space, mythology and devotion.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "placeId": "L07-11",
+        "name": "Museo Galileo",
+        "why": "Observation depends on instruments, craftsmanship and patronage.",
+        "pageRefs": [
+          40
+        ]
+      },
+      {
+        "placeId": "L07-17",
+        "name": "St Mark’s Basilica",
+        "why": "Byzantine objects connect Venetian admiration, commerce and appropriation.",
+        "pageRefs": [
+          40
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Read Florence's civic and cathedral settings before selecting museum depth.",
+      "Compare devotional, civic and dynastic commissions.",
+      "Choose one Tuscan cluster for another city or cultivated landscape.",
+      "Continue to Venice for a parallel maritime account of art, printing and sacred identity."
+    ],
+    "routeOptions": [
+      {
+        "label": "Two cities and one Tuscan segment",
+        "hops": [
+          "Florence",
+          "Selected Tuscan cluster",
+          "Venice"
+        ],
+        "note": "The guide's selective ten-day structure."
+      },
+      {
+        "label": "Tuscan alternatives",
+        "hops": [
+          "Siena / Val d’Orcia",
+          "Pisa",
+          "San Gimignano"
+        ],
+        "note": "Southern and western branches compete; extensive lagoon visits add another choice."
+      }
+    ],
+    "coverageThemes": [
+      "Communal government",
+      "Merchant and court patronage",
+      "Painting and sculpture",
+      "Classical learning",
+      "Scientific craft",
+      "Byzantine and maritime exchange"
+    ],
+    "cautions": [
+      "The Renaissance develops from medieval institutions; it is not presented as a sudden escape from a dark age.",
+      "Distinguish museum originals from copies left in public places.",
+      "Adding every Tuscan city and lagoon island would crowd out the art and neighbourhood time."
+    ],
+    "gapPageRefs": [
+      85
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 7,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 38,
+      "end": 41
+    },
+    "pageRefs": [
+      38,
+      39,
+      40,
+      41
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Classical Roman sculpture and architecture become reference material for Renaissance artists; the papacy recruits the same artists trained in Tuscany.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "Venice inherits and appropriates Byzantine art and objects and remains entangled with Ottoman commerce and war.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Italian techniques, artists, and court culture spread into France; Paris collections allow comparison with their original settings.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Spanish royal collecting brings Venetian painting into the Prado, connecting Titian and court power across Europe.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Merchant wealth and workshops also shape the northern Renaissance; compare Italian perspective and sculpture with Netherlandish oil painting.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Humanist books, scientific instruments, and later collecting connect the Italian Renaissance to British intellectual and museum history.",
+        "pageRefs": [
+          38
+        ]
+      },
+      {
+        "legId": 15,
+        "text": "Venice’s maritime empire leaves buildings and political relationships along the Adriatic rather than ending at the lagoon.",
+        "pageRefs": [
+          38
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "8": {
+    "title": "Madrid and Castile",
+    "kicker": "COURT POWER & ITS CRITICS",
+    "hook": "A royal portrait, an in-situ El Greco and Guernica turn the representation of power into a question rather than a conclusion.",
+    "storyBeats": [
+      {
+        "title": "Castile has layered foundations",
+        "text": "Toledo holds Roman, Visigothic, Islamic, Jewish and Christian histories in the same city. Its buildings and collections reveal exchange alongside unequal power and expulsion. Segovia's engineering and fortified urban settings add another view of the territorial world that preceded Madrid's court.",
+        "pageRefs": [
+          42,
+          44,
+          45
+        ],
+        "placeIds": [
+          "L08-12",
+          "L08-17"
+        ],
+        "timeLabel": "Roman and medieval Iberian layers"
+      },
+      {
+        "title": "A monarchy collects Europe",
+        "text": "The Prado brings Venetian, Netherlandish and Spanish works into a royal collecting history. El Escorial concentrates monarchy, religion and knowledge; Las Descalzas adds royal women and religious communities as patrons. The scale of a court is also visible in the connections of its artists and objects.",
+        "pageRefs": [
+          42,
+          44
+        ],
+        "placeIds": [
+          "L08-01",
+          "L08-09"
+        ],
+        "timeLabel": "Fifteenth–nineteenth-century collecting; sixteenth–seventeenth-century patronage"
+      },
+      {
+        "title": "Paintings answer back",
+        "text": "Velázquez and Goya complicate royal grandeur; El Greco's painting remains in its commissioned Toledo church. At the Reina Sofía, Guernica carries the sequence into civilian suffering and modern political violence. Salamanca adds a university setting for learning and debates over justice and conquest.",
+        "pageRefs": [
+          42,
+          44,
+          45
+        ],
+        "placeIds": [
+          "L08-14",
+          "L08-02",
+          "L08-20"
+        ],
+        "timeLabel": "Sixteenth-century El Greco; twentieth-century art and older university traditions"
+      }
+    ],
+    "takeaway": "Ask how images legitimise authority, who commissions them and when art opens a space for criticism.",
+    "chapterQuestions": [
+      "How did diverse Iberian societies become a monarchy with global reach?",
+      "How do an original church setting, a royal collection and modern political art change your reading of an image?"
+    ],
+    "geographySummary": "Madrid is the principal base, with Toledo and Segovia as compact city satellites. El Escorial/Guadarrama or the western Ávila–Salamanca branch requires choosing an emphasis.",
+    "geoHops": [
+      "Madrid",
+      "Toledo",
+      "Segovia",
+      "El Escorial"
+    ],
+    "chronologySummary": "Roman and medieval Iberian layers → Castilian consolidation → global monarchy and collecting → artistic criticism → civil war and modern memory.",
+    "periods": [
+      {
+        "label": "Royal collecting through the Prado · fifteenth–nineteenth centuries",
+        "start": 1400,
+        "end": 1900,
+        "sourceMeaning": "Rounded artwork period; the collection's current location is distinct from an object's creation date.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "label": "Las Descalzas · sixteenth–seventeenth centuries",
+        "start": 1500,
+        "end": 1700,
+        "sourceMeaning": "Rounded source period for convent patronage and its objects.",
+        "pageRefs": [
+          44
+        ]
+      },
+      {
+        "label": "El Greco at Santo Tomé · sixteenth century",
+        "start": 1500,
+        "end": 1600,
+        "sourceMeaning": "Rounded source century for the in-situ painting.",
+        "pageRefs": [
+          44
+        ]
+      },
+      {
+        "label": "Guernica and modern art · twentieth century",
+        "start": 1900,
+        "end": 2000,
+        "sourceMeaning": "Rounded source collection century; the PDF gives no narrower date in this entry.",
+        "pageRefs": [
+          42
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L08-01",
+        "name": "Museo del Prado",
+        "why": "Royal collecting reveals European connections and criticism of power.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "placeId": "L08-09",
+        "name": "Monastery of Las Descalzas Reales",
+        "why": "Women and religious communities participate in dynastic patronage.",
+        "pageRefs": [
+          44
+        ]
+      },
+      {
+        "placeId": "L08-14",
+        "name": "Santo Tomé: El Greco’s Burial of the Lord of Orgaz",
+        "why": "A Greek-born artist's Byzantine and Venetian inheritances meet a Toledo commission.",
+        "pageRefs": [
+          44
+        ]
+      },
+      {
+        "placeId": "L08-02",
+        "name": "Museo Reina Sofía",
+        "why": "Modern art responds to civilian suffering and political violence.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "placeId": "L08-20",
+        "name": "Salamanca University and old city",
+        "why": "A university supplies debates about learning, justice and conquest.",
+        "pageRefs": [
+          45
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Choose Madrid's royal, archaeological and modern-art comparisons.",
+      "Use Toledo to read layered Iberian cultures and in-situ art.",
+      "Compare Segovia's Roman engineering with later Castilian urban power.",
+      "Choose El Escorial/Guadarrama or a western Ávila–Salamanca branch."
+    ],
+    "routeOptions": [
+      {
+        "label": "Madrid and compact satellites",
+        "hops": [
+          "Madrid",
+          "Toledo",
+          "Segovia",
+          "El Escorial"
+        ],
+        "note": "A selective city-and-court structure for roughly ten days."
+      },
+      {
+        "label": "Western alternative",
+        "hops": [
+          "Ávila",
+          "Salamanca"
+        ],
+        "note": "Trade some Madrid or other branch time for universities, walls and religious heritage."
+      }
+    ],
+    "coverageThemes": [
+      "Layered Iberian communities",
+      "Royal collecting",
+      "Women as patrons",
+      "Religion and authority",
+      "Justice and conquest",
+      "Modern political art"
+    ],
+    "cautions": [
+      "Exchange and religious plurality coexisted with unequal power and expulsion.",
+      "Every medieval city, museum and mountain option exceeds an unhurried ten-day scope.",
+      "Barcelona and Catalonia's urban and modern architecture remain outside the Castilian core."
+    ],
+    "gapPageRefs": [
+      82
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 8,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 42,
+      "end": 45
+    },
+    "pageRefs": [
+      42,
+      43,
+      44,
+      45
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Segovia and Madrid’s archaeological collections continue the Roman provincial story outside Italy.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 5,
+        "text": "Toledo’s Islamic and Mudéjar layers and later Castilian expansion must be read alongside al-Andalus, not as an isolated Christian narrative.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "El Greco’s Greek and Venetian formation and Titian’s Spanish royal commissions connect Iberian art to Italy and the eastern Mediterranean.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 9,
+        "text": "Portuguese and Castilian maritime empires developed in competition and negotiated divisions of overseas claims.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "The Habsburg monarchy ruled the Low Countries, collected northern painting, and became entangled in Dutch revolt and independence.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Atlantic rivalry and royal collecting connect Spanish and British histories; Goya also bridges European war and political criticism.",
+        "pageRefs": [
+          42
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Guernica introduces the violence and artistic responses that recur in the twentieth-century Berlin-Poland chapter.",
+        "pageRefs": [
+          42
+        ]
+      }
+    ],
+    "candidateCount": 22,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "9": {
+    "title": "Portugal",
+    "kicker": "ATLANTIC NETWORKS & THEIR COSTS",
+    "hook": "A carved cloister, a rebuilt street grid and a vineyard terrace connect royal ambition to labour, trade and lives across the Atlantic.",
+    "storyBeats": [
+      {
+        "title": "The waterfront gathers the world",
+        "text": "Belém's monuments and maritime collections connect a Portuguese kingdom to navigation, religious imagery and long-distance exchange. Jerónimos turns ambition into carved architecture. Works and objects shaped by African and Asian connections widen the frame; the Lagos slavery exhibition makes coercion central to the account.",
+        "pageRefs": [
+          46,
+          47,
+          49
+        ],
+        "placeIds": [
+          "L09-01",
+          "L09-23"
+        ],
+        "timeLabel": "Fifteenth–sixteenth-century maritime worlds; later interpretation"
+      },
+      {
+        "title": "A capital rebuilds",
+        "text": "The earthquake opens a different Lisbon chapter. Baixa's planned grid and Praça do Comércio show state-led reconstruction after 1755. Older archaeology and the ruins of Carmo keep earlier urban layers in view, so reform becomes legible through what was retained, lost and reorganised.",
+        "pageRefs": [
+          47
+        ],
+        "placeIds": [
+          "L09-06"
+        ],
+        "timeLabel": "Reconstruction after 1755"
+      },
+      {
+        "title": "Export landscapes and later freedoms",
+        "text": "Porto's riverfront and the Douro's cultivated slopes belong to one commercial network. Terraces, producers and agricultural labour supply the countryside behind the export city. Fado and modern art add living culture; Aljube follows dictatorship, colonial war, resistance and democratic change.",
+        "pageRefs": [
+          46,
+          48,
+          49
+        ],
+        "placeIds": [
+          "L09-19",
+          "L09-10"
+        ],
+        "timeLabel": "Centuries of cultivation; twentieth-century resistance and 1974"
+      }
+    ],
+    "takeaway": "Follow a commodity, an object or a ship beyond the monument, including the labour and coercion that made the network possible.",
+    "chapterQuestions": [
+      "How did an Atlantic-facing kingdom connect continents through navigation, commerce, conquest and forced labour?",
+      "How do reconstruction, working landscapes and democratic memory extend a maritime account?"
+    ],
+    "geographySummary": "Lisbon–Sintra/coast and Porto–Douro form the principal route. Coimbra may be selected en route; central monasteries, Évora and Lagos are competing larger branches.",
+    "geoHops": [
+      "Lisbon",
+      "Sintra / coast",
+      "Porto",
+      "Douro Valley"
+    ],
+    "chronologySummary": "Medieval Islamic and Christian layers → maritime expansion and global exchange → earthquake reconstruction → export landscapes → dictatorship, anti-colonial struggles and democracy.",
+    "periods": [
+      {
+        "label": "Lagos slavery history · fifteenth century",
+        "start": 1400,
+        "end": 1500,
+        "sourceMeaning": "Rounded source century for the historical account; the museum's interpretation is modern.",
+        "pageRefs": [
+          49
+        ]
+      },
+      {
+        "label": "Jerónimos and Belém · sixteenth century",
+        "start": 1500,
+        "end": 1600,
+        "sourceMeaning": "Rounded source century for the royal maritime monuments.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "label": "Lisbon reconstruction · after 1755",
+        "start": 1755,
+        "end": null,
+        "sourceMeaning": "Explicit event and open-ended rebuilding context, not a completed construction date.",
+        "pageRefs": [
+          47
+        ]
+      },
+      {
+        "label": "Resistance, colonial war and the 1974 revolution",
+        "start": 1900,
+        "end": 2000,
+        "sourceMeaning": "Rounded twentieth-century source period; 1974 is explicitly identified within it.",
+        "pageRefs": [
+          48
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L09-01",
+        "name": "Jerónimos Monastery",
+        "why": "Royal religion gives maritime ambition monumental form.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "placeId": "L09-23",
+        "name": "Lagos Museum-Slavery Route",
+        "why": "Enslaved African lives expose the coercion behind oceanic commerce.",
+        "pageRefs": [
+          49
+        ]
+      },
+      {
+        "placeId": "L09-06",
+        "name": "Baixa Pombalina and Praça do Comércio",
+        "why": "The post-1755 grid makes state-led reconstruction visible.",
+        "pageRefs": [
+          47
+        ]
+      },
+      {
+        "placeId": "L09-19",
+        "name": "Alto Douro wine landscape",
+        "why": "Cultivation and labour connect countryside to export networks.",
+        "pageRefs": [
+          49
+        ]
+      },
+      {
+        "placeId": "L09-10",
+        "name": "Aljube Museum-Resistance and Freedom",
+        "why": "Dictatorship and anti-colonial struggle lead into democratic memory.",
+        "pageRefs": [
+          48
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Read Lisbon's older layers and Belém's maritime institutions.",
+      "Compare the planned reconstruction with the ruined and surviving fabric.",
+      "Choose Sintra/coast, then Porto with selected Douro time for the main corridor.",
+      "If slavery, monasteries or inland provincial history need depth, substitute a regional branch rather than adding all of them."
+    ],
+    "routeOptions": [
+      {
+        "label": "Two-city Atlantic route",
+        "hops": [
+          "Lisbon",
+          "Sintra",
+          "Porto",
+          "Douro"
+        ],
+        "note": "The guide's selective main structure."
+      },
+      {
+        "label": "Concentrated Lisbon and central Portugal",
+        "hops": [
+          "Lisbon",
+          "Tomar / Batalha",
+          "Selected central cluster"
+        ],
+        "note": "An alternative emphasis; Évora and far-southern Lagos require their own geographic choice."
+      }
+    ],
+    "coverageThemes": [
+      "Navigation",
+      "Africa and Asia exchange",
+      "Enslavement",
+      "Urban reconstruction",
+      "Working landscapes",
+      "Democracy and living culture"
+    ],
+    "cautions": [
+      "Coercion and colonial extraction belong alongside the wealth of maritime monuments.",
+      "All central, eastern and southern branches cannot fit the two-city ten-day core.",
+      "The PDF's access notes are dated observations and require checking against eventual dates."
+    ],
+    "gapPageRefs": [
+      85
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 9,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 46,
+      "end": 50
+    },
+    "pageRefs": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Évora and Lisbon archaeology show another Roman province and the afterlives of ancient urban sites.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 5,
+        "text": "Islamic Iberian architecture and the Christian conquest of Lisbon connect Portugal to the wider al-Andalus chapter.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Humanism, navigation instruments and Italian-derived artistic forms develop through cross-border exchange.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Castile and Portugal compete, negotiate overseas claims and temporarily share a monarch; Batalha supplies an earlier independence story.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Oceanic commerce, specialist craft, colonial violence and financial networks can be compared with Dutch maritime expansion.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Atlantic trade and the port-wine economy connect Portugal to Britain; museums can compare how each narrates empire.",
+        "pageRefs": [
+          46
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Dictatorship, resistance and democratic memory connect the Aljube story with twentieth-century European chapters without assuming identical regimes.",
+        "pageRefs": [
+          46
+        ]
+      }
+    ],
+    "candidateCount": 25,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "10": {
+    "title": "Belgium–Netherlands",
+    "kicker": "PICTURES, PRINT & WATER",
+    "hook": "A painted panel, a printing press and a canal share a question: how did northern towns organise wealth and circulate ideas?",
+    "storyBeats": [
+      {
+        "title": "Merchants and sacred pictures",
+        "text": "Flemish market squares, belfries and religious communities place urban commerce beside civic power. The Ghent Altarpiece joins close observation to Christian symbolism and patronage. Movement, conflict and conservation later became part of its material history.",
+        "pageRefs": [
+          51,
+          52
+        ],
+        "placeIds": [
+          "L10-04",
+          "L10-01"
+        ],
+        "timeLabel": "Medieval towns and the Ghent Altarpiece, 1432"
+      },
+      {
+        "title": "Belief changes the market",
+        "text": "Plantin-Moretus makes the circulation of books and ideas visible through presses, type and a surviving workshop. Religious conflict and Habsburg rule help frame the region's later division. Southern Catholic commissions and Dutch civic and private patrons offer different settings for artists and institutions.",
+        "pageRefs": [
+          51,
+          52,
+          53
+        ],
+        "placeIds": [
+          "L10-07"
+        ],
+        "timeLabel": "Sixteenth–eighteenth-century print and religious networks"
+      },
+      {
+        "title": "The water city reaches overseas",
+        "text": "Amsterdam's planned canals and merchant houses connect prosperity to organised urban building. Pictures and maritime objects must also be read through colonial violence and slavery. Kinderdijk, modern barriers and Rotterdam's port reveal the continuing collective work behind a landscape often seen only as scenery.",
+        "pageRefs": [
+          51,
+          53,
+          54,
+          55
+        ],
+        "placeIds": [
+          "L10-14",
+          "L10-15",
+          "L10-23"
+        ],
+        "timeLabel": "Sixteenth–seventeenth-century urban growth; continuing water management"
+      }
+    ],
+    "takeaway": "Follow how patronage, print, commerce and water management join private wealth to public institutions.",
+    "chapterQuestions": [
+      "How did commerce, religious division, art, science and overseas power transform the Low Countries?",
+      "Who produced the wealth pictured in a gallery or built into a merchant street?"
+    ],
+    "geographySummary": "A Flemish base, selected Antwerp or Brussels, and Amsterdam form the main structure. The Hague–Delft, Haarlem and Rotterdam's water/port region are competing branches.",
+    "geoHops": [
+      "Ghent / Bruges",
+      "Antwerp or Brussels",
+      "Amsterdam"
+    ],
+    "chronologySummary": "Medieval mercantile towns → Burgundian and northern Renaissance patronage → Habsburg rule and religious conflict → Dutch Republic and oceanic trade → modern water systems, art and memory.",
+    "periods": [
+      {
+        "label": "Ghent Altarpiece · 1432",
+        "start": 1432,
+        "end": 1432,
+        "sourceMeaning": "Explicit artwork date, separate from later movement and conservation.",
+        "pageRefs": [
+          52
+        ]
+      },
+      {
+        "label": "Plantin-Moretus · sixteenth–eighteenth centuries",
+        "start": 1500,
+        "end": 1800,
+        "sourceMeaning": "Rounded period of workshop and collection history stated in the PDF.",
+        "pageRefs": [
+          52
+        ]
+      },
+      {
+        "label": "Amsterdam canal expansion · sixteenth–seventeenth centuries onward",
+        "start": 1500,
+        "end": 1700,
+        "sourceMeaning": "Rounded principal urban period; subsequent use and adaptation continue.",
+        "pageRefs": [
+          53
+        ]
+      },
+      {
+        "label": "Rotterdam and contemporary water engineering",
+        "start": 1900,
+        "end": null,
+        "sourceMeaning": "Rounded twentieth-century start for the modern source grouping, continuing into the present.",
+        "pageRefs": [
+          54,
+          55
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L10-04",
+        "name": "St Bavo’s Cathedral and the Ghent Altarpiece",
+        "why": "Civic patronage and theology meet northern Renaissance observation.",
+        "pageRefs": [
+          52
+        ]
+      },
+      {
+        "placeId": "L10-07",
+        "name": "Museum Plantin-Moretus",
+        "why": "Printing tools make entrepreneurship and knowledge networks tangible.",
+        "pageRefs": [
+          52
+        ]
+      },
+      {
+        "placeId": "L10-14",
+        "name": "Amsterdam canal ring and merchant streets",
+        "why": "Canals reveal deliberate commercial urban expansion.",
+        "pageRefs": [
+          53
+        ]
+      },
+      {
+        "placeId": "L10-15",
+        "name": "Rijksmuseum",
+        "why": "Civic and private patrons appear alongside colonial histories.",
+        "pageRefs": [
+          53
+        ]
+      },
+      {
+        "placeId": "L10-23",
+        "name": "Kinderdijk windmills and polder landscape",
+        "why": "Channels and mills form a collective water-management system.",
+        "pageRefs": [
+          55
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Begin with a Flemish town and its northern painting.",
+      "Choose Antwerp's print/Baroque account or Brussels's civic and modern branch.",
+      "Compare Amsterdam's canals, civic pictures and maritime evidence.",
+      "Select one water, science or painting excursion instead of multiplying bases."
+    ],
+    "routeOptions": [
+      {
+        "label": "Selected Low Countries corridor",
+        "hops": [
+          "Ghent or Bruges",
+          "Antwerp or Brussels",
+          "Amsterdam"
+        ],
+        "note": "Two or three bases and selected excursions fit the guide's ten-day comparison."
+      },
+      {
+        "label": "Competing Dutch branches",
+        "hops": [
+          "The Hague / Delft",
+          "Haarlem",
+          "Rotterdam / Kinderdijk / Maeslant"
+        ],
+        "note": "Choose art, science or water-and-port engineering as the extra emphasis."
+      }
+    ],
+    "coverageThemes": [
+      "Mercantile institutions",
+      "Northern painting",
+      "Printing and science",
+      "Religious division",
+      "Colonial histories",
+      "Hydraulic landscapes"
+    ],
+    "cautions": [
+      "The 24 entries are not a proposed list of ten-day bookings.",
+      "Brussels, Antwerp and Rotterdam offer different emphases that require selection.",
+      "Baltic and wider Polish-Lithuanian trade histories remain a distinct corridor beyond this chapter."
+    ],
+    "gapPageRefs": [
+      83
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 10,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 51,
+      "end": 55
+    },
+    "pageRefs": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "connectedLegs": [
+      {
+        "legId": 6,
+        "text": "French Gothic and Burgundian connections; Paris and Belgian modern art; Van Gogh’s French development.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Compare Italian and northern Renaissance techniques and merchant patronage; Venice and Amsterdam offer different water-city systems.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Spanish Habsburg rule and Catholic-Protestant conflict illuminate the southern/northern division.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 9,
+        "text": "Dutch maritime networks interact with and compete against Portuguese routes and empire.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Habsburg dynastic collections and Vienna’s Bruegel holdings reveal that artworks crossed political borders.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Maritime rivalry, science, industrialization and imperial collecting connect the North Sea worlds.",
+        "pageRefs": [
+          51
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Occupied cities, Holocaust memory, looted art and reconstruction supply the twentieth-century sequel.",
+        "pageRefs": [
+          51
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "11": {
+    "title": "Prague–Vienna–Budapest",
+    "kicker": "IMPERIAL CITIES & NEW IDENTITIES",
+    "hook": "A Gothic royal church, a court garden and a historicist parliament make one imperial region’s different claims to authority visible.",
+    "storyBeats": [
+      {
+        "title": "Bohemian kingship and urban communities",
+        "text": "Prague's castle and St Vitus connect local kingship to Charles IV's imperial city and pan-European craftsmanship. The Hussite challenge adds religious contest to the account. Josefov's synagogues, ritual objects and cemetery stones place centuries of Jewish urban life beside later persecution and memory.",
+        "pageRefs": [
+          56,
+          57
+        ],
+        "placeIds": [
+          "L11-02",
+          "L11-04"
+        ],
+        "timeLabel": "Fourteenth-century Gothic beginning; medieval–modern community histories"
+      },
+      {
+        "title": "Vienna stages and questions the court",
+        "text": "Schönbrunn's rooms and garden axes organise Habsburg ceremony; collections and musical institutions give court culture other forms. Around 1900, Secession artists connected painting, architecture, design and music through new collaborations. Freud's museum adds another kind of intellectual history to the city.",
+        "pageRefs": [
+          57,
+          58
+        ],
+        "placeIds": [
+          "L11-09",
+          "L11-12"
+        ],
+        "timeLabel": "Seventeenth–nineteenth-century court; modernism around 1900"
+      },
+      {
+        "title": "Budapest shows another capital",
+        "text": "Roman Aquincum and an Ottoman bath sit within Hungary's layered account. The Parliament combines nineteenth-century political identity with much older royal regalia. Read these cities through imperial collapse and twentieth-century conflict while preserving their art, neighbourhoods, gardens and living culture.",
+        "pageRefs": [
+          56,
+          59,
+          60
+        ],
+        "placeIds": [
+          "L11-17",
+          "L11-21",
+          "L11-22"
+        ],
+        "timeLabel": "Roman and Ottoman layers; late nineteenth–early twentieth-century parliament"
+      }
+    ],
+    "takeaway": "Compare imperial authority with local institutions, artistic dissent and the older symbols reused by modern states.",
+    "chapterQuestions": [
+      "How did a diverse imperial region create great cities, art, music and ideas, then fragment into modern states?",
+      "Which older forms and symbols were reused to express a newer political identity?"
+    ],
+    "geographySummary": "Prague, Vienna and Budapest form a capital corridor with three city bases and immediate urban branches.",
+    "geoHops": [
+      "Prague",
+      "Vienna",
+      "Budapest"
+    ],
+    "chronologySummary": "Bohemian and Hungarian medieval kingdoms → Habsburg and Ottoman encounters → dual-capital Austria-Hungary → modernism and imperial collapse → twentieth-century lives and memory.",
+    "periods": [
+      {
+        "label": "St Vitus · fourteenth century onward",
+        "start": 1300,
+        "end": null,
+        "sourceMeaning": "Rounded source century for the medieval beginning, with later completion left open.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "label": "Schönbrunn · seventeenth–nineteenth centuries",
+        "start": 1600,
+        "end": 1900,
+        "sourceMeaning": "Broad source ensemble period, not a single construction date.",
+        "pageRefs": [
+          57
+        ]
+      },
+      {
+        "label": "Vienna modernism · around 1900",
+        "start": 1900,
+        "end": 1900,
+        "sourceMeaning": "Approximate anchor supplied by the source; a point does not imply one year of activity.",
+        "pageRefs": [
+          58
+        ]
+      },
+      {
+        "label": "Parliament · late nineteenth–early twentieth century",
+        "start": 1800,
+        "end": 2000,
+        "sourceMeaning": "Wide century-based display bounds; the PDF narrows the main building to the late/early parts.",
+        "pageRefs": [
+          59
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L11-02",
+        "name": "St Vitus Cathedral",
+        "why": "Gothic craft connects Bohemia to imperial and later national identities.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "placeId": "L11-04",
+        "name": "Josefov: synagogues, Old Jewish Cemetery and Pinkas memorial",
+        "why": "Community life gives depth to Jewish remembrance.",
+        "pageRefs": [
+          57
+        ]
+      },
+      {
+        "placeId": "L11-09",
+        "name": "Schönbrunn Palace and gardens",
+        "why": "Rooms and gardens stage Habsburg court power.",
+        "pageRefs": [
+          57
+        ]
+      },
+      {
+        "placeId": "L11-12",
+        "name": "Secession building and Leopold Museum branch",
+        "why": "Modernism develops through collaborating artistic institutions.",
+        "pageRefs": [
+          58
+        ]
+      },
+      {
+        "placeId": "L11-17",
+        "name": "Hungarian Parliament and Holy Crown",
+        "why": "A modern parliament reuses medieval symbols of legitimacy.",
+        "pageRefs": [
+          59
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Use Prague for Bohemian kingship, religion and community history.",
+      "Compare Vienna's court spaces with its collecting, music and modernist institutions.",
+      "Continue to Budapest for Hungarian, Roman and Ottoman layers and the second-capital question.",
+      "Reduce to two cities if either needs sustained depth."
+    ],
+    "routeOptions": [
+      {
+        "label": "Three-capital comparison",
+        "hops": [
+          "Prague",
+          "Vienna",
+          "Budapest"
+        ],
+        "note": "Three substantial city stays already fill a ten-day trip."
+      },
+      {
+        "label": "Two cities in depth",
+        "hops": [
+          "Choose two of Prague / Vienna / Budapest"
+        ],
+        "note": "The guide treats a reduced corridor as a legitimate route choice."
+      }
+    ],
+    "coverageThemes": [
+      "Dynastic government",
+      "Jewish continuity",
+      "Ottoman encounters",
+      "Collecting and music",
+      "Modernism",
+      "Imperial collapse"
+    ],
+    "cautions": [
+      "Do not bolt Kraków, Salzburg or another capital onto this corridor.",
+      "Museum-heavy choices compete within each city; retain time for gardens, the Danube and live music.",
+      "Roma and other ordinary-life perspectives need fuller interpretation; Brno is a possible separate branch, not an automatic fourth base."
+    ],
+    "gapPageRefs": [
+      84
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 11,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 56,
+      "end": 60
+    },
+    "pageRefs": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Aquincum and sacred authority return to Roman imperial and Christian material culture.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "Ottoman rule and the Habsburg-Ottoman frontier provide a second perspective on Istanbul’s empire.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Gothic monarchy, dynastic palaces and modern-art networks connect French and Central European developments.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Italian artists, Renaissance exchange and opera interacted with northern courts and patrons.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 8,
+        "text": "Habsburg dynastic connections explain shared political and collecting histories without merging Spanish and Austrian branches.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Vienna’s Bruegel collection and Art Nouveau comparisons connect the Low Countries to Central Europe.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 12,
+        "text": "Tyrol, Salzburg, Alpine routes and river geography connect capital histories to the mountains.",
+        "pageRefs": [
+          56
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Imperial collapse, nationalism, Nazi persecution and postwar systems are the later political sequel.",
+        "pageRefs": [
+          56
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "12": {
+    "title": "Alpine Europe",
+    "kicker": "MOUNTAIN BARRIER & HUMAN CROSSING",
+    "hook": "A prehistoric coat, a monastery manuscript and a railway viaduct show that the mountains have long been inhabited, organised and crossed.",
+    "storyBeats": [
+      {
+        "title": "People were already here",
+        "text": "Ötzi's body, clothing and equipment make Copper Age adaptation tangible. Later towns, monasteries, regional powers and civic communities show inhabited mountains rather than empty scenery. At St Gall, manuscripts and the monastery plan join sacred architecture to the organisation of learning and daily life.",
+        "pageRefs": [
+          61,
+          63,
+          65
+        ],
+        "placeIds": [
+          "L12-23",
+          "L12-12"
+        ],
+        "timeLabel": "Copper Age adaptation; medieval monastic learning"
+      },
+      {
+        "title": "A landscape takes work",
+        "text": "Lavaux's terraces link monastic organisation, labour and regional economies to cultivated slopes. Village interiors, language and craft keep local societies visible. Glacial landforms and habitats belong to longer environmental histories, with contemporary change forming part of the present encounter.",
+        "pageRefs": [
+          61,
+          62,
+          63,
+          64,
+          65
+        ],
+        "placeIds": [
+          "L12-10"
+        ],
+        "timeLabel": "Eleventh-century cultivation onward; geological and present environmental time"
+      },
+      {
+        "title": "Engineering changes the crossing",
+        "text": "Transport collections and the Albula–Bernina railway connect difficult terrain to viaducts, tunnels and new patterns of mobility. Railways, cableways and tourism altered access and local economies. The journey's views become more meaningful when the technologies and communities supporting them remain in sight.",
+        "pageRefs": [
+          61,
+          64
+        ],
+        "placeIds": [
+          "L12-02",
+          "L12-15"
+        ],
+        "timeLabel": "Nineteenth-century mobility onward; early twentieth-century railway"
+      }
+    ],
+    "takeaway": "Read a mountain journey through geology, residents, cultivation and transport together, while keeping their very different timescales visible.",
+    "chapterQuestions": [
+      "How did Europe live with, cross, interpret and transform its mountain barrier?",
+      "What work, knowledge and local institutions sit behind a scenic view?"
+    ],
+    "geographySummary": "Choose one corridor: central-western Switzerland, eastern Switzerland, or Salzburg–Innsbruck/Tirol. South Tyrol/Dolomites is a replacement branch or separate alternative.",
+    "geoHops": [
+      "Lucerne",
+      "Bernese Oberland",
+      "One selected lake or village cluster"
+    ],
+    "chronologySummary": "Geological deep time → prehistoric crossing and adaptation → monasteries and civic communities → cultivated slopes → railways, tourism and environmental change.",
+    "periods": [
+      {
+        "label": "Geological landscapes",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The guide uses deep geological time without numerical bounds.",
+        "pageRefs": [
+          61,
+          62,
+          65
+        ]
+      },
+      {
+        "label": "Ötzi · Copper Age",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The source supplies the archaeological period but no year range.",
+        "pageRefs": [
+          65
+        ]
+      },
+      {
+        "label": "Lavaux cultivation · eleventh century onward",
+        "start": 1000,
+        "end": null,
+        "sourceMeaning": "Rounded source century with continuing cultivation, not a fixed civilization span.",
+        "pageRefs": [
+          63
+        ]
+      },
+      {
+        "label": "Mountain railways · early twentieth century",
+        "start": 1900,
+        "end": 2000,
+        "sourceMeaning": "A full-century display window; the PDF identifies the railway's main period as early in that century.",
+        "pageRefs": [
+          64
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L12-23",
+        "name": "South Tyrol Museum of Archaeology: Ötzi",
+        "why": "Tools and clothing reveal prehistoric Alpine adaptation.",
+        "pageRefs": [
+          65
+        ]
+      },
+      {
+        "placeId": "L12-12",
+        "name": "Abbey of St Gall and library",
+        "why": "Monastic spaces organise knowledge as well as worship.",
+        "pageRefs": [
+          63
+        ]
+      },
+      {
+        "placeId": "L12-10",
+        "name": "Lavaux vineyard terraces",
+        "why": "Cultivated terraces connect labour, institutions and landscape.",
+        "pageRefs": [
+          63
+        ]
+      },
+      {
+        "placeId": "L12-02",
+        "name": "Swiss Museum of Transport",
+        "why": "Vehicles and mobility systems explain the technologies beneath the journey.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "placeId": "L12-15",
+        "name": "Albula-Bernina railway and Engadine villages",
+        "why": "Viaducts and tunnels connect regional societies across difficult terrain.",
+        "pageRefs": [
+          64
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Choose one coherent Alpine corridor before selecting attractions.",
+      "Pair a town or cultural collection with its surrounding landscape.",
+      "Read transport and cultivation as part of the scenery.",
+      "Retain weather flexibility and distinguish supported viewpoints from optional mountain activity."
+    ],
+    "routeOptions": [
+      {
+        "label": "Central-western Switzerland",
+        "hops": [
+          "Lucerne",
+          "Bernese Oberland",
+          "Bern or selected Lake Geneva extension"
+        ],
+        "note": "Choose extensions rather than combining the whole west."
+      },
+      {
+        "label": "Eastern Switzerland",
+        "hops": [
+          "Zurich / St Gallen",
+          "Graubünden / Engadine",
+          "Bernina / Tirano"
+        ],
+        "note": "Select monastery branches within one eastern corridor."
+      },
+      {
+        "label": "Austrian or South Tyrol alternative",
+        "hops": [
+          "Salzburg",
+          "Innsbruck / Tirol",
+          "One nature base"
+        ],
+        "note": "Bolzano–Val Gardena can replace a nature block or define another corridor."
+      }
+    ],
+    "coverageThemes": [
+      "Geological time",
+      "Prehistoric life",
+      "Monastic knowledge",
+      "Cultivated landscapes",
+      "Language and craft",
+      "Engineering and environmental change"
+    ],
+    "cautions": [
+      "This is a cross-cutting landscape chapter, not one civilization or century.",
+      "Western Switzerland, eastern Switzerland and Tirol–Salzburg are alternatives, not one giant loop.",
+      "Zermatt and the Dolomites are substantial replacement branches; weather flexibility is part of route design."
+    ],
+    "gapPageRefs": [
+      85
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 12,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 61,
+      "end": 65
+    },
+    "pageRefs": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "connectedLegs": [
+      {
+        "legId": 1,
+        "text": "Ötzi introduces prehistoric European material life before the classical chapter.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 2,
+        "text": "Early Christian transmission and north-south routes help bridge antiquity and medieval Europe.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Religious conflict, regional power and cultivated landscapes connect Geneva and Savoy to French history.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Alpine passes and artistic exchange connect Italy with northern Europe; South Tyrol straddles cultural worlds.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Compare mountain transport and land adaptation with Dutch hydraulic engineering and civic organization.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Tyrol’s Habsburg history and Salzburg’s music extend the capital narrative into regional societies.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Industrial technologies and Romantic art/literature helped create modern Alpine tourism.",
+        "pageRefs": [
+          61
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Reformation, modernism and shifting Central European borders connect religious and political changes to the mountain regions.",
+        "pageRefs": [
+          61
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "13": {
+    "title": "Britain",
+    "kicker": "FROM STONE CIRCLES TO INDUSTRIAL SYSTEMS",
+    "hook": "A stone circle, a meridian and an iron bridge connect coordinated ritual, global navigation and the changing organisation of work.",
+    "storyBeats": [
+      {
+        "title": "Before and beyond Roman Britain",
+        "text": "Wiltshire's circles, earthworks and burial landscapes put monumental engineering before literate empires. Roman provincial sites, Anglo-Saxon objects and York's Norse evidence then reveal several connected worlds. Britain's story changes when England and Scotland are read as interacting histories rather than one interchangeable setting.",
+        "pageRefs": [
+          66,
+          68,
+          69,
+          70
+        ],
+        "placeIds": [
+          "L13-12",
+          "L13-17"
+        ],
+        "timeLabel": "Neolithic–Bronze Age monuments; later Norse settlement"
+      },
+      {
+        "title": "Authority and knowledge share a city",
+        "text": "Westminster joins sacred kingship, parliamentary space and national remembrance. Greenwich's clocks, astronomy and navigation connect measurement to commerce, naval power and imperial administration. Museum collections bring distant material cultures to London, with acquisition and disputed ownership belonging to their histories.",
+        "pageRefs": [
+          66,
+          67
+        ],
+        "placeIds": [
+          "L13-04",
+          "L13-07",
+          "L13-01"
+        ],
+        "timeLabel": "Medieval–present authority; seventeenth–nineteenth-century science and collecting"
+      },
+      {
+        "title": "Production changes the landscape",
+        "text": "Bath and Edinburgh make Georgian urbanism and Enlightenment settings visible. Ironbridge and Manchester show resources, machines, workers and transport organised into new systems. Art, household and port histories make industrial and imperial change an account of communities as well as inventions.",
+        "pageRefs": [
+          66,
+          68,
+          69,
+          70
+        ],
+        "placeIds": [
+          "L13-19",
+          "L13-14",
+          "L13-22"
+        ],
+        "timeLabel": "Eighteenth–nineteenth-century industry and urban change"
+      }
+    ],
+    "takeaway": "Connect institutions and technologies to their effects on ordinary lives, landscapes and the objects held in museums.",
+    "chapterQuestions": [
+      "How did an island at the edge of Roman Europe become a centre of parliament, science, industry and global empire?",
+      "How did measurement and production alter work, movement and authority?"
+    ],
+    "geographySummary": "London is the common anchor. Choose either the Oxford–Wiltshire–Bath/Bristol southern branch or the York–Edinburgh northern branch.",
+    "geoHops": [
+      "London",
+      "Oxford",
+      "Wiltshire",
+      "Bath / Bristol"
+    ],
+    "chronologySummary": "Neolithic and Bronze Age monuments → Roman, Anglo-Saxon and Norse layers → Norman and Gothic institutions → early modern science and state → industry and empire → present interpretation.",
+    "periods": [
+      {
+        "label": "Stonehenge and Avebury · Neolithic–Bronze Age",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The source gives archaeological periods rather than numerical bounds.",
+        "pageRefs": [
+          68
+        ]
+      },
+      {
+        "label": "Westminster · medieval to present",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "An open cultural and institutional history; no chapter-wide medieval start date is supplied.",
+        "pageRefs": [
+          67
+        ]
+      },
+      {
+        "label": "Greenwich · seventeenth–nineteenth centuries",
+        "start": 1600,
+        "end": 1900,
+        "sourceMeaning": "Rounded source period for scientific and maritime institutions.",
+        "pageRefs": [
+          67
+        ]
+      },
+      {
+        "label": "Ironbridge · eighteenth–nineteenth centuries",
+        "start": 1700,
+        "end": 1900,
+        "sourceMeaning": "Rounded principal source period for the industrial landscape.",
+        "pageRefs": [
+          69
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L13-12",
+        "name": "Stonehenge and Avebury landscapes",
+        "why": "Monuments reveal coordinated prehistoric engineering and ritual.",
+        "pageRefs": [
+          68
+        ]
+      },
+      {
+        "placeId": "L13-04",
+        "name": "Westminster Abbey and the Westminster political landscape",
+        "why": "Kingship, parliament and remembrance accumulate in neighbouring spaces.",
+        "pageRefs": [
+          67
+        ]
+      },
+      {
+        "placeId": "L13-07",
+        "name": "Greenwich: Royal Observatory and maritime institutions",
+        "why": "Measurement connects navigation with global commerce and imperial power.",
+        "pageRefs": [
+          67
+        ]
+      },
+      {
+        "placeId": "L13-01",
+        "name": "British Museum: ancient, Iron Age, and early medieval galleries",
+        "why": "World collections raise questions about knowledge, authority and ownership.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "placeId": "L13-19",
+        "name": "Ironbridge Gorge",
+        "why": "Industrial systems reorganise resources, workers and transport.",
+        "pageRefs": [
+          69
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Use London for authority, measurement, art and collection histories.",
+      "Choose one regional branch with about three principal bases overall.",
+      "In the south, connect prehistoric Wiltshire to Roman and Georgian Bath.",
+      "In the north, compare York's layers with Edinburgh's Old and New Towns; choose one industrial or landscape substitution."
+    ],
+    "routeOptions": [
+      {
+        "label": "Southern version",
+        "hops": [
+          "London",
+          "Oxford",
+          "Wiltshire / Bath",
+          "Bristol"
+        ],
+        "note": "Select within the compact southwest and university branch."
+      },
+      {
+        "label": "Northern version",
+        "hops": [
+          "London",
+          "York",
+          "Edinburgh"
+        ],
+        "note": "Choose one northern, industrial or landscape stop, rather than the entire Midlands and north."
+      }
+    ],
+    "coverageThemes": [
+      "Prehistory",
+      "Provincial Rome",
+      "Sacred and parliamentary authority",
+      "Measurement",
+      "Industry and labour",
+      "Empire and collecting"
+    ],
+    "cautions": [
+      "The 24 candidates deliberately exceed ten days.",
+      "Wales, the Highlands, Ireland and Northern Ireland are not adequately covered.",
+      "Ireland's independent historical chapter requires its own time allocation rather than insertion into London–Edinburgh."
+    ],
+    "gapPageRefs": [
+      82,
+      83
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 13,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 66,
+      "end": 70
+    },
+    "pageRefs": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Roman Baths and Hadrian’s Wall test how Roman institutions changed in a distant province.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "legId": 4,
+        "text": "York’s Norse evidence connects Scandinavian seafaring and settlement to Britain.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Norman conquest, Gothic architecture, and cross-Channel politics connect directly to Normandy and northern France.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "legId": 10,
+        "text": "Trade, finance, collecting, maritime power, and painting invite comparison with the Low Countries.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "legId": 9,
+        "text": "Navigation and Atlantic empire connect Greenwich and British ports to Portugal’s maritime expansion.",
+        "pageRefs": [
+          66
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Industry, mass politics, war, and the transformation of twentieth-century European states carry forward into Germany and Poland.",
+        "pageRefs": [
+          66
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "14": {
+    "title": "Berlin–Poland",
+    "kicker": "PUBLIC LIFE, VIOLENCE & CIVIC RENEWAL",
+    "hook": "A royal hill, a border through a street and a shipyard place older cultural lives beside the forces that threatened and transformed them.",
+    "storyBeats": [
+      {
+        "title": "Begin with the lives that existed",
+        "text": "Kraków's royal and urban settings, painting collections, craft and Jewish communities establish histories before the twentieth century. Berlin's museums and Wittenberg's Reformation offer other institutional paths. These earlier lives and ideas give later violence a fuller historical frame.",
+        "pageRefs": [
+          71,
+          72,
+          73,
+          74
+        ],
+        "placeIds": [
+          "L14-13",
+          "L14-04"
+        ],
+        "timeLabel": "Medieval and early modern lives; later remembrance"
+      },
+      {
+        "title": "Power reaches the everyday",
+        "text": "Nazi institutions and Auschwitz-Birkenau require evidence, individual lives and respectful reflection. In Berlin, the Wall's structures and neighbourhood traces show an international boundary entering homes and daily movement. Jewish museums keep centuries of community life visible alongside persecution and remembrance.",
+        "pageRefs": [
+          72,
+          74,
+          75
+        ],
+        "placeIds": [
+          "L14-17",
+          "L14-08"
+        ],
+        "timeLabel": "Nazi persecution and genocide; Cold War division"
+      },
+      {
+        "title": "Cities rebuild and citizens act",
+        "text": "Warsaw's reconstructed centre and Dresden's rebuilding make preservation a deliberate public choice. Gdańsk's shipyard and Solidarity interpretation place workers and civil society among the actors of political change. Art, markets and nature give space to absorb memory while keeping the region larger than its catastrophes.",
+        "pageRefs": [
+          71,
+          73,
+          74,
+          75
+        ],
+        "placeIds": [
+          "L14-23",
+          "L14-20"
+        ],
+        "timeLabel": "Twentieth-century reconstruction and late-century civic action"
+      }
+    ],
+    "takeaway": "Read the evidence of violence carefully, alongside the long cultural lives, public choices and civic action that it affected.",
+    "chapterQuestions": [
+      "How did diverse societies produce national states, dictatorship, genocide, division, resistance and renewal?",
+      "What is original, reconstructed, absent or commemorated in the city you see?"
+    ],
+    "geographySummary": "Choose Berlin with two further bases: Kraków–Warsaw, Dresden–Kraków, or Gdańsk–Warsaw. Southern-Poland and mountain branches are substitutions.",
+    "geoHops": [
+      "Berlin",
+      "Kraków",
+      "Warsaw"
+    ],
+    "chronologySummary": "Royal, religious, Jewish and artistic worlds → Reformation and national public institutions → dictatorship and genocide → divided cities and socialist states → resistance, reconstruction and civic renewal.",
+    "periods": [
+      {
+        "label": "Royal and religious foundations",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The PDF uses medieval, Renaissance and later periods without one common date range.",
+        "pageRefs": [
+          71,
+          73
+        ]
+      },
+      {
+        "label": "Kraków occupation · 1939–1945",
+        "start": 1939,
+        "end": 1945,
+        "sourceMeaning": "Explicit source years for the Schindler Factory museum's occupation history.",
+        "pageRefs": [
+          74
+        ]
+      },
+      {
+        "label": "Nazi persecution and genocide",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The selected memorial entry identifies a historical context without numerical bounds.",
+        "pageRefs": [
+          74
+        ]
+      },
+      {
+        "label": "Cold War division",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The Berlin Wall entry supplies the period but no dates.",
+        "pageRefs": [
+          72
+        ]
+      },
+      {
+        "label": "Solidarity · late twentieth century",
+        "start": 1900,
+        "end": 2000,
+        "sourceMeaning": "A full-century display window; the source places the shipyard narrative in its late part.",
+        "pageRefs": [
+          75
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L14-13",
+        "name": "Wawel Royal Castle and Cathedral",
+        "why": "Royal and artistic networks establish a longer Polish history.",
+        "pageRefs": [
+          73
+        ]
+      },
+      {
+        "placeId": "L14-04",
+        "name": "Jewish Museum Berlin",
+        "why": "Jewish German lives extend far beyond persecution.",
+        "pageRefs": [
+          72
+        ]
+      },
+      {
+        "placeId": "L14-17",
+        "name": "Auschwitz-Birkenau Memorial and Museum",
+        "why": "Authentic sites and individual evidence support remembrance of genocide victims.",
+        "pageRefs": [
+          74
+        ]
+      },
+      {
+        "placeId": "L14-08",
+        "name": "Berlin Wall Memorial at Bernauer Straße",
+        "why": "A geopolitical boundary becomes an everyday neighbourhood restriction.",
+        "pageRefs": [
+          72
+        ]
+      },
+      {
+        "placeId": "L14-23",
+        "name": "Gdańsk Shipyard and European Solidarity Centre",
+        "why": "Workers and civil society turn an industrial place into a site of political change.",
+        "pageRefs": [
+          75
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Establish older cultural, religious and Jewish lives before the memory-heavy sequence.",
+      "Read Berlin's institutions and divided-city fabric with time for reflection.",
+      "Choose one Polish corridor and its civic, artistic and memorial evidence.",
+      "Balance major memory visits with ordinary urban life, art and nature."
+    ],
+    "routeOptions": [
+      {
+        "label": "Central and southern comparison",
+        "hops": [
+          "Berlin",
+          "Kraków",
+          "Warsaw"
+        ],
+        "note": "A substantial three-base corridor; Auschwitz and Wieliczka are selected southern branches."
+      },
+      {
+        "label": "Court and painting alternative",
+        "hops": [
+          "Berlin",
+          "Dresden",
+          "Kraków"
+        ],
+        "note": "Wittenberg can be a Reformation substitution within the Berlin/Saxony choice."
+      },
+      {
+        "label": "Baltic and civic action alternative",
+        "hops": [
+          "Berlin",
+          "Gdańsk",
+          "Warsaw"
+        ],
+        "note": "This changes the regional emphasis rather than adding every city."
+      }
+    ],
+    "coverageThemes": [
+      "Royal and urban culture",
+      "Jewish histories",
+      "Reformation",
+      "State violence and genocide",
+      "Cold War division",
+      "Labour and civic renewal"
+    ],
+    "cautions": [
+      "Auschwitz-Birkenau is a memorial and major learning visit requiring respectful pacing.",
+      "The guide does not equate German and Polish experiences or different European conflicts.",
+      "Dresden, Gdańsk, Kraków, Warsaw and the Tatras cannot all be added while retaining ten-day depth."
+    ],
+    "gapPageRefs": [
+      83,
+      85
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 14,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 71,
+      "end": 75
+    },
+    "pageRefs": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "connectedLegs": [
+      {
+        "legId": 10,
+        "text": "Dutch/Flemish painting and Baltic trade connect art collections and Gdańsk to commercial Europe.",
+        "pageRefs": [
+          71
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Central European dynasties, Jewish communities, imperial border changes, and artistic patronage continue into Poland and Germany.",
+        "pageRefs": [
+          71
+        ]
+      },
+      {
+        "legId": 6,
+        "text": "Nation-building, revolution, public museums, urban planning, and war invite comparison with France.",
+        "pageRefs": [
+          71
+        ]
+      },
+      {
+        "legId": 13,
+        "text": "Industry, empire, science, democracy, and mass politics developed along different paths in Britain and Germany.",
+        "pageRefs": [
+          71
+        ]
+      },
+      {
+        "legId": 15,
+        "text": "Multiethnic societies, border changes, persecution, socialist states, war memory, and reconstruction are comparable without equating distinct conflicts.",
+        "pageRefs": [
+          71
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  },
+  "15": {
+    "title": "Adriatic–Balkan crossroads",
+    "kicker": "LIVING LAYERS AT THE CROSSROADS",
+    "hook": "People still live within a Roman palace; a rebuilt bridge and a travelled manuscript ask how inherited places and cultures survive change.",
+    "storyBeats": [
+      {
+        "title": "The palace becomes a city",
+        "text": "Split's Peristyle, cellars, cathedral and residential streets turn an imperial complex into evidence of continuing adaptation. Trogir adds Venetian networks; Dubrovnik's walls, institutions and harbour belong to a distinct maritime republic. Earthquake, war and rebuilding complicate the appearance of untouched old towns.",
+        "pageRefs": [
+          77,
+          78
+        ],
+        "placeIds": [
+          "L15-08",
+          "L15-14"
+        ],
+        "timeLabel": "Late Roman fabric; medieval maritime cities and later rebuilding"
+      },
+      {
+        "title": "A different urban world inland",
+        "text": "Mostar's bridge, bazaars and domestic heritage connect Ottoman frontier institutions to later layers and reconstruction. Sarajevo's civic spaces and museum branches bring Ottoman, Jewish and Habsburg histories together. The Haggadah traces Iberian Jewish culture, diaspora movement and preservation across European crises.",
+        "pageRefs": [
+          79,
+          80
+        ],
+        "placeIds": [
+          "L15-17",
+          "L15-22"
+        ],
+        "timeLabel": "Ottoman and Habsburg layers; Jewish diaspora and modern preservation"
+      },
+      {
+        "title": "Landscapes and later publics",
+        "text": "Karst, rivers, islands and cultivated plains explain movement and livelihoods across the region. Slovenia offers another Roman and Habsburg setting, with Plečnik's civic designs creating symbolic capital spaces after imperial dissolution. Modern art and civilian memories extend the account while daily culture keeps conflict from defining the whole chapter.",
+        "pageRefs": [
+          76,
+          77,
+          78,
+          80
+        ],
+        "placeIds": [
+          "L15-02",
+          "L15-24"
+        ],
+        "timeLabel": "Interwar civic design; contemporary civilian memory"
+      }
+    ],
+    "takeaway": "Compare adaptation and reconstruction in inhabited places, following the communities and objects that crossed political borders.",
+    "chapterQuestions": [
+      "What happens where Roman, Christian, Venetian, Habsburg, Ottoman, Jewish and Yugoslav worlds overlap?",
+      "How can a reused building, a rebuilt bridge and a migrated manuscript tell different kinds of continuity?"
+    ],
+    "geographySummary": "Choose Dalmatia–Bosnia or Slovenia–north Croatia. A southern core links Split, Mostar and Sarajevo, with Dubrovnik selected only when pace permits.",
+    "geoHops": [
+      "Split",
+      "Mostar",
+      "Sarajevo"
+    ],
+    "chronologySummary": "Roman and early Christian layers → medieval maritime cities and Venetian connections → Ottoman and Habsburg urban worlds → imperial dissolution, Yugoslavia and later war → reconstruction and living culture.",
+    "periods": [
+      {
+        "label": "Split · late Roman–medieval–present",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "The source describes continuous urban adaptation without numerical chapter bounds.",
+        "pageRefs": [
+          77
+        ]
+      },
+      {
+        "label": "Maritime and Ottoman cities",
+        "start": null,
+        "end": null,
+        "sourceMeaning": "Distinct medieval, early modern and later civic histories; no single common date range is supplied.",
+        "pageRefs": [
+          78,
+          79
+        ]
+      },
+      {
+        "label": "Plečnik's Ljubljana · interwar twentieth century",
+        "start": 1900,
+        "end": 2000,
+        "sourceMeaning": "A full-century display window; the source specifies the interwar part rather than exact years.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "label": "Yugoslav and contemporary memories",
+        "start": 1900,
+        "end": null,
+        "sourceMeaning": "Rounded twentieth-century start for the source's WWII, socialist and later memory themes; contemporary testimony continues.",
+        "pageRefs": [
+          80
+        ]
+      }
+    ],
+    "anchors": [
+      {
+        "placeId": "L15-08",
+        "name": "Diocletian’s Palace and Split’s living old city",
+        "why": "An imperial complex becomes inhabited Christian and commercial urban fabric.",
+        "pageRefs": [
+          77
+        ]
+      },
+      {
+        "placeId": "L15-14",
+        "name": "Dubrovnik walls and historic city",
+        "why": "A distinct maritime republic complicates a Venetian-only coastal story.",
+        "pageRefs": [
+          78
+        ]
+      },
+      {
+        "placeId": "L15-17",
+        "name": "Mostar Old Bridge and Old Town",
+        "why": "Reconstruction makes heritage a continuing question of belonging.",
+        "pageRefs": [
+          79
+        ]
+      },
+      {
+        "placeId": "L15-22",
+        "name": "National Museum of Bosnia and Herzegovina and the Sarajevo Haggadah",
+        "why": "A manuscript connects Iberian culture, migration and preservation.",
+        "pageRefs": [
+          80
+        ]
+      },
+      {
+        "placeId": "L15-02",
+        "name": "Plečnik’s Ljubljana",
+        "why": "Public design gives a former Habsburg centre a new civic identity.",
+        "pageRefs": [
+          76
+        ]
+      }
+    ],
+    "recommendedSequence": [
+      "Choose the southern or northern regional corridor first.",
+      "In Dalmatia, compare inhabited Roman fabric with maritime civic institutions.",
+      "If continuing inland, connect Mostar's urban heritage to Sarajevo's multiple community histories.",
+      "Give landscapes, modern art and civilian testimony time within the selected corridor."
+    ],
+    "routeOptions": [
+      {
+        "label": "Dalmatia and Bosnia",
+        "hops": [
+          "Split",
+          "Mostar",
+          "Sarajevo"
+        ],
+        "note": "Dubrovnik can be selected if transport and pace permit; four southern bases require disciplined selection."
+      },
+      {
+        "label": "Slovenia and north Croatia",
+        "hops": [
+          "Ljubljana",
+          "One Slovenian landscape cluster",
+          "Plitvice",
+          "Split / Trogir"
+        ],
+        "note": "This is an alternative to the Bosnia-heavy route, not an addition to all southern bases."
+      }
+    ],
+    "coverageThemes": [
+      "Roman urban reuse",
+      "Maritime republics",
+      "Ottoman everyday institutions",
+      "Jewish diaspora",
+      "Habsburg and Yugoslav layers",
+      "Reconstruction and living landscapes"
+    ],
+    "cautions": [
+      "Cross-border land transfers and island timetables matter; the full region exceeds one ten-day journey.",
+      "Serbia, Romania, Bulgaria and wider Orthodox/Byzantine-Slavic histories are underrepresented.",
+      "Slovenian Alpine time overlaps chapter 12 and should be allocated once rather than duplicated."
+    ],
+    "gapPageRefs": [
+      83,
+      85
+    ],
+    "timeStart": null,
+    "timeEnd": null,
+    "boundsNote": "This regional learning chapter spans overlapping periods. The PDF does not give it one bounded lifespan; numeric period windows only translate explicit source years or centuries for display.",
+    "legId": 15,
+    "sourceTitle": "Europe Civilizations Atlas — 15 connected journeys",
+    "sourcePdf": "europe_civilizations_atlas.pdf",
+    "chapterPageRange": {
+      "start": 76,
+      "end": 80
+    },
+    "pageRefs": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "connectedLegs": [
+      {
+        "legId": 2,
+        "text": "Split and Salona extend Roman provincial and late-antique history into the Adriatic.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 3,
+        "text": "Bosnian mosques, bazaars, houses, and religious institutions extend Ottoman history beyond the imperial capital.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 7,
+        "text": "Trogir and the Adriatic coast show Venetian networks, while Dubrovnik demonstrates a separate maritime republic.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 11,
+        "text": "Habsburg governance, artistic networks, borderlands, and 1914 connect to Vienna and Central Europe.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 5,
+        "text": "Sephardic heritage and the Sarajevo Haggadah connect Iberian Jewish worlds and migration to the Ottoman Balkans.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 12,
+        "text": "Slovenian Alpine landscapes overlap with the Alpine leg and should be allocated once rather than duplicated.",
+        "pageRefs": [
+          76
+        ]
+      },
+      {
+        "legId": 14,
+        "text": "Jewish history, socialist institutions, war memory, and reconstruction invite careful comparisons across distinct European experiences.",
+        "pageRefs": [
+          76
+        ]
+      }
+    ],
+    "candidateCount": 24,
+    "sourceDate": "2026-10-11",
+    "routeNote": "A learning sequence and a pool of route choices. Arrival, departure, transfers, rest and visits still have to fit within the eventual travel dates.",
+    "planningPageRefs": [
+      5,
+      85
+    ]
+  }
+}

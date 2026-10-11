@@ -1,0 +1,149 @@
+{
+  "1": {
+    "src": "images/parthenon.jpg",
+    "credit": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "file": "The_Parthenon_in_Athens.jpg",
+    "caption": "Parthenon, Athens",
+    "existingPhotoId": "parthenon"
+  },
+  "2": {
+    "src": "images/colosseum.jpg",
+    "credit": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "file": "Colosseo_2020.jpg",
+    "caption": "Colosseum, Rome",
+    "existingPhotoId": "colosseum"
+  },
+  "3": {
+    "src": "images/hagia-sophia.jpeg",
+    "credit": "Adli Wahid",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+    "file": "Hagia_Sophia_(228968325).jpeg",
+    "caption": "Hagia Sophia, Istanbul",
+    "existingPhotoId": "hagia-sophia"
+  },
+  "4": {
+    "src": "images/stockholm-city-hall.jpg",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_February_2026_02.jpg",
+    "file": "Stockholms_stadshus_February_2026_02.jpg",
+    "caption": "Stockholm City Hall",
+    "existingPhotoId": "stockholm-city-hall"
+  },
+  "5": {
+    "src": "images/alhambra.jpg",
+    "credit": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavillon_Cour_des_Lions_Alhambra_Granada_Spain.jpg",
+    "file": "Pavillon Cour des Lions Alhambra Granada Spain.jpg",
+    "caption": "Court of Lions pavilion, Alhambra",
+    "existingPhotoId": "alhambra"
+  },
+  "6": {
+    "src": "images/versailles.jpg",
+    "credit": "ToucanWings",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg",
+    "file": "Vue_aérienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg",
+    "caption": "Palace of Versailles",
+    "existingPhotoId": "versailles"
+  },
+  "7": {
+    "src": "images/florence-cathedral.jpg",
+    "credit": "Gary Campbell-Hall",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "file": "Cattedrale_di_Santa_Maria_del_Fiore_–_Il_Duomo_di_Firenze.jpg",
+    "caption": "Florence Cathedral and Brunelleschi’s dome",
+    "existingPhotoId": "florence-cathedral"
+  },
+  "8": {
+    "src": "images/journey-8.jpg",
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg",
+    "file": "Aqueduct_of_Segovia_08.jpg",
+    "caption": "Aqueduct of Segovia"
+  },
+  "9": {
+    "src": "images/jeronimos-monastery.jpg",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+    "file": "1502_legte_König_Manuel_I._den_Grundstein_für_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+    "caption": "Jerónimos Monastery, Lisbon",
+    "existingPhotoId": "jeronimos-monastery"
+  },
+  "10": {
+    "src": "images/brussels-town-hall.jpg",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels,_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+    "file": "Brussels,_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+    "caption": "Brussels Town Hall on the Grand-Place",
+    "existingPhotoId": "brussels-town-hall"
+  },
+  "11": {
+    "src": "images/hungarian-parliament.jpg",
+    "credit": "Kilyann Le Hen",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "file": "Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "caption": "Hungarian Parliament, Budapest",
+    "existingPhotoId": "hungarian-parliament"
+  },
+  "12": {
+    "src": "images/journey-12.jpg",
+    "credit": "Giles Laurent",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+    "file": "001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg",
+    "caption": "Chillon Castle"
+  },
+  "13": {
+    "src": "images/stonehenge.jpg",
+    "credit": "garethwiscombe",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "file": "Stonehenge2007_07_30.jpg",
+    "caption": "Stonehenge, Wiltshire",
+    "existingPhotoId": "stonehenge"
+  },
+  "14": {
+    "src": "images/journey-14.jpg",
+    "credit": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+    "file": "Brandenburger_Tor_abends.jpg",
+    "caption": "Brandenburg Gate"
+  },
+  "15": {
+    "src": "images/diocletians-palace.jpg",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Croatia-01239_-_The_Peristil_(9551533404).jpg",
+    "file": "Croatia-01239_-_The_Peristil_(9551533404).jpg",
+    "caption": "Peristyle of Diocletian’s Palace, Split",
+    "existingPhotoId": "diocletians-palace"
+  }
+}

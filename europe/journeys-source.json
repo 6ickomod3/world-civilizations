@@ -1,0 +1,2875 @@
+{
+  "journeys": [
+    {
+      "leg": 1,
+      "title": "Mainland Greece",
+      "countriesRegion": "Greece",
+      "guidingQuestion": "How did different Greek communities organize power, worship, exchange, art and knowledge, and how have later societies reused that inheritance?",
+      "civilizationStoryline": "A comparative foundation rather than a claim that Europe began in one place: Bronze Age palaces, competing city communities, shared sanctuaries, maritime routes and Macedonian monarchy lead into Roman, Byzantine and modern Greek layers. Prior visits should be reviewed before choosing stops. This inventory does not assume which individual sites have been visited.",
+      "geographicBackbone": "Southern core: Athens → Corinth → Nafplio / Argolid, with Delphi or western Peloponnese as a considered extension. Mystras, Meteora and northern Macedonia are alternatives or later returns, not all mandatory stops.",
+      "tenDayFeasibility": "Athens and Argolid form a substantial coherent ten-day chapter with room for one wider extension and nature. The entire mainland candidate inventory does not fit ten days. First subtract confirmed prior visits and then choose which missing Greek stories merit returning.",
+      "categoryCoverage": "Architecture, Museum, Archaeology, Sacred heritage, Art, Nature, Living culture, Urban history, Memory",
+      "connectedLegsText": "2, 3, 7, 15, 13",
+      "candidateCount": 22,
+      "sourceRow": 6,
+      "id": "journey-01",
+      "categories": [
+        "Architecture",
+        "Museum",
+        "Archaeology",
+        "Sacred heritage",
+        "Art",
+        "Nature",
+        "Living culture",
+        "Urban history",
+        "Memory"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        7,
+        15,
+        13
+      ],
+      "countryCodes": [
+        "GRC"
+      ]
+    },
+    {
+      "leg": 2,
+      "title": "Rome–Campania",
+      "countriesRegion": "Italy, Vatican City",
+      "guidingQuestion": "How did Rome sustain an empire and urban society, and how did its material and religious inheritance become later European art, authority and memory?",
+      "civilizationStoryline": "Read imperial institutions in the capital against households and provincial life around Vesuvius. Then follow conversion, collecting, papal and Bourbon patronage, Jewish continuity, Baroque art and cultivated landscapes. The leg is anchored in Rome but intentionally spans later layers that explain why ancient Rome remains visible.",
+      "geographicBackbone": "Rome / Vatican → Naples, with Pompeii and Herculaneum within the Naples orbit. Choose among Vesuvius, Caserta, Paestum and the Amalfi coast rather than requiring every extension.",
+      "tenDayFeasibility": "Two main bases make a significant ten-day trip. The core imperial and Vesuvian story fits with selected art and nature; all 23 candidates would be an exhausting and unrealistic completion list. This inventory preserves the choices before subtraction.",
+      "categoryCoverage": "Archaeology, Architecture, Museum, Science and industry, Nature, Sacred heritage, Art, Memory, Living culture",
+      "connectedLegsText": "1, 3, 7, 6, 8, 15",
+      "candidateCount": 23,
+      "sourceRow": 7,
+      "id": "journey-02",
+      "categories": [
+        "Archaeology",
+        "Architecture",
+        "Museum",
+        "Science and industry",
+        "Nature",
+        "Sacred heritage",
+        "Art",
+        "Memory",
+        "Living culture"
+      ],
+      "connectedLegs": [
+        1,
+        3,
+        7,
+        6,
+        8,
+        15
+      ],
+      "countryCodes": [
+        "ITA",
+        "VAT"
+      ]
+    },
+    {
+      "leg": 3,
+      "title": "Istanbul–Marmara",
+      "countriesRegion": "Türkiye",
+      "guidingQuestion": "How did one strategic city become the center of Eastern Roman and Ottoman worlds, and how do religious communities, trade, art and technology connect it to the rest of Europe?",
+      "civilizationStoryline": "Start with Constantinople as a continuation and transformation of Rome, then compare Byzantine sacred art, Ottoman civic and court institutions, minority communities and maritime exchange. Continue through reform, modern art and contemporary city life. This is a Europe–Asia crossroads chapter, not a claim that the whole of Türkiye belongs geographically to Europe.",
+      "geographicBackbone": "Istanbul as the substantial main base; select an Asian-shore neighborhood and a strait experience. Optional second cluster: Bursa / Cumalıkızık with carefully chosen İznik, or Edirne. Princes’ Islands compete with regional extensions, not automatic additions.",
+      "tenDayFeasibility": "Istanbul alone supports a rich ten-day journey with art, neighborhoods and nature. One compact regional extension can fit. Istanbul + Bursa + İznik + Edirne + multiple islands would fragment the leg and should be reduced after the inventory audit.",
+      "categoryCoverage": "Sacred heritage, Urban history, Science and industry, Museum, Architecture, Art, Archaeology, Living culture, Memory, Nature",
+      "connectedLegsText": "1, 2, 5, 7, 11, 15, 6",
+      "candidateCount": 22,
+      "sourceRow": 8,
+      "id": "journey-03",
+      "categories": [
+        "Sacred heritage",
+        "Urban history",
+        "Science and industry",
+        "Museum",
+        "Architecture",
+        "Art",
+        "Archaeology",
+        "Living culture",
+        "Memory",
+        "Nature"
+      ],
+      "connectedLegs": [
+        1,
+        2,
+        5,
+        7,
+        11,
+        15,
+        6
+      ],
+      "countryCodes": [
+        "TUR"
+      ]
+    },
+    {
+      "leg": 4,
+      "title": "Nordic kingdoms",
+      "countriesRegion": "Denmark, Sweden, Norway",
+      "guidingQuestion": "How did maritime societies at Europe's northern edge become Christian kingdoms, Baltic powers, and influential modern societies?",
+      "civilizationStoryline": "Follow sea routes rather than a single Viking stereotype: trading and raiding connected the North to Britain, the Baltic and Byzantium; conversion and royal institutions created medieval kingdoms; Reformation and early-modern state rivalry changed religion and government; industrialization, labor politics, national art and democratic design lead into modern Nordic societies. These are overlapping histories, not a simple inevitable march from Vikings to welfare. Sámi communities are living Indigenous societies whose homeland crosses state borders.",
+      "geographicBackbone": "A capital-focused comparison: Copenhagen with Roskilde → Stockholm → Oslo. Western Norway (Bergen–Nærøyfjord–Sognefjord) is a competing nature-led branch, while Jelling and northern Sápmi need deliberate extra geography.",
+      "tenDayFeasibility": "Three capitals can form a meaningful approximately ten-day survey with selected museums and one accessible nature outing. Adding Bergen, major fjords, Jelling and northern Sápmi would make it fragmented. A Copenhagen–Roskilde + Oslo–Bergen–one fjord variant trades most Swedish coverage for Norwegian nature; the atlas keeps both choices visible before subtraction.",
+      "categoryCoverage": "Archaeology, Museum, Sacred heritage, Architecture, Urban history, Art, Science and industry, Living culture, Nature",
+      "connectedLegsText": "3, 6, 10, 13, 14",
+      "candidateCount": 24,
+      "sourceRow": 9,
+      "id": "journey-04",
+      "categories": [
+        "Archaeology",
+        "Museum",
+        "Sacred heritage",
+        "Architecture",
+        "Urban history",
+        "Art",
+        "Science and industry",
+        "Living culture",
+        "Nature"
+      ],
+      "connectedLegs": [
+        3,
+        6,
+        10,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "DNK",
+        "SWE",
+        "NOR"
+      ]
+    },
+    {
+      "leg": 5,
+      "title": "Andalusia",
+      "countriesRegion": "Spain",
+      "guidingQuestion": "How did Islamic Iberia, Christian conquest, Jewish life and Atlantic empire reshape Europe through the same southern cities?",
+      "civilizationStoryline": "Use Roman provincial evidence as a short prelude, then follow Umayyad Córdoba and its caliphal city, later Islamic Granada, and Christian courts adapting Islamic artistic languages. Jewish buildings and cultural interpretation expose intellectual exchange alongside unequal status, persecution and expulsion; avoid a timeless picture of harmonious convivencia. Seville then turns the story toward Atlantic conquest and imperial administration, while Baroque painting, flamenco, gardens, mountains and wetlands show that the journey is more than a medieval religious survey.",
+      "geographicBackbone": "Seville → Córdoba → Granada, or the reverse, using three main city bases. Itálica and Medina Azahara are distinct near-city archaeological excursions. Doñana, Sierra Nevada, Málaga and Cádiz are competing side branches, not one assumed route.",
+      "tenDayFeasibility": "The three-city backbone is a substantial approximately ten-day trip. The atlas intentionally preserves more city museums and landscapes than fit. Later choose one principal nature branch and whether Málaga or Cádiz merits replacing city depth; do not add every coast and mountain option.",
+      "categoryCoverage": "Sacred heritage, Archaeology, Museum, Living culture, Architecture, Art, Urban history, Nature",
+      "connectedLegsText": "2, 3, 7, 8, 9, 10, 13",
+      "candidateCount": 24,
+      "sourceRow": 10,
+      "id": "journey-05",
+      "categories": [
+        "Sacred heritage",
+        "Archaeology",
+        "Museum",
+        "Living culture",
+        "Architecture",
+        "Art",
+        "Urban history",
+        "Nature"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        13
+      ],
+      "countryCodes": [
+        "ESP"
+      ]
+    },
+    {
+      "leg": 6,
+      "title": "Paris and northern France",
+      "countriesRegion": "France",
+      "guidingQuestion": "How did royal-Christian France become a center of revolution, modern urban life and artistic reinvention, and how did regional powers and landscapes connect it to wider Europe?",
+      "civilizationStoryline": "Begin with medieval Christianity and kingship through Notre-Dame, Sainte-Chapelle, Saint-Denis and Cluny; then follow royal collecting and Versailles, revolutionary citizenship and violence, the redesigned modern city, and changing painting. Normandy supplies its own sequence: a cross-Channel duchy, monasteries and cathedrals, Joan of Arc, the landscapes of modern painting, and 1944. This leg represents important French contributions, not all French civilization. Chartres/Reims strengthen Gothic kingship; the Loire adds Renaissance courts as a competing geographic branch.",
+      "geographicBackbone": "Paris with Saint-Denis/Versailles → Rouen → Caen/Bayeux, with an optional western continuation to Mont-Saint-Michel. An Impressionist-coast branch (Honfleur or Étretat) competes with deeper WWII western Normandy. Chartres, Reims and Loire are explicitly separate alternatives, not assumed additions.",
+      "tenDayFeasibility": "Paris plus selected Normandy is coherent in approximately ten days, but this full inventory exceeds that capacity. Later subtract by choosing the Normandy emphasis and at most a limited extra branch. Paris+Loire is a serious alternative that replaces much of Normandy rather than silently changing the leg. As of the current research, Bayeux's tapestry museum is closed until autumn 2027; the original is listed for a British Museum loan September 2026–July 2027. Pompidou's main Beaubourg building is closed for renovation until a planned 2030 reopening, so modern-art partner exhibitions/other museums or a future visit require separate choices. All availability must be rechecked against eventual dates.",
+      "categoryCoverage": "Sacred heritage, Museum, Art, Architecture, Memory, Science and industry, Living culture, Urban history, Nature",
+      "connectedLegsText": "2, 3, 4, 7, 8, 10, 11, 13, 14",
+      "candidateCount": 24,
+      "sourceRow": 11,
+      "id": "journey-06",
+      "categories": [
+        "Sacred heritage",
+        "Museum",
+        "Art",
+        "Architecture",
+        "Memory",
+        "Science and industry",
+        "Living culture",
+        "Urban history",
+        "Nature"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        4,
+        7,
+        8,
+        10,
+        11,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "FRA"
+      ]
+    },
+    {
+      "leg": 7,
+      "title": "Florence–Tuscany–Venice",
+      "countriesRegion": "Italy",
+      "guidingQuestion": "How did medieval commercial cities turn wealth, competition, classical learning, and eastern Mediterranean connections into Renaissance art and new ways of knowing?",
+      "civilizationStoryline": "Begin with communal Florence and Siena rather than treating the Renaissance as a sudden break from a dark Middle Ages. Compare devotional images, civic government, merchant patronage, and the Medici shift toward princely rule; follow the experimentation with bodies, perspective, architecture, and instruments. Venice supplies a parallel Renaissance shaped by maritime empire, Byzantine inheritances, trading communities, color and light, and printing. Tuscan fields and the Venetian lagoon are part of the story of people making and sustaining landscapes.",
+      "geographicBackbone": "Florence → one selected Tuscan city/countryside cluster → Venice; Pisa is a western branch, and Siena/Val d’Orcia are southern branches.",
+      "tenDayFeasibility": "A selective Florence–Tuscany–Venice journey can fit roughly 10 days with two main city bases and a short Tuscan segment. The full candidate set is intentionally larger: combining Pisa, Siena, San Gimignano, Val d’Orcia, and extensive lagoon excursions would crowd out the paintings and neighborhood time that justify the trip.",
+      "categoryCoverage": "Art, Architecture, Sacred heritage, Urban history, Science and industry, Nature, Museum",
+      "connectedLegsText": "2, 3, 6, 8, 10, 13, 15",
+      "candidateCount": 24,
+      "sourceRow": 12,
+      "id": "journey-07",
+      "categories": [
+        "Art",
+        "Architecture",
+        "Sacred heritage",
+        "Urban history",
+        "Science and industry",
+        "Nature",
+        "Museum"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        6,
+        8,
+        10,
+        13,
+        15
+      ],
+      "countryCodes": [
+        "ITA"
+      ]
+    },
+    {
+      "leg": 8,
+      "title": "Madrid and Castile",
+      "countriesRegion": "Spain",
+      "guidingQuestion": "How did diverse Iberian medieval societies become a monarchy with global reach, and how did artists, religious institutions, and intellectuals represent or question its power?",
+      "civilizationStoryline": "Toledo makes Roman, Visigothic, Islamic, Jewish, and Christian layers visible, while also exposing that exchange coexisted with unequal power and expulsion. Segovia and Ávila show engineering, fortified towns, and Castilian territorial consolidation. Madrid and El Escorial then concentrate monarchy, imperial knowledge, religion, and collecting. Velázquez and Goya complicate court grandeur; Picasso’s Guernica carries the story forward into civil war and modern art. Salamanca adds universities and debates about conquest and rights.",
+      "geographicBackbone": "Madrid as principal base → Toledo and Segovia as compact city satellites → El Escorial/Guadarrama branch; Ávila and Salamanca form a western extension.",
+      "tenDayFeasibility": "Madrid, Toledo, Segovia, and El Escorial make a substantial selective 10-day trip. Salamanca and Ávila can be chosen in place of some Madrid time or as a western loop, but including all museums, every medieval city, and a full mountain day is beyond an unhurried 10-day scope. This atlas preserves those alternatives before subtraction.",
+      "categoryCoverage": "Art, Architecture, Museum, Archaeology, Nature, Urban history, Sacred heritage, Science and industry",
+      "connectedLegsText": "2, 5, 7, 9, 10, 13, 14",
+      "candidateCount": 22,
+      "sourceRow": 13,
+      "id": "journey-08",
+      "categories": [
+        "Art",
+        "Architecture",
+        "Museum",
+        "Archaeology",
+        "Nature",
+        "Urban history",
+        "Sacred heritage",
+        "Science and industry"
+      ],
+      "connectedLegs": [
+        2,
+        5,
+        7,
+        9,
+        10,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "ESP"
+      ]
+    },
+    {
+      "leg": 9,
+      "title": "Portugal",
+      "countriesRegion": "Portugal",
+      "guidingQuestion": "How did an Atlantic-facing kingdom connect continents through navigation, commerce, conquest and forced labor, and how are those histories preserved, questioned and lived today?",
+      "civilizationStoryline": "Start with medieval Islamic and Christian layers and the institutions behind a distinct Portuguese kingdom. Belém and maritime collections explain royal ambition, ship technology, religious imagery and long-distance networks. Art and decorative objects show exchange with Africa and Asia; Lagos supplies the necessary history of enslavement. The Lisbon earthquake and reconstruction open an Enlightenment and urban-planning chapter. Porto and the Douro connect commerce to a working landscape, while fado, modern art and the Aljube Museum carry the account into living culture, dictatorship, anti-colonial struggles and democracy.",
+      "geographicBackbone": "Lisbon → Sintra/coast → Porto → selected Douro time. Coimbra can be an en-route central stop; Tomar/Batalha, Évora and Lagos are alternative branches, not automatic extensions.",
+      "tenDayFeasibility": "A selective Lisbon–Sintra–Porto trip with one Douro experience is plausible in about 10 days. The atlas is broader than that route: full central-monastery coverage, Évora to the east and Lagos far to the south cannot all be added without fragmenting the journey. Later choose whether the main emphasis is the two-city Atlantic route or a more concentrated Lisbon–central Portugal route.",
+      "categoryCoverage": "Architecture, Science and industry, Art, Urban history, Archaeology, Memory, Living culture, Nature, Sacred heritage",
+      "connectedLegsText": "2, 5, 7, 8, 10, 13, 14",
+      "candidateCount": 25,
+      "sourceRow": 14,
+      "id": "journey-09",
+      "categories": [
+        "Architecture",
+        "Science and industry",
+        "Art",
+        "Urban history",
+        "Archaeology",
+        "Memory",
+        "Living culture",
+        "Nature",
+        "Sacred heritage"
+      ],
+      "connectedLegs": [
+        2,
+        5,
+        7,
+        8,
+        10,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "PRT"
+      ]
+    },
+    {
+      "leg": 10,
+      "title": "Belgium–Netherlands",
+      "countriesRegion": "Belgium, Netherlands",
+      "guidingQuestion": "How did urban commerce, religious division, art, science and overseas power transform northern Europe?",
+      "civilizationStoryline": "Read the region as a connected Low Countries world before its later national borders: Flemish mercantile towns, Burgundian patronage and northern Renaissance painting lead into Habsburg rule and religious conflict. Contrast southern Catholic Baroque commissions with the Dutch Republic’s civic and private patrons. Amsterdam’s canals, pictures and ships then connect prosperity to global exchange, colonial violence and slavery. Science collections, hydraulic landscapes and modern ports carry the story into the present. Jewish persecution and postwar reconstruction are later layers, not replacements for the earlier chapters.",
+      "geographicBackbone": "Flemish base (Ghent or Bruges) → optional Antwerp or Brussels selection → Amsterdam. The Hague–Delft, Haarlem, and Rotterdam–Kinderdijk/Maeslant are competing branches, not seven overnight bases.",
+      "tenDayFeasibility": "A two-country ten-day trip is coherent if organized around two or three bases and a few selected excursions. This inventory deliberately exceeds that capacity. Brussels’s modern art/architecture and colonial-history branch, Antwerp’s print/Baroque branch, and Rotterdam’s water/port branch require choosing emphasis later; visiting all 24 entries is not the proposed itinerary.",
+      "categoryCoverage": "Urban history, Art, Sacred heritage, Architecture, Science and industry, Museum, Memory, Nature",
+      "connectedLegsText": "6, 7, 8, 9, 11, 13, 14",
+      "candidateCount": 24,
+      "sourceRow": 15,
+      "id": "journey-10",
+      "categories": [
+        "Urban history",
+        "Art",
+        "Sacred heritage",
+        "Architecture",
+        "Science and industry",
+        "Museum",
+        "Memory",
+        "Nature"
+      ],
+      "connectedLegs": [
+        6,
+        7,
+        8,
+        9,
+        11,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "BEL",
+        "NLD"
+      ]
+    },
+    {
+      "leg": 11,
+      "title": "Prague–Vienna–Budapest",
+      "countriesRegion": "Czechia, Austria, Hungary",
+      "guidingQuestion": "How did a diverse imperial region create great cities, art, music and ideas—and then fragment into modern states?",
+      "civilizationStoryline": "Start with Prague’s Bohemian kingship, Charles IV’s imperial city and the Hussite challenge to religious authority. Vienna supplies Habsburg dynastic power, Catholic court culture, collecting and music, followed by modernism and psychoanalysis. Budapest adds the Hungarian kingdom, Roman and Ottoman layers, and Austria-Hungary’s dual-capital structure. Jewish sites are a continuous community history as well as sites of persecution and memory. Read imperial collapse and twentieth-century conflict through these layers, while reserving sustained modern political history for leg 14.",
+      "geographicBackbone": "Prague → Vienna → Budapest, with three city bases. All listed branches remain within those cities or their immediate districts; no Kraków, Salzburg or extra capital is bolted onto this leg.",
+      "tenDayFeasibility": "Three major cities already make a full ten-day trip. A later itinerary should allot genuine city time, not one night in each; 24 candidates are a research pool. Museum-heavy alternatives compete within each city, while Danube time, gardens and live music keep the experience varied. If a particular city needs depth, reducing the corridor to two cities is a legitimate later choice.",
+      "categoryCoverage": "Architecture, Sacred heritage, Urban history, Memory, Art, Science and industry, Museum, Living culture, Archaeology, Nature",
+      "connectedLegsText": "2, 3, 6, 7, 8, 10, 12, 14",
+      "candidateCount": 24,
+      "sourceRow": 16,
+      "id": "journey-11",
+      "categories": [
+        "Architecture",
+        "Sacred heritage",
+        "Urban history",
+        "Memory",
+        "Art",
+        "Science and industry",
+        "Museum",
+        "Living culture",
+        "Archaeology",
+        "Nature"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        6,
+        7,
+        8,
+        10,
+        12,
+        14
+      ],
+      "countryCodes": [
+        "CZE",
+        "AUT",
+        "HUN"
+      ]
+    },
+    {
+      "leg": 12,
+      "title": "Alpine Europe",
+      "countriesRegion": "Switzerland, Switzerland–Italy, Austria, Italy",
+      "guidingQuestion": "How did Europe live with, cross, interpret and transform its mountain barrier?",
+      "civilizationStoryline": "This is a cross-cutting chapter rather than one civilization or century. Geological processes establish the terrain; prehistoric people, monasteries, regional powers and civic communities show it was never empty. Alpine routes carried goods, people, knowledge and artistic influences between northern and southern Europe. Railways, cableways and tourism changed access and local economies. Museums and painting connect the experience to Europe’s cultural history, while language, crafts, vineyards and village life keep residents visible. Glaciers and habitats bring the narrative into present environmental change.",
+      "geographicBackbone": "Swiss central–western option: Lucerne → Bernese Oberland, with Bern en route or selected Lake Geneva extension. Eastern Swiss option: Zurich/St Gallen → Graubünden–Engadine/Bernina, with monastery branches chosen selectively. Austrian option: Salzburg → Innsbruck/Tirol with one nature base. South Tyrol/Dolomites replaces a nature block or forms an Innsbruck–Bolzano–Val Gardena alternative.",
+      "tenDayFeasibility": "Choose one coherent Alpine corridor for roughly ten days. Western Switzerland, eastern Switzerland and Tirol–Salzburg are alternatives; they must not be concatenated into a giant country-crossing nature circuit. Zermatt and the Dolomites are substantial replacement branches. Leave weather flexibility and village time, and distinguish railway/lift-supported scenery from optional hikes and technical mountain activity. This inventory is intentionally broad before pruning.",
+      "categoryCoverage": "Urban history, Science and industry, Art, Nature, Architecture, Living culture, Museum, Sacred heritage, Archaeology",
+      "connectedLegsText": "1, 2, 6, 7, 10, 11, 13, 14",
+      "candidateCount": 24,
+      "sourceRow": 17,
+      "id": "journey-12",
+      "categories": [
+        "Urban history",
+        "Science and industry",
+        "Art",
+        "Nature",
+        "Architecture",
+        "Living culture",
+        "Museum",
+        "Sacred heritage",
+        "Archaeology"
+      ],
+      "connectedLegs": [
+        1,
+        2,
+        6,
+        7,
+        10,
+        11,
+        13,
+        14
+      ],
+      "countryCodes": [
+        "CHE",
+        "ITA",
+        "AUT"
+      ]
+    },
+    {
+      "leg": 13,
+      "title": "Britain",
+      "countriesRegion": "United Kingdom",
+      "guidingQuestion": "How did an island on the edge of Roman Europe become a center of parliamentary government, science, industrial production, and global empire?",
+      "civilizationStoryline": "Begin before Rome with the monumental landscapes of Wiltshire, then follow Roman provincial life, Anglo-Saxon and Norse material culture, Norman kingship, Gothic religion, universities, and the early modern state. London collections and Greenwich connect knowledge, navigation, imperial power, and contested collecting. Bath and Edinburgh make Georgian urbanism and the Enlightenment visible; industrial sites show how production transformed cities, labor, transport, and landscapes. Treat Britain as several nations with interacting histories, rather than making England stand for the whole island.",
+      "geographicBackbone": "London is the common anchor. Branch A: Oxford–Wiltshire–Bath–Bristol. Branch B: York–Edinburgh, with one carefully selected northern/industrial or landscape stop. Ironbridge, Manchester, Hadrian’s Wall, and the Peak District are candidate substitutions, not one continuous compulsory route.",
+      "tenDayFeasibility": "Twenty-four candidates deliberately exceed ten days. A coherent ten-day leg has about three principal bases and one regional branch. London plus Oxford/Bath/Wiltshire is a compact southern version; London plus York/Edinburgh is a northern version. Combining the full southwest, industrial Midlands, northern England, and Scotland would create transport-heavy fragments. Wales, the Highlands, Ireland, and Northern Ireland remain substantive gaps and are not claimed as covered.",
+      "categoryCoverage": "Museum, Art, Sacred heritage, Architecture, Science and industry, Archaeology, Urban history, Nature",
+      "connectedLegsText": "2, 4, 6, 10, 9, 14",
+      "candidateCount": 24,
+      "sourceRow": 18,
+      "id": "journey-13",
+      "categories": [
+        "Museum",
+        "Art",
+        "Sacred heritage",
+        "Architecture",
+        "Science and industry",
+        "Archaeology",
+        "Urban history",
+        "Nature"
+      ],
+      "connectedLegs": [
+        2,
+        4,
+        6,
+        10,
+        9,
+        14
+      ],
+      "countryCodes": [
+        "GBR"
+      ]
+    },
+    {
+      "leg": 14,
+      "title": "Berlin–Poland",
+      "countriesRegion": "Germany, Poland",
+      "guidingQuestion": "How did rich, diverse European societies produce national states, dictatorship, genocide, division, resistance, and new forms of civic renewal?",
+      "civilizationStoryline": "Begin with Polish royal, urban, religious, and Jewish life and German painting/collecting and the Reformation, not with the twentieth century alone. Read Berlin’s civic buildings, Nazi institutions, divided-city fabric, and reunified public spaces alongside Kraków’s medieval/Renaissance continuity, Warsaw’s reconstruction, and Gdańsk’s labor movement. Memory sites explain persecution and state violence, while Jewish museums, painting, craft, markets, and nature restore the fuller lives and cultures that violence threatened. This is a comparative journey, not a claim that all countries shared the same experience. Wittenberg is a high-value alternative branch for the earlier religious and political transformation of Europe.",
+      "geographicBackbone": "Choose one backbone: Berlin–Kraków–Warsaw; Berlin–Dresden–Kraków; or Berlin–Gdańsk–Warsaw. Auschwitz and Wieliczka are southern-Poland branches; Tatras require substituting mountain time for another city. Wittenberg is a Reformation substitution within the Berlin/Saxony branch.",
+      "tenDayFeasibility": "Twenty-four candidates are an atlas, not ten days of bookings. Berlin plus two Polish bases is already substantial. Dresden, Gdańsk, and the Tatras cannot all be added without undermining depth. A memory-heavy route needs deliberate emotional pacing with art, daily urban life, and nature. Auschwitz-Birkenau is a memorial to victims and a site for learning; its visit should be planned respectfully as a major component, not a spectacle or filler stop.",
+      "categoryCoverage": "Museum, Art, Urban history, Memory, Sacred heritage, Architecture, Living culture, Science and industry, Nature",
+      "connectedLegsText": "10, 11, 6, 13, 15",
+      "candidateCount": 24,
+      "sourceRow": 19,
+      "id": "journey-14",
+      "categories": [
+        "Museum",
+        "Art",
+        "Urban history",
+        "Memory",
+        "Sacred heritage",
+        "Architecture",
+        "Living culture",
+        "Science and industry",
+        "Nature"
+      ],
+      "connectedLegs": [
+        10,
+        11,
+        6,
+        13,
+        15
+      ],
+      "countryCodes": [
+        "DEU",
+        "POL"
+      ]
+    },
+    {
+      "leg": 15,
+      "title": "Adriatic–Balkan crossroads",
+      "countriesRegion": "Slovenia, Croatia, Bosnia and Herzegovina",
+      "guidingQuestion": "What happens where Roman, Latin Christian, Venetian, Habsburg, Ottoman, Jewish, and later Yugoslav worlds overlap?",
+      "civilizationStoryline": "Use Split to see a Roman imperial complex become a living Christian and Mediterranean city, then compare Venetian-era Dalmatian towns with Dubrovnik’s distinct maritime republic. Move into Bosnia to examine Ottoman urban life, Jewish diaspora, Habsburg rule, and the city where the 1914 assassination helped trigger a continental crisis. Slovenia contributes Roman layers, Habsburg heritage, national artistic identity, and Plečnik’s civic design. Landscape is central: karst, lakes, mountains, rivers, islands, and agricultural plains explain movement and livelihoods. Contemporary war and reconstruction require attention, while daily culture and art prevent the region being defined only by conflict.",
+      "geographicBackbone": "Core southern option: Split–Dubrovnik–Mostar–Sarajevo, trimming either a coast base or Bosnia time to maintain depth. Northern option: Ljubljana–one Slovenian landscape cluster–Plitvice–Split/Trogir. A balanced coast–Bosnia version can use Split–Mostar–Sarajevo and select Dubrovnik only if transport and pace permit. Do not string all candidates together.",
+      "tenDayFeasibility": "Twenty-four candidates span too large a region for one ten-day leg. Choose Dalmatia–Bosnia or Slovenia–north Croatia; long cross-border land transfers and island timetables matter. Four southern bases can work only with disciplined selection and open-jaw travel; three provide more depth. The Balkans are far larger than this route: Serbia, Romania, Bulgaria, Albania, North Macedonia, Montenegro, and Orthodox/Byzantine-Slavic histories are not adequately covered here. Leg 3 and previously visited Greece help, but they do not erase that gap.",
+      "categoryCoverage": "Archaeology, Architecture, Art, Nature, Living culture, Urban history, Museum, Sacred heritage, Memory",
+      "connectedLegsText": "2, 3, 7, 11, 5, 12, 14",
+      "candidateCount": 24,
+      "sourceRow": 20,
+      "id": "journey-15",
+      "categories": [
+        "Archaeology",
+        "Architecture",
+        "Art",
+        "Nature",
+        "Living culture",
+        "Urban history",
+        "Museum",
+        "Sacred heritage",
+        "Memory"
+      ],
+      "connectedLegs": [
+        2,
+        3,
+        7,
+        11,
+        5,
+        12,
+        14
+      ],
+      "countryCodes": [
+        "SVN",
+        "HRV",
+        "BIH"
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "C-001",
+      "theme": "Classical forms and public life",
+      "fromLegsText": "1",
+      "toLegsText": "2, 3, 7, 15",
+      "description": "Greek civic spaces and representations of the body were adopted and transformed in Roman worlds, preserved and contested in later empires, and selectively reinterpreted by Renaissance patrons. These were different societies, not copies of one blueprint.",
+      "whatToCompare": "Compare an agora, a Roman forum, an imperial palace, and a Renaissance civic square. Ask who could enter, speak, work, worship, or rule.",
+      "placesRegions": "Athens Agora; Roman Forum; Hagia Sophia; Florence civic spaces; Diocletian's Palace in Split",
+      "notes": "Meaningful recurrence. Not a claim that every later institution directly descends from an ancient model.",
+      "sourceRow": 6,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        2,
+        3,
+        7,
+        15
+      ]
+    },
+    {
+      "id": "C-002",
+      "theme": "Sacred architecture and political authority",
+      "fromLegsText": "2, 3, 5",
+      "toLegsText": "6, 7, 10, 11, 15",
+      "description": "Religious buildings carry theology, ritual, patronage, and state authority. Conversions, rebuilding, iconoclasm, and preservation reveal changes in who controls sacred space.",
+      "whatToCompare": "Compare the Pantheon, Hagia Sophia, Córdoba's Mosque-Cathedral, Sainte-Chapelle, and St Mark's. Read structure, imagery, light, access, and subsequent reuse.",
+      "placesRegions": "Pantheon; Hagia Sophia; Mosque-Cathedral of Córdoba; Sainte-Chapelle; St Mark's Basilica",
+      "notes": "Christian, Islamic, and Jewish traditions require specific interpretation. Visual similarities alone do not prove direct influence.",
+      "sourceRow": 7,
+      "fromLegs": [
+        2,
+        3,
+        5
+      ],
+      "toLegs": [
+        6,
+        7,
+        10,
+        11,
+        15
+      ]
+    },
+    {
+      "id": "C-003",
+      "theme": "Who pays for pictures?",
+      "fromLegsText": "7, 8",
+      "toLegsText": "10, 6, 11, 4, 13",
+      "description": "Court, church, civic, commercial, and individual patronage coexist. Changing markets, institutions, and audiences help explain both the subjects painted and how collections reached today's museums.",
+      "whatToCompare": "Compare a devotional altarpiece, dynastic portrait, merchant portrait, domestic scene, Impressionist landscape, and modern urban image. Ask who commissioned, purchased, collected, and displayed each.",
+      "placesRegions": "Uffizi; Prado; Rijksmuseum; Musée d'Orsay; Vienna art collections; Nordic galleries; London painting collections",
+      "notes": "A comparison across different systems, not a linear sequence from religious art to artistic freedom.",
+      "sourceRow": 8,
+      "fromLegs": [
+        7,
+        8
+      ],
+      "toLegs": [
+        10,
+        6,
+        11,
+        4,
+        13
+      ]
+    },
+    {
+      "id": "C-004",
+      "theme": "Maritime trade and colonial economies",
+      "fromLegsText": "3, 7, 5",
+      "toLegsText": "9, 10, 13, 15",
+      "description": "Ports link local buildings to distant commodities, migration, finance, coerced labor, and empire. Europe was made through connections with Africa, Asia, and the Americas as well as through internal exchanges.",
+      "whatToCompare": "Compare harbors, trading institutions, navigation instruments, warehouses, merchants' houses, and colonial museum collections. Ask whose labor produced the wealth.",
+      "placesRegions": "Bosphorus; Venice; Seville's Atlantic institutions; Lisbon waterfront; Amsterdam; London; Adriatic ports",
+      "notes": "Atlantic slavery and colonial extraction are part of the story of wealth, not optional footnotes.",
+      "sourceRow": 9,
+      "fromLegs": [
+        3,
+        7,
+        5
+      ],
+      "toLegs": [
+        9,
+        10,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "C-005",
+      "theme": "Kingship, dynasties, and political alternatives",
+      "fromLegsText": "4, 6, 8",
+      "toLegsText": "10, 11, 12, 13, 14",
+      "description": "Royal courts and dynastic empires developed alongside city republics, federations, and parliamentary institutions. Present national borders do not describe these older political worlds.",
+      "whatToCompare": "Compare royal necropolises, coronation sites, palaces, town halls, and parliaments. Distinguish claims to legitimacy from how power actually operated.",
+      "placesRegions": "Saint-Denis; Versailles; El Escorial; Hofburg; Nordic royal sites; Swiss civic centers; Westminster",
+      "notes": "Each region's path differs. Avoid treating monarchy, republic, and democracy as simple successive stages.",
+      "sourceRow": 10,
+      "fromLegs": [
+        4,
+        6,
+        8
+      ],
+      "toLegs": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "C-006",
+      "theme": "Knowledge, printing, and measurement",
+      "fromLegsText": "1, 7",
+      "toLegsText": "10, 11, 12, 13, 14",
+      "description": "Texts, instruments, workshops, collections, and institutions make the history of knowledge tangible. Networks of translation, printing, navigation, observation, and engineering cross religious and national borders.",
+      "whatToCompare": "Compare manuscripts or printed books with scientific instruments, a meridian observatory, and transport engineering. Ask who could learn, publish, measure, and apply the knowledge.",
+      "placesRegions": "Greek archaeological collections; Museo Galileo; Plantin-Moretus; Greenwich; Alpine railways; science and industrial museums",
+      "notes": "Object access and temporary exhibitions must be checked. A famous scholar's city is not automatically evidence that their work is displayed.",
+      "sourceRow": 11,
+      "fromLegs": [
+        1,
+        7
+      ],
+      "toLegs": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "C-007",
+      "theme": "Jewish Europe as life and memory",
+      "fromLegsText": "2, 3, 5, 8, 10",
+      "toLegsText": "11, 13, 14, 15",
+      "description": "Jewish communities participated in scholarship, commerce, craft, religion, and civic life across Europe. Expulsion and genocide must be understood alongside that much longer history. Rome's ghetto and emancipation history and Sephardic migration to Ottoman cities after Iberian expulsions make differences between these settings visible.",
+      "whatToCompare": "Compare synagogues, neighborhoods, community museums, books, ritual objects, and memorials. Notice what survives, what is reconstructed, and who interprets it.",
+      "placesRegions": "Rome; Istanbul; Córdoba; Toledo; Amsterdam; Prague; Kraków; POLIN in Warsaw; Sarajevo",
+      "notes": "Do not reduce a living culture to persecution or treat all European Jewish communities as identical.",
+      "sourceRow": 12,
+      "fromLegs": [
+        2,
+        3,
+        5,
+        8,
+        10
+      ],
+      "toLegs": [
+        11,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "C-008",
+      "theme": "Nature, labor, and landscape",
+      "fromLegsText": "2, 4, 7, 9",
+      "toLegsText": "10, 12, 13, 14, 15",
+      "description": "Volcanoes, glaciers, rivers, seas, and soils shape possibilities. Farming, terracing, drainage, transport, industry, and conservation change those landscapes. Nature also merits time for its own beauty and experience.",
+      "whatToCompare": "Compare Vesuvius, a fjord, Tuscan farmland, Douro terraces, Dutch waterworks, an Alpine pass, and a karst landscape. Identify both natural processes and human interventions.",
+      "placesRegions": "Vesuvius; Norwegian fjords; Tuscany; Douro Valley; Dutch polders; Alps; Adriatic karst parks",
+      "notes": "A hike or scenic day need not be forced into a history lesson. Season, weather, trail access, and fitness matter later.",
+      "sourceRow": 13,
+      "fromLegs": [
+        2,
+        4,
+        7,
+        9
+      ],
+      "toLegs": [
+        10,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "C-009",
+      "theme": "Industry, cities, and ordinary people",
+      "fromLegsText": "10, 12, 13",
+      "toLegsText": "4, 6, 11, 14",
+      "description": "Workers' housing, factories, transport systems, migration, museums, and welfare institutions explain changes that palaces alone cannot. Modern art and urban design often respond to the same changes.",
+      "whatToCompare": "Compare industrial infrastructure with workers' homes, public institutions, and urban images. Ask how work, time, health, family life, and citizenship changed.",
+      "placesRegions": "British industrial sites; Nordic labor museums; Paris urban history; Alpine railway engineering; Berlin modern architecture",
+      "notes": "Include social and women's history through collections and interpretation, not only rulers' biographies.",
+      "sourceRow": 14,
+      "fromLegs": [
+        10,
+        12,
+        13
+      ],
+      "toLegs": [
+        4,
+        6,
+        11,
+        14
+      ]
+    },
+    {
+      "id": "C-010",
+      "theme": "War, displacement, and reconstruction",
+      "fromLegsText": "6, 13",
+      "toLegsText": "14, 15, 11",
+      "description": "Twentieth-century Europe requires attention to state violence, genocide, resistance, occupation, forced migration, socialist regimes, and reconstruction. Present cityscapes can embody deliberate rebuilding and contested memory.",
+      "whatToCompare": "Compare a battlefield landscape, a preserved camp or memorial, a rebuilt historic center, and a museum of recent conflict. Ask what is original, reconstructed, absent, or disputed.",
+      "placesRegions": "Normandy; Berlin; Auschwitz-Birkenau; Warsaw; Gdańsk; Mostar; Sarajevo",
+      "notes": "Memory sites require time and a respectful pace. Avoid using war as the entire identity of Poland or the Balkans.",
+      "sourceRow": 15,
+      "fromLegs": [
+        6,
+        13
+      ],
+      "toLegs": [
+        14,
+        15,
+        11
+      ]
+    },
+    {
+      "id": "C-011",
+      "theme": "Present Europe and global collections",
+      "fromLegsText": "6, 10, 11",
+      "toLegsText": "13, 14, 15, 3",
+      "description": "Postwar institutions, migration, contemporary art, and debates over museum collections connect the historical chapters to the present. Objects' acquisition and display histories belong in the visit as well as their original creation.",
+      "whatToCompare": "Ask how a museum obtained an object, what context was lost in removal, and how communities interpret it today. Compare the original setting with the museum setting whenever possible.",
+      "placesRegions": "European institutions in Brussels; major encyclopedic museums; contemporary galleries; reconstructed city centers",
+      "notes": "EU institutions represent one part of contemporary Europe, not a definition of the whole continent.",
+      "sourceRow": 16,
+      "fromLegs": [
+        6,
+        10,
+        11
+      ],
+      "toLegs": [
+        13,
+        14,
+        15,
+        3
+      ]
+    },
+    {
+      "id": "L01-C01",
+      "theme": "Journey links",
+      "fromLegsText": "1",
+      "toLegsText": "2",
+      "description": "Roman elites appropriated and transformed Greek art, mythology, architecture and knowledge.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 17,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L01-C02",
+      "theme": "Journey links",
+      "fromLegsText": "1",
+      "toLegsText": "3",
+      "description": "The Greek-speaking Eastern Roman world and Orthodox traditions extend the story beyond classical antiquity.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 18,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L01-C03",
+      "theme": "Journey links",
+      "fromLegsText": "1",
+      "toLegsText": "7",
+      "description": "Renaissance artists and patrons repeatedly reinterpret classical bodies, architecture and texts.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 19,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L01-C04",
+      "theme": "Journey links",
+      "fromLegsText": "1",
+      "toLegsText": "15",
+      "description": "Greek, Byzantine, Venetian and Ottoman networks overlap across the Balkans and eastern Mediterranean.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 20,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        15
+      ]
+    },
+    {
+      "id": "L01-C05",
+      "theme": "Journey links",
+      "fromLegsText": "1",
+      "toLegsText": "13",
+      "description": "Modern classicism, antiquities collecting and philhellenism shape how Greece is seen in Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 21,
+      "fromLegs": [
+        1
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L02-C01",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "1",
+      "description": "Roman art, religion, theatre and philosophy repeatedly adapt Greek forms and ideas.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 22,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        1
+      ]
+    },
+    {
+      "id": "L02-C02",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "3",
+      "description": "The imperial center shifts east, while Roman Christianity develops in different institutional and artistic directions.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 23,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L02-C03",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "7",
+      "description": "Renaissance and Baroque artists reinterpret antiquity and serve powerful patrons.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 24,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L02-C04",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "6",
+      "description": "Papal and royal collecting, Versailles–Caserta comparison, and European neoclassicism recur.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 25,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L02-C05",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "8",
+      "description": "Spanish and Bourbon connections place southern Italy within a wider dynastic Mediterranean.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 26,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L02-C06",
+      "theme": "Journey links",
+      "fromLegsText": "2",
+      "toLegsText": "15",
+      "description": "Roman infrastructure and later maritime powers link Italy to Adriatic and Balkan sites.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 27,
+      "fromLegs": [
+        2
+      ],
+      "toLegs": [
+        15
+      ]
+    },
+    {
+      "id": "L03-C01",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "1",
+      "description": "Greek language, philosophy, Hellenistic objects and Orthodox art connect the Greek and Eastern Roman worlds.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 28,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        1
+      ]
+    },
+    {
+      "id": "L03-C02",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "2",
+      "description": "Constantinople continues Roman institutions and imperial urbanism while diverging from papal Rome.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 29,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L03-C03",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "5",
+      "description": "Islamic art and Sephardic migration link Iberia with Ottoman lands.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 30,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        5
+      ]
+    },
+    {
+      "id": "L03-C04",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "7",
+      "description": "Italian maritime powers, trade and parallel artistic traditions link the eastern Mediterranean with Venice and Italy.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 31,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L03-C05",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "11",
+      "description": "Ottoman and Habsburg spheres repeatedly meet in Central and Southeastern Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 32,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L03-C06",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "15",
+      "description": "Byzantine, Orthodox and Ottoman legacies overlap across the Balkans and Adriatic.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 33,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        15
+      ]
+    },
+    {
+      "id": "L03-C07",
+      "theme": "Journey links",
+      "fromLegsText": "3",
+      "toLegsText": "6",
+      "description": "European and Ottoman painting, Orientalism and collections connect artistic representation across capitals.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 34,
+      "fromLegs": [
+        3
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L04-C01",
+      "theme": "Journey links",
+      "fromLegsText": "4",
+      "toLegsText": "3",
+      "description": "Viking eastern waterways and contacts with Byzantium complicate the idea of isolated northern peoples.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 35,
+      "fromLegs": [
+        4
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L04-C02",
+      "theme": "Journey links",
+      "fromLegsText": "4",
+      "toLegsText": "6",
+      "description": "Norman histories connect Scandinavian maritime mobility to northern France and England; Nordic national art later converses with Paris.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 36,
+      "fromLegs": [
+        4
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L04-C03",
+      "theme": "Journey links",
+      "fromLegsText": "4",
+      "toLegsText": "10",
+      "description": "Hanseatic/Baltic trade and modern northern urban cultures complement the Low Countries maritime story.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 37,
+      "fromLegs": [
+        4
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L04-C04",
+      "theme": "Journey links",
+      "fromLegsText": "4",
+      "toLegsText": "13",
+      "description": "Viking settlement, conquest, sea power, industrialization and parliamentary institutions can be compared across the North Sea.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 38,
+      "fromLegs": [
+        4
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L04-C05",
+      "theme": "Journey links",
+      "fromLegsText": "4",
+      "toLegsText": "14",
+      "description": "Swedish great-power history and Baltic trade connect to northern Germany and Poland.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 39,
+      "fromLegs": [
+        4
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L05-C01",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "2",
+      "description": "Itálica and Córdoba's Roman finds show provincial life after the imperial center.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 40,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L05-C02",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "3",
+      "description": "Compare Islamic and Christian sacred architecture and imperial succession across the Mediterranean, without conflating the Byzantine and Islamic worlds.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 41,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L05-C03",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "7",
+      "description": "Italian Renaissance forms and Islamic craftsmanship meet in Christian Andalusian palaces.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 42,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L05-C04",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "8",
+      "description": "Granada's conquest, Castilian monarchy and religious policy lead into Madrid–Castile and the Habsburg story.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 43,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L05-C05",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "9",
+      "description": "Seville's Atlantic administration complements Portuguese exploration, slavery and empire.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 44,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        9
+      ]
+    },
+    {
+      "id": "L05-C06",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "10",
+      "description": "Flemish religious paintings and trans-European court networks become visible in Granada's Royal Chapel.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 45,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L05-C07",
+      "theme": "Journey links",
+      "fromLegsText": "5",
+      "toLegsText": "13",
+      "description": "Iberian imperial sea routes set up later comparisons with British maritime expansion.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 46,
+      "fromLegs": [
+        5
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L06-C01",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "2",
+      "description": "Cluny's Roman baths and early Christian objects bridge Roman urbanism to medieval France.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 47,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L06-C02",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "3",
+      "description": "Relics acquired from the eastern Christian world connect royal Paris to Constantinople; sacred buildings communicate political authority in both contexts.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 48,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L06-C03",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "4",
+      "description": "Norman origins and maritime mobility connect Scandinavia to northern France.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 49,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        4
+      ]
+    },
+    {
+      "id": "L06-C04",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "7",
+      "description": "Royal French collecting and Loire Renaissance courts connect directly with Italian artists and forms.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 50,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L06-C05",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "8",
+      "description": "Compare centralized monarchies, Catholic patronage and later political revolutions.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 51,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L06-C06",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "10",
+      "description": "Northern painting, trade, bourgeois life and modern art networks link France with the Low Countries.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 52,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L06-C07",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "11",
+      "description": "Versailles provides a model and point of contrast for Habsburg and Central European courts.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 53,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L06-C08",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "13",
+      "description": "Norman conquest, Hundred Years' War, maritime encounters and 1944 create repeated cross-Channel connections.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 54,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L06-C09",
+      "theme": "Journey links",
+      "fromLegsText": "6",
+      "toLegsText": "14",
+      "description": "Revolution, Napoleon, national urbanism and twentieth-century war connect to Berlin and Poland.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 55,
+      "fromLegs": [
+        6
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L07-C01",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "2",
+      "description": "Classical Roman sculpture and architecture become reference material for Renaissance artists; the papacy recruits the same artists trained in Tuscany.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 56,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L07-C02",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "3",
+      "description": "Venice inherits and appropriates Byzantine art and objects and remains entangled with Ottoman commerce and war.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 57,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L07-C03",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "6",
+      "description": "Italian techniques, artists, and court culture spread into France; Paris collections allow comparison with their original settings.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 58,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L07-C04",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "8",
+      "description": "Spanish royal collecting brings Venetian painting into the Prado, connecting Titian and court power across Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 59,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L07-C05",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "10",
+      "description": "Merchant wealth and workshops also shape the northern Renaissance; compare Italian perspective and sculpture with Netherlandish oil painting.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 60,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L07-C06",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "13",
+      "description": "Humanist books, scientific instruments, and later collecting connect the Italian Renaissance to British intellectual and museum history.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 61,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L07-C07",
+      "theme": "Journey links",
+      "fromLegsText": "7",
+      "toLegsText": "15",
+      "description": "Venice’s maritime empire leaves buildings and political relationships along the Adriatic rather than ending at the lagoon.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 62,
+      "fromLegs": [
+        7
+      ],
+      "toLegs": [
+        15
+      ]
+    },
+    {
+      "id": "L08-C01",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "2",
+      "description": "Segovia and Madrid’s archaeological collections continue the Roman provincial story outside Italy.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 63,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L08-C02",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "5",
+      "description": "Toledo’s Islamic and Mudéjar layers and later Castilian expansion must be read alongside al-Andalus, not as an isolated Christian narrative.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 64,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        5
+      ]
+    },
+    {
+      "id": "L08-C03",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "7",
+      "description": "El Greco’s Greek and Venetian formation and Titian’s Spanish royal commissions connect Iberian art to Italy and the eastern Mediterranean.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 65,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L08-C04",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "9",
+      "description": "Portuguese and Castilian maritime empires developed in competition and negotiated divisions of overseas claims.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 66,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        9
+      ]
+    },
+    {
+      "id": "L08-C05",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "10",
+      "description": "The Habsburg monarchy ruled the Low Countries, collected northern painting, and became entangled in Dutch revolt and independence.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 67,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L08-C06",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "13",
+      "description": "Atlantic rivalry and royal collecting connect Spanish and British histories; Goya also bridges European war and political criticism.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 68,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L08-C07",
+      "theme": "Journey links",
+      "fromLegsText": "8",
+      "toLegsText": "14",
+      "description": "Guernica introduces the violence and artistic responses that recur in the twentieth-century Berlin–Poland chapter.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 69,
+      "fromLegs": [
+        8
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L09-C01",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "2",
+      "description": "Évora and Lisbon archaeology show another Roman province and the afterlives of ancient urban sites.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 70,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L09-C02",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "5",
+      "description": "Islamic Iberian architecture and the Christian conquest of Lisbon connect Portugal to the wider al-Andalus chapter.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 71,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        5
+      ]
+    },
+    {
+      "id": "L09-C03",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "7",
+      "description": "Humanism, navigation instruments and Italian-derived artistic forms develop through cross-border exchange.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 72,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L09-C04",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "8",
+      "description": "Castile and Portugal compete, negotiate overseas claims and temporarily share a monarch; Batalha supplies an earlier independence story.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 73,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L09-C05",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "10",
+      "description": "Oceanic commerce, specialist craft, colonial violence and financial networks can be compared with Dutch maritime expansion.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 74,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L09-C06",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "13",
+      "description": "Atlantic trade and the port-wine economy connect Portugal to Britain; museums can compare how each narrates empire.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 75,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L09-C07",
+      "theme": "Journey links",
+      "fromLegsText": "9",
+      "toLegsText": "14",
+      "description": "Dictatorship, resistance and democratic memory connect the Aljube story with twentieth-century European chapters without assuming identical regimes.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 76,
+      "fromLegs": [
+        9
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L10-C01",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "6",
+      "description": "French Gothic and Burgundian connections; Paris and Belgian modern art; Van Gogh’s French development.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 77,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L10-C02",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "7",
+      "description": "Compare Italian and northern Renaissance techniques and merchant patronage; Venice and Amsterdam offer different water-city systems.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 78,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L10-C03",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "8",
+      "description": "Spanish Habsburg rule and Catholic–Protestant conflict illuminate the southern/northern division.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 79,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L10-C04",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "9",
+      "description": "Dutch maritime networks interact with and compete against Portuguese routes and empire.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 80,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        9
+      ]
+    },
+    {
+      "id": "L10-C05",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "11",
+      "description": "Habsburg dynastic collections and Vienna’s Bruegel holdings reveal that artworks crossed political borders.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 81,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L10-C06",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "13",
+      "description": "Maritime rivalry, science, industrialization and imperial collecting connect the North Sea worlds.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 82,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L10-C07",
+      "theme": "Journey links",
+      "fromLegsText": "10",
+      "toLegsText": "14",
+      "description": "Occupied cities, Holocaust memory, looted art and reconstruction supply the twentieth-century sequel.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 83,
+      "fromLegs": [
+        10
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L11-C01",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "2",
+      "description": "Aquincum and sacred authority return to Roman imperial and Christian material culture.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 84,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L11-C02",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "3",
+      "description": "Ottoman rule and the Habsburg–Ottoman frontier provide a second perspective on Istanbul’s empire.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 85,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L11-C03",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "6",
+      "description": "Gothic monarchy, dynastic palaces and modern-art networks connect French and Central European developments.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 86,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L11-C04",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "7",
+      "description": "Italian artists, Renaissance exchange and opera interacted with northern courts and patrons.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 87,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L11-C05",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "8",
+      "description": "Habsburg dynastic connections explain shared political and collecting histories without merging Spanish and Austrian branches.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 88,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        8
+      ]
+    },
+    {
+      "id": "L11-C06",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "10",
+      "description": "Vienna’s Bruegel collection and Art Nouveau comparisons connect the Low Countries to Central Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 89,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L11-C07",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "12",
+      "description": "Tyrol, Salzburg, Alpine routes and river geography connect capital histories to the mountains.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 90,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        12
+      ]
+    },
+    {
+      "id": "L11-C08",
+      "theme": "Journey links",
+      "fromLegsText": "11",
+      "toLegsText": "14",
+      "description": "Imperial collapse, nationalism, Nazi persecution and postwar systems are the later political sequel.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 91,
+      "fromLegs": [
+        11
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L12-C01",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "1",
+      "description": "Ötzi introduces prehistoric European material life before the classical chapter.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 92,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        1
+      ]
+    },
+    {
+      "id": "L12-C02",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "2",
+      "description": "Early Christian transmission and north–south routes help bridge antiquity and medieval Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 93,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L12-C03",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "6",
+      "description": "Religious conflict, regional power and cultivated landscapes connect Geneva and Savoy to French history.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 94,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L12-C04",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "7",
+      "description": "Alpine passes and artistic exchange connect Italy with northern Europe; South Tyrol straddles cultural worlds.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 95,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L12-C05",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "10",
+      "description": "Compare mountain transport and land adaptation with Dutch hydraulic engineering and civic organization.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 96,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L12-C06",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "11",
+      "description": "Tyrol’s Habsburg history and Salzburg’s music extend the capital narrative into regional societies.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 97,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L12-C07",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "13",
+      "description": "Industrial technologies and Romantic art/literature helped create modern Alpine tourism.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 98,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L12-C08",
+      "theme": "Journey links",
+      "fromLegsText": "12",
+      "toLegsText": "14",
+      "description": "Reformation, modernism and shifting Central European borders connect religious and political changes to the mountain regions.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 99,
+      "fromLegs": [
+        12
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L13-C01",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "2",
+      "description": "Roman Baths and Hadrian’s Wall test how Roman institutions changed in a distant province.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 100,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L13-C02",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "4",
+      "description": "York’s Norse evidence connects Scandinavian seafaring and settlement to Britain.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 101,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        4
+      ]
+    },
+    {
+      "id": "L13-C03",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "6",
+      "description": "Norman conquest, Gothic architecture, and cross-Channel politics connect directly to Normandy and northern France.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 102,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L13-C04",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "10",
+      "description": "Trade, finance, collecting, maritime power, and painting invite comparison with the Low Countries.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 103,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L13-C05",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "9",
+      "description": "Navigation and Atlantic empire connect Greenwich and British ports to Portugal’s maritime expansion.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 104,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        9
+      ]
+    },
+    {
+      "id": "L13-C06",
+      "theme": "Journey links",
+      "fromLegsText": "13",
+      "toLegsText": "14",
+      "description": "Industry, mass politics, war, and the transformation of twentieth-century European states carry forward into Germany and Poland.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 105,
+      "fromLegs": [
+        13
+      ],
+      "toLegs": [
+        14
+      ]
+    },
+    {
+      "id": "L14-C01",
+      "theme": "Journey links",
+      "fromLegsText": "14",
+      "toLegsText": "10",
+      "description": "Dutch/Flemish painting and Baltic trade connect art collections and Gdańsk to commercial Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 106,
+      "fromLegs": [
+        14
+      ],
+      "toLegs": [
+        10
+      ]
+    },
+    {
+      "id": "L14-C02",
+      "theme": "Journey links",
+      "fromLegsText": "14",
+      "toLegsText": "11",
+      "description": "Central European dynasties, Jewish communities, imperial border changes, and artistic patronage continue into Poland and Germany.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 107,
+      "fromLegs": [
+        14
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L14-C03",
+      "theme": "Journey links",
+      "fromLegsText": "14",
+      "toLegsText": "6",
+      "description": "Nation-building, revolution, public museums, urban planning, and war invite comparison with France.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 108,
+      "fromLegs": [
+        14
+      ],
+      "toLegs": [
+        6
+      ]
+    },
+    {
+      "id": "L14-C04",
+      "theme": "Journey links",
+      "fromLegsText": "14",
+      "toLegsText": "13",
+      "description": "Industry, empire, science, democracy, and mass politics developed along different paths in Britain and Germany.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 109,
+      "fromLegs": [
+        14
+      ],
+      "toLegs": [
+        13
+      ]
+    },
+    {
+      "id": "L14-C05",
+      "theme": "Journey links",
+      "fromLegsText": "14",
+      "toLegsText": "15",
+      "description": "Multiethnic societies, border changes, persecution, socialist states, war memory, and reconstruction are comparable without equating distinct conflicts.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 110,
+      "fromLegs": [
+        14
+      ],
+      "toLegs": [
+        15
+      ]
+    },
+    {
+      "id": "L15-C01",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "2",
+      "description": "Split and Salona extend Roman provincial and late-antique history into the Adriatic.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 111,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        2
+      ]
+    },
+    {
+      "id": "L15-C02",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "3",
+      "description": "Bosnian mosques, bazaars, houses, and religious institutions extend Ottoman history beyond the imperial capital.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 112,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        3
+      ]
+    },
+    {
+      "id": "L15-C03",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "7",
+      "description": "Trogir and the Adriatic coast show Venetian networks, while Dubrovnik demonstrates a separate maritime republic.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 113,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        7
+      ]
+    },
+    {
+      "id": "L15-C04",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "11",
+      "description": "Habsburg governance, artistic networks, borderlands, and 1914 connect to Vienna and Central Europe.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 114,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        11
+      ]
+    },
+    {
+      "id": "L15-C05",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "5",
+      "description": "Sephardic heritage and the Sarajevo Haggadah connect Iberian Jewish worlds and migration to the Ottoman Balkans.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 115,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        5
+      ]
+    },
+    {
+      "id": "L15-C06",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "12",
+      "description": "Slovenian Alpine landscapes overlap with the Alpine leg and should be allocated once rather than duplicated.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 116,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        12
+      ]
+    },
+    {
+      "id": "L15-C07",
+      "theme": "Journey links",
+      "fromLegsText": "15",
+      "toLegsText": "14",
+      "description": "Jewish history, socialist institutions, war memory, and reconstruction invite careful comparisons across distinct European experiences.",
+      "whatToCompare": null,
+      "placesRegions": null,
+      "notes": null,
+      "sourceRow": 117,
+      "fromLegs": [
+        15
+      ],
+      "toLegs": [
+        14
+      ]
+    }
+  ],
+  "coverageGaps": [
+    {
+      "id": "G-001",
+      "theme": "Prehistory before the classical chapters",
+      "region": "Southwestern France, northern Spain, Atlantic Europe",
+      "whyItMatters": "A Greek starting point leaves out much earlier image-making, settlement, ritual landscapes, and human adaptation. Britain supplies megaliths, but cave art deserves its own geographic and artistic consideration.",
+      "placesToConsider": "Lascaux IV and the Vézère Valley; Musée national de Préhistoire at Les Eyzies; Altamira Museum and Neocave; Brú na Bóinne",
+      "relationToLegs": "Connect to leg1's Bronze Age foundation, leg9's Atlantic context, and leg13's prehistoric monuments.",
+      "routeNotes": "Lascaux IV is a replica, not admission to the original cave. These are separate regional clusters, not convenient additions to Paris, Madrid, or London.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/85\nhttps://lascaux.fr/en/\nhttps://musee-prehistoire-eyzies.fr/en/prehistoric-sites-valley-vezere\nhttps://whc.unesco.org/en/list/310/\nhttps://whc.unesco.org/en/list/659",
+      "sourceRow": 6,
+      "relatedLegs": [
+        1,
+        9,
+        13
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/85",
+        "https://lascaux.fr/en/",
+        "https://musee-prehistoire-eyzies.fr/en/prehistoric-sites-valley-vezere",
+        "https://whc.unesco.org/en/list/310/",
+        "https://whc.unesco.org/en/list/659"
+      ]
+    },
+    {
+      "id": "G-002",
+      "theme": "Carolingian and western monastic Europe",
+      "region": "Aachen and the Rhine; Burgundy and neighboring regions",
+      "whyItMatters": "The transition from Roman worlds to medieval Latin Christendom is thin if the plan jumps directly to mature Gothic buildings. Royal chapels and monasteries show changing legitimacy, learning, worship, and transregional networks.",
+      "placesToConsider": "Aachen Cathedral; Vézelay; Cluny and other Burgundian monastic sites",
+      "relationToLegs": "Bridge legs2–3 to legs6,10 and11; link with the Reformation branch already included in leg14.",
+      "routeNotes": "Aachen is a western-German branch geographically closer to the Low Countries than Berlin. Burgundy requires a separate regional choice, not a casual Paris excursion.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/3\nhttps://whc.unesco.org/en/list/84\nhttps://www.burgundy-tourism.com/discover-burgundy/heritage-sites-and-museums/4-sites-recognised-by-unesco/",
+      "sourceRow": 7,
+      "relatedLegs": [
+        2,
+        3,
+        6,
+        10,
+        11,
+        14
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/3",
+        "https://whc.unesco.org/en/list/84",
+        "https://www.burgundy-tourism.com/discover-burgundy/heritage-sites-and-museums/4-sites-recognised-by-unesco/"
+      ]
+    },
+    {
+      "id": "G-003",
+      "theme": "Mediterranean and Rhône France",
+      "region": "Lyon; Avignon; Arles–Nîmes–Orange",
+      "whyItMatters": "The Paris–northern-France leg leaves Roman provincial cities and the fourteenth-century papal center underrepresented. These surviving settings offer a substantial French contribution to the Mediterranean and European church stories.",
+      "placesToConsider": "Lyon Roman and Renaissance districts; Palais des Papes in Avignon; Arles monuments and art; Nîmes Maison Carrée; Orange theatre; Pont du Gard",
+      "relationToLegs": "Connect legs2,3,6 and7. Consider a revised French grouping rather than trying to append all of Provence to Paris–Normandy.",
+      "routeNotes": "Avignon–Arles–Nîmes is a coherent southern cluster. Lyon is a separate northern anchor; all are outside the northern-France core.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/872/\nhttps://whc.unesco.org/en/list/228\nhttps://whc.unesco.org/en/list/164\nhttps://whc.unesco.org/en/list/1569\nhttps://whc.unesco.org/en/list/163\nhttps://whc.unesco.org/en/list/344/",
+      "sourceRow": 8,
+      "relatedLegs": [
+        2,
+        3,
+        6,
+        7
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/872/",
+        "https://whc.unesco.org/en/list/228",
+        "https://whc.unesco.org/en/list/164",
+        "https://whc.unesco.org/en/list/1569",
+        "https://whc.unesco.org/en/list/163",
+        "https://whc.unesco.org/en/list/344/"
+      ]
+    },
+    {
+      "id": "G-004",
+      "theme": "Burgundian court and provincial France",
+      "region": "Dijon–Beaune; Burgundy",
+      "whyItMatters": "The Burgundian dukes and their artistic patronage provide a powerful political and cultural story outside Paris. Sculpture, religious institutions, and cultivated wine landscapes connect court culture to a wider region.",
+      "placesToConsider": "Dijon ducal palace and Fine Arts Museum; ducal tombs; Beaune Hospices; Burgundy vineyards",
+      "relationToLegs": "Connect northern French kingship in leg6 with Flemish painting and patronage in leg10.",
+      "routeNotes": "A Burgundy branch should be a substantial substitution or revised regional grouping. It is not assumed to fit alongside all Paris–Normandy candidates.",
+      "sourceUrlsText": "https://en.destinationdijon.com/destination/best-of/the-dukes-and-their-estates/\nhttps://en.destinationdijon.com/cultural-heritage/palais-des-ducs-et-des-etats-de-bourgogne/\nhttps://www.burgundy-tourism.com/discover-burgundy/heritage-sites-and-museums/4-sites-recognised-by-unesco/",
+      "sourceRow": 9,
+      "relatedLegs": [
+        6,
+        10
+      ],
+      "sourceUrls": [
+        "https://en.destinationdijon.com/destination/best-of/the-dukes-and-their-estates/",
+        "https://en.destinationdijon.com/cultural-heritage/palais-des-ducs-et-des-etats-de-bourgogne/",
+        "https://www.burgundy-tourism.com/discover-burgundy/heritage-sites-and-museums/4-sites-recognised-by-unesco/"
+      ]
+    },
+    {
+      "id": "G-005",
+      "theme": "Crete and the Minoan world",
+      "region": "Crete, Greece",
+      "whyItMatters": "Mainland Mycenaean sites do not fully represent the Minoan palatial world, its visual culture, administration, and eastern Mediterranean exchange.",
+      "placesToConsider": "Knossos and other Minoan palatial centers; Heraklion Archaeological Museum",
+      "relationToLegs": "An extension or replacement within Greek learning, linking mainland Bronze Age stories to Mediterranean networks.",
+      "routeNotes": "Crete is outside the original mainland leg. Prior visits should be reviewed before deciding whether another Greek journey is needed.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/1733/",
+      "sourceRow": 10,
+      "relatedLegs": [],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1733/"
+      ]
+    },
+    {
+      "id": "G-006",
+      "theme": "Sicily's Mediterranean synthesis",
+      "region": "Sicily, Italy",
+      "whyItMatters": "Arab–Norman monuments bring Latin, Byzantine, Islamic, and other cultural contributions together in a distinct medieval political setting. The island adds Greek and Roman foundations, later cities, and volcanic landscapes.",
+      "placesToConsider": "Palermo's Norman Palace and Palatine Chapel; Monreale; Cefalù; Greek and Roman archaeological candidates elsewhere on Sicily",
+      "relationToLegs": "Connect legs1,2,3,5,6 and15. This is a missing comparative setting, not another version of Rome.",
+      "routeNotes": "Sicily is not a mainland Rome–Campania day-trip branch. It merits a separate substantial substitution or later expanded plan.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/1487\nhttps://unesco.cultura.gov.it/en/projects/palermo-arabo-normanna-e-le-cattedrali-cefalu-e-monreale/",
+      "sourceRow": 11,
+      "relatedLegs": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        15
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1487",
+        "https://unesco.cultura.gov.it/en/projects/palermo-arabo-normanna-e-le-cattedrali-cefalu-e-monreale/"
+      ]
+    },
+    {
+      "id": "G-007",
+      "theme": "Catalonia and Mediterranean Spain",
+      "region": "Barcelona and neighboring Catalan clusters",
+      "whyItMatters": "Madrid–Castile and Andalusia leave Catalan urban culture and major modern architectural innovation underrepresented. Gaudí adds a distinct architectural chapter rather than another royal monument.",
+      "placesToConsider": "Sagrada Família; Park Güell; Casa Milà and other Gaudí works; broader Barcelona art and urban candidates to research during route revision",
+      "relationToLegs": "Connect legs7,8,10 and11 through commercial cities, artistic patronage, and modernism.",
+      "routeNotes": "Barcelona is outside the Castilian core. A later choice should compare a substantial Catalan branch or substitution with Madrid's surrounding cities.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/320\nhttps://sagradafamilia.org/en/antoni-gaudi",
+      "sourceRow": 12,
+      "relatedLegs": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/320",
+        "https://sagradafamilia.org/en/antoni-gaudi"
+      ]
+    },
+    {
+      "id": "G-008",
+      "theme": "Ireland as a distinct historical chapter",
+      "region": "Dublin and the Boyne Valley; wider Ireland",
+      "whyItMatters": "Britain's itinerary does not cover Irish prehistory, Christianity, language, colonial relationships, independence, and migration. A distinct national history should remain visible in the overall atlas.",
+      "placesToConsider": "Brú na Bóinne: Newgrange and Knowth; Dublin's historical and cultural collections for later research",
+      "relationToLegs": "Connect prehistory to leg13 and compare different political and religious trajectories across the neighboring islands.",
+      "routeNotes": "A Dublin–Boyne cluster requires its own time allocation and should not be silently inserted into a London–Edinburgh route.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/659\nhttps://www.worldheritageireland.ie/world-heritage-properties/bru-na-boinne/bru-na-boinne-attributes-of-outstanding-universal-value/",
+      "sourceRow": 13,
+      "relatedLegs": [
+        13
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/659",
+        "https://www.worldheritageireland.ie/world-heritage-properties/bru-na-boinne/bru-na-boinne-attributes-of-outstanding-universal-value/"
+      ]
+    },
+    {
+      "id": "G-009",
+      "theme": "Baltic trade and the Polish–Lithuanian world",
+      "region": "Tallinn, Riga, Vilnius and the Baltic region",
+      "whyItMatters": "Nordic capitals and Polish cities only partially cover Hanseatic commerce, Baltic urban cultures, the Grand Duchy of Lithuania, and the wider Polish–Lithuanian historical world.",
+      "placesToConsider": "Tallinn old town; Riga old town and later architectural layers; Vilnius historic center",
+      "relationToLegs": "Connect legs4,10 and14 through northern trade, confessional differences, political unions, and modern national histories.",
+      "routeNotes": "These capitals constitute a separate Baltic corridor. They are not additional convenient bases within a ten-day Scandinavian or Berlin–Poland journey.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/822\nhttps://whc.unesco.org/en/list/852\nhttps://whc.unesco.org/en/list/541/",
+      "sourceRow": 14,
+      "relatedLegs": [
+        4,
+        10,
+        14
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/822",
+        "https://whc.unesco.org/en/list/852",
+        "https://whc.unesco.org/en/list/541/"
+      ]
+    },
+    {
+      "id": "G-010",
+      "theme": "Eastern Orthodox and eastern European imperial worlds",
+      "region": "Ukraine and Russia, with connections across eastern Europe",
+      "whyItMatters": "Istanbul introduces Byzantine Christianity, but it does not represent its later reception in Kyivan and other Orthodox worlds, nor the Russian imperial and artistic contribution to European history.",
+      "placesToConsider": "Kyiv Saint-Sophia and Kyiv-Pechersk heritage ensembles; Saint Petersburg historic center and associated collections for separate later research",
+      "relationToLegs": "Connect legs3,11 and14 through religion, empires, artistic exchange, revolution, and contested borders.",
+      "routeNotes": "This records a historical coverage gap. It assumes no present travel route; any future visit requires a separate contemporary feasibility assessment.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/527\nhttps://whc.unesco.org/en/list/540/",
+      "sourceRow": 15,
+      "relatedLegs": [
+        3,
+        11,
+        14
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/527",
+        "https://whc.unesco.org/en/list/540/"
+      ]
+    },
+    {
+      "id": "G-011",
+      "theme": "Orthodox and Byzantine–Slavic Balkans",
+      "region": "Serbia, Bulgaria, Romania and neighboring Balkan regions",
+      "whyItMatters": "The Adriatic–Bosnian corridor is only one part of Balkan history. Orthodox monasteries and painted churches add major religious, architectural, and artistic traditions underrepresented by the coastal route.",
+      "placesToConsider": "Studenica in Serbia; Rila Monastery and Boyana Church in Bulgaria; painted churches of Moldavia in Romania",
+      "relationToLegs": "Extend the Byzantine thread from leg3 and compare it with Catholic, Ottoman, Habsburg, and Yugoslav layers in legs11 and15.",
+      "routeNotes": "These are separate regional clusters. Do not convert the Adriatic leg into a multi-country Balkan sweep.",
+      "sourceUrlsText": "https://whc.unesco.org/en/list/389\nhttps://whc.unesco.org/en/list/216\nhttps://whc.unesco.org/en/list/42/\nhttps://whc.unesco.org/en/list/598/",
+      "sourceRow": 16,
+      "relatedLegs": [
+        3,
+        11,
+        15
+      ],
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/389",
+        "https://whc.unesco.org/en/list/216",
+        "https://whc.unesco.org/en/list/42/",
+        "https://whc.unesco.org/en/list/598/"
+      ]
+    },
+    {
+      "id": "G-012",
+      "theme": "Northern and Indigenous Europe beyond the capitals",
+      "region": "Sápmi and the far north; Finland and Iceland as wider coverage gaps",
+      "whyItMatters": "A capitals-and-fjords Nordic route cannot fully represent northern Indigenous histories and present cultural life, nor the entire Nordic region. A museum visit should be a beginning rather than a substitute for those worlds.",
+      "placesToConsider": "Sámi Museum Siida in Inari; the Jokkmokk candidate already recorded in leg4; additional Finnish and Icelandic clusters to research before any route expansion",
+      "relationToLegs": "Connect leg4 with questions of borders, land, contemporary art, language, and environmental change.",
+      "routeNotes": "Far-northern travel is a substantial geographic and seasonal choice. Finland and Iceland are not automatically added to the Nordic capitals route.",
+      "sourceUrlsText": "https://siida.fi/en/\nhttps://siida.fi/en/the-sami-museum/open-air-museum/",
+      "sourceRow": 17,
+      "relatedLegs": [
+        4
+      ],
+      "sourceUrls": [
+        "https://siida.fi/en/",
+        "https://siida.fi/en/the-sami-museum/open-air-museum/"
+      ]
+    },
+    {
+      "id": "G-013",
+      "theme": "Transnational communities and ordinary lives",
+      "region": "Across the existing routes; Brno as one specific candidate",
+      "whyItMatters": "An atlas organized around states, rulers, and prestigious buildings can miss Roma history, women's lives, labor, migration, and present communities. These perspectives should recur through interpretation and collections, not be confined to a single extra trip.",
+      "placesToConsider": "Museum of Romani Culture in Brno; labor, social-history, community, and contemporary-art collections already included across the fifteen legs",
+      "relationToLegs": "Connect legs4,6,10,11,13,14 and15. Add viewpoints to existing regional visits before adding geography.",
+      "routeNotes": "Brno is a possible Czech branch, not an automatic fourth base for Prague–Vienna–Budapest. Most of this improvement comes from how existing sites are read.",
+      "sourceUrlsText": "https://www.rommuz.cz/en/",
+      "sourceRow": 18,
+      "relatedLegs": [
+        4,
+        6,
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "sourceUrls": [
+        "https://www.rommuz.cz/en/"
+      ]
+    }
+  ],
+  "metadata": {
+    "schemaVersion": 1,
+    "sourceWorkbook": "europe_civilizations_inventory.xlsx",
+    "sourceHeaderRow": 5,
+    "counts": {
+      "journeys": 15,
+      "places": 354,
+      "connections": 112,
+      "coverageGaps": 13
+    },
+    "headerMap": {
+      "Overview": {
+        "Leg": "leg",
+        "Journey": "title",
+        "Countries / region": "countriesRegion",
+        "Guiding question": "guidingQuestion",
+        "Civilization storyline": "civilizationStoryline",
+        "Geographic backbone": "geographicBackbone",
+        "10-day feasibility": "tenDayFeasibility",
+        "Category coverage": "categoryCoverage",
+        "Connected legs": "connectedLegsText",
+        "Candidates": "candidateCount"
+      },
+      "Places": {
+        "ID": "id",
+        "Leg": "leg",
+        "Place / experience": "name",
+        "City or area": "cityArea",
+        "Country": "country",
+        "Cluster": "cluster",
+        "Category": "category",
+        "Era / period": "eraPeriod",
+        "Candidate status": "candidateStatus",
+        "What to see or do": "whatToSee",
+        "Why it matters": "whyItMatters",
+        "Connects to": "connectsTo",
+        "Geography and route notes": "routeNotes",
+        "Source URLs": "sourceUrlsText"
+      },
+      "Connections": {
+        "ID": "id",
+        "Theme": "theme",
+        "From leg(s)": "fromLegsText",
+        "To leg(s)": "toLegsText",
+        "Connection or coverage gap": "description",
+        "What to compare": "whatToCompare",
+        "Places / regions": "placesRegions",
+        "Notes": "notes"
+      },
+      "Coverage gaps": {
+        "ID": "id",
+        "Theme": "theme",
+        "Region": "region",
+        "Why it matters": "whyItMatters",
+        "Places and collections to consider": "placesToConsider",
+        "Relation to the 15 legs": "relationToLegs",
+        "Geography and route notes": "routeNotes",
+        "Source URLs": "sourceUrlsText"
+      }
+    },
+    "derivedFields": {
+      "id": "Journey IDs only are generated from leg number; place, connection and gap IDs are original.",
+      "sourceRow": "Original one-based workbook row.",
+      "countryCodes": "ISO3 references for present-day geography, including both countries for Switzerland–Italy.",
+      "categories": "Comma-separated Overview category coverage, with original text also preserved.",
+      "connectedLegs": "Numeric Overview leg references, with original text also preserved.",
+      "fromLegs": "Numeric connection origins, with original text also preserved.",
+      "toLegs": "Numeric connection destinations, with original text also preserved.",
+      "relatedLegs": "Leg references parsed from narrative links, with original narrative also preserved.",
+      "sourceUrls": "Nonblank source URL lines, with original cell text also preserved."
+    },
+    "anonymizedCommentaryCells": 3,
+    "privateEditableFieldsExcluded": true,
+    "confirmedVisitsInferred": false
+  }
+}

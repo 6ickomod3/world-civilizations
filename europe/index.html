@@ -2,60 +2,55 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="A personal Europe architecture passport: connect buildings to countries, civilizations and time, then collect the places you visit.">
-  <meta name="theme-color" content="#233b34">
-  <title>Europe Through Time · Your Architecture Passport</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Explore Europe through 15 connected stories, 354 places, a living map and a historical timeline. Build your own journeys through art, cities, landscapes and civilizations.">
+  <meta name="theme-color" content="#142e29">
+  <title>Europe in Fifteen Stories · A Journey Atlas</title>
+  <link rel="stylesheet" href="style.css?v=2">
   <script defer src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
-  <script type="module" src="app.js"></script>
+  <script type="module" src="app.js?v=2"></script>
 </head>
 <body>
-  <a class="skip-link" href="#explore">Skip to the atlas</a>
+  <a class="skip-link" href="#journey">Skip to the journey</a>
   <header class="site-header">
-    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">E</span><span>EUROPE<br><small>THROUGH TIME</small></span></a>
-    <nav aria-label="Main navigation"><a href="#explore">Atlas</a><a href="#buildings">Buildings</a><a href="#passport">My passport</a><a class="world-link" href="../">World atlas ↗</a></nav>
+    <a class="brand" href="./"><span class="brand-mark">E</span><span>EUROPE<small>A JOURNEY ATLAS</small></span></a>
+    <nav aria-label="Main navigation"><a href="#chapters">15 stories</a><a href="#atlas">Map + time</a><a href="#connections">Connections</a><a href="#passport">My trip <span id="nav-trip-count">0</span></a><a href="../">World atlas ↗</a></nav>
   </header>
   <main>
-    <section class="hero">
-      <div><p class="eyebrow">A FIELD GUIDE FOR YOUR NEXT TRIP</p><h1>Every place has<br>a place in <em>time.</em></h1><p class="hero-copy">Find the civilization behind a building, read its architecture, and collect the places you visit. Your Europe trip, in time and geography.</p></div>
-      <div class="hero-aside"><span class="edition">EUROPE / FIRST EDITION</span><div class="edition-rule"></div><p><strong id="landmark-total">32</strong> landmarks<br><span id="country-total">18</span> countries<br>5,000 years of building</p><span class="edition-note">A curated starting collection</span></div>
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-photo" id="hero-photo" src="images/parthenon.jpg" alt="The Parthenon in Athens">
+      <div class="hero-shade"></div>
+      <div class="hero-content"><p class="eyebrow light">15 CONNECTED JOURNEYS · 354 PLACES TO DISCOVER</p><h1 id="hero-title">Europe is a story.<br><em>Walk into it.</em></h1><p>Read an empire in a street. Follow an idea across a sea. Find the layers of history in the places you choose to visit.</p><a class="button gold" href="#journey">Begin the journey <span>↓</span></a></div>
+      <div class="hero-footer"><span>Art · architecture · archaeology · living culture · landscapes</span><span id="hero-credit"></span></div>
+      <div class="hero-index"><strong>15</strong><span>regional stories</span><strong>354</strong><span>candidate experiences</span></div>
     </section>
-    <section id="passport" class="passport-strip" aria-labelledby="passport-title">
-      <div class="passport-heading"><p class="eyebrow">YOUR TRAVEL SCORECARD</p><h2 id="passport-title">A passport to the past.</h2><p id="passport-summary">Add your first stop to start your trip.</p></div>
-      <div class="passport-metrics"><div><strong id="visited-score">0 / 0</strong><span>Stops visited / in your trip</span></div><div><strong id="countries-score">0</strong><span>Countries visited</span></div><div><strong id="eras-score">0</strong><span>Historical periods explored</span></div></div>
-      <div class="passport-actions"><button id="download-trip" class="text-button" type="button">Download my trip ↓</button><label class="text-button import-label" for="restore-trip">Restore a saved trip ↑<input id="restore-trip" type="file" accept="application/json,.json"></label><span class="save-note">Your visits and notes stay on this device.</span></div>
+    <section id="chapters" class="chapter-navigation" aria-label="Choose a journey">
+      <div id="act-navigation" class="act-navigation"></div>
+      <div class="chapter-switcher"><button type="button" id="previous-journey" class="arrow-button" aria-label="Previous journey">←</button><label for="journey-select"><span class="eyebrow">CHOOSE YOUR STORY</span><select id="journey-select" aria-label="Choose your journey"></select></label><button type="button" id="next-journey" class="arrow-button" aria-label="Next journey">→</button><span class="learning-note">A sequence for learning.<br>Histories overlap.</span></div>
+      <details class="chapter-browser"><summary>See all fifteen journeys <span>+</span></summary><div id="chapter-grid" class="chapter-grid"></div></details>
     </section>
-    <section id="explore" class="explore" aria-labelledby="explore-heading">
-      <div class="section-heading"><div><p class="eyebrow">01 / FIND YOUR PLACE</p><h2 id="explore-heading">Europe, one stop at a time.</h2></div><div class="view-switch" role="group" aria-label="Collection view"><button id="view-all" type="button" class="active" aria-pressed="true">Explore all</button><button id="view-trip" type="button" aria-pressed="false">My trip</button></div></div>
-      <div class="filters">
-        <label>Country<select id="country-filter"><option value="all">All countries</option></select></label>
-        <label>Historical period<select id="era-filter"><option value="all">All periods</option></select></label>
-        <label class="search-field">Find a place<input id="search-filter" type="search" placeholder="City, building or architecture…" autocomplete="off"></label>
-        <button id="clear-filters" class="secondary-button" type="button">Clear filters</button>
-      </div>
-      <div class="atlas-grid">
-        <div class="map-panel"><div class="panel-top"><span class="eyebrow">THE GEOGRAPHY</span><span id="map-count" class="small-label">Loading landmarks…</span></div><svg id="europe-map" role="img" aria-label="Map of Europe with selectable architecture landmarks"></svg><div class="map-legend"><span><i class="dot" aria-hidden="true"></i>Discover</span><span><i class="dot planned" aria-hidden="true"></i>In my trip</span><span><i class="dot visited" aria-hidden="true"></i>Visited</span></div><p class="map-note">Modern country outlines · dots mark buildings · numbered dots group nearby stops</p><div id="cluster-choices" class="cluster-choices" hidden></div></div>
-        <article id="selected-card" class="selected-card" aria-label="Selected building"><p class="loading">Gathering the stories behind the stones…</p></article>
-      </div>
+    <section id="journey" class="journey-section" aria-labelledby="journey-title">
+      <div class="journey-heading"><div><p id="journey-kicker" class="eyebrow"></p><h2 id="journey-title">Mainland Greece</h2><p id="journey-hook" class="journey-hook"></p></div><div class="journey-stats"><span id="journey-region"></span><strong id="journey-count"></strong><span id="journey-period"></span></div></div>
+      <div class="story-layout"><div class="story-question"><span class="tiny-title">THE QUESTION THAT LEADS THE JOURNEY</span><blockquote id="guiding-question"></blockquote></div><div><p id="journey-intro" class="journey-intro"></p><div id="story-beats" class="story-beats" role="group" aria-label="Story chapters"></div></div></div>
+      <div id="story-focus" class="story-focus"></div>
     </section>
-    <section id="time" class="time-section" aria-labelledby="time-heading">
-      <div class="section-heading"><div><p class="eyebrow">02 / FIND ITS MOMENT</p><h2 id="time-heading">The world that built it.</h2></div><label class="time-window-label">Time window<select id="time-window"><option value="classical">Classical to present</option><option value="medieval">Medieval to present</option><option value="all">Prehistory to present</option></select></label></div>
-      <div id="time-context" class="time-context"></div>
-      <div class="timeline-shell"><svg id="history-timeline" role="img" aria-label="Historical contexts and construction dates for the selected building"></svg></div>
-      <div class="timeline-legend"><span><i class="line-key" aria-hidden="true"></i>Approximate historical period</span><span><i class="line-key selected" aria-hidden="true"></i>Selected construction phase</span><span><i class="point-key" aria-hidden="true"></i>Other buildings: construction starts</span></div>
-      <p class="time-note">These contexts overlap. Styles travel across borders and return in revivals; a building’s construction date is not the beginning or end of a civilization.</p>
-      <div id="period-detail" class="period-detail" hidden></div>
+    <section id="atlas" class="atlas-section" aria-labelledby="atlas-title">
+      <div class="section-heading"><div><p class="eyebrow">THE SAME STORY, IN SPACE AND TIME</p><h2 id="atlas-title">Where it happened. <em>When it mattered.</em></h2></div><div class="atlas-actions"><label>Map scale<select id="map-scale"><option value="journey">This journey</option><option value="europe">All Europe</option></select></label><label>Time scale<select id="time-scale"><option value="journey">Journey overview</option><option value="focus">Selected period</option></select></label></div></div>
+      <div class="chronomap"><div class="map-pane"><div class="panel-heading"><span class="tiny-title">THE GEOGRAPHY</span><span id="map-caption"></span></div><svg id="journey-map" role="img" aria-label="Sourced locations for this journey"></svg><div id="map-selection" class="map-selection"></div><div class="map-key"><span><i class="key-dot"></i>Candidate</span><span><i class="key-dot picked"></i>In my trip</span><span><i class="key-dot visited"></i>Visited</span><span>Numbers group nearby references</span></div><p class="reference-note">Modern borders for orientation. City and regional reference points are labelled; route lines connect learning stops.</p><div id="map-choices" class="map-choices" hidden></div></div>
+      <div class="time-pane"><div class="panel-heading"><span class="tiny-title">THE HISTORICAL LAYERS</span><span id="time-caption"></span></div><div id="selected-time-label" class="selected-time-label"></div><svg id="journey-timeline" role="img" aria-label="Historical periods and a selected place's time context"></svg><div id="time-floating" class="time-floating"></div><div class="time-key"><span><i class="band-key"></i>Period from the guide</span><span><i class="band-key exact"></i>Verified building phase</span><span><i class="band-key broader"></i>Historical context</span></div><p class="reference-note">Century and era bands are approximate. Collections can span several periods; landscape and living-culture experiences need their own kinds of time.</p><div id="history-context-detail" class="context-detail" hidden></div></div></div>
     </section>
-    <section id="buildings" class="building-section" aria-labelledby="building-heading">
-      <div class="section-heading"><div><p class="eyebrow">03 / BUILD YOUR TRIP</p><h2 id="building-heading">The architecture collection.</h2></div><span id="collection-count" class="small-label" aria-live="polite"></span></div>
-      <div id="era-coverage" class="era-coverage" aria-label="Visited landmark coverage by historical period"></div>
-      <div id="building-grid" class="building-grid"></div>
-      <div id="empty-state" class="empty-state" hidden><h3>No stops here yet.</h3><p id="empty-copy">Try another country or period.</p><button id="empty-reset" class="primary-button" type="button">Explore the whole collection</button></div>
+    <section id="places" class="places-section" aria-labelledby="places-title">
+      <div class="section-heading"><div><p class="eyebrow">MAKE THE STORY TANGIBLE</p><h2 id="places-title">Places, objects, <em>and experiences.</em></h2></div><span id="place-count" class="small-label" aria-live="polite"></span></div>
+      <div class="place-toolbar"><label class="search-control">Find a place<input type="search" id="place-search" placeholder="A city, a painting, a building, an idea…" autocomplete="off"></label><label>Experience<select id="category-filter"><option value="all">All experiences</option></select></label><label>Show<select id="collection-filter"><option value="journey">This journey</option><option value="all">All 354 candidates</option><option value="trip">My trip across Europe</option></select></label><button type="button" id="clear-selection" class="text-button">Clear filters</button></div>
+      <div class="place-workspace"><div class="place-list-pane"><div id="place-list" class="place-list"></div><div id="empty-places" class="empty-places" hidden><h3>A different story is waiting.</h3><p>Clear the filters or add places to your trip.</p><button id="empty-reset" class="button outline" type="button">Explore this journey</button></div><div id="list-pagination" class="list-pagination"></div></div><article id="place-detail" class="place-detail" aria-label="Selected place"><p class="loading-message">Opening the atlas…</p></article></div>
     </section>
-    <footer><div><strong>Europe through time.</strong><p>A personal field guide, not a complete history of Europe. Construction phases and dates are approximate where noted. Each building links to its sources.</p></div><a href="../">Return to the world atlas ↗</a></footer>
+    <section id="route" class="route-section" aria-labelledby="route-title"><div class="section-heading"><div><p class="eyebrow">TURN A CHAPTER INTO A TRIP</p><h2 id="route-title">Choose a backbone. <em>Leave room to live.</em></h2></div><span class="small-label">The inventory is a pool of choices.</span></div><div class="route-layout"><div><span class="tiny-title">THE GEOGRAPHIC BACKBONE</span><p id="route-backbone" class="route-backbone"></p><div id="route-options" class="route-options"></div></div><div class="route-planning"><span class="tiny-title">SHAPING ROUGHLY TEN DAYS</span><p id="route-feasibility"></p><details><summary>Interpretation and practical notes</summary><div id="route-cautions"></div></details><p class="edition-note">Availability notes follow the guide’s 11 October 2026 edition. Recheck them for your eventual travel dates.</p></div></div></section>
+    <section id="connections" class="connections-section" aria-labelledby="connections-title"><div class="section-heading"><div><p class="eyebrow">THE STORY CONTINUES ELSEWHERE</p><h2 id="connections-title">Follow a thread <em>across Europe.</em></h2></div><label class="thread-select">Choose a theme<select id="theme-select"></select></label></div><div id="theme-card" class="theme-card"></div><div id="journey-bridges" class="journey-bridges"></div><details class="all-links"><summary id="all-links-summary">All connections for this journey</summary><div id="all-links-list"></div></details></section>
+    <section id="passport" class="passport-section" aria-labelledby="passport-title"><div class="section-heading"><div><p class="eyebrow">YOUR PERSONAL JOURNEY</p><h2 id="passport-title">Keep the places. <em>Collect the stories.</em></h2><p id="passport-summary" class="small-label"></p></div><div class="passport-actions"><button type="button" id="download-trip" class="button outline">Download my trip ↓</button><label class="button outline import-control" for="restore-trip">Restore a trip ↑<input type="file" id="restore-trip" accept="application/json,.json"></label></div></div><div class="passport-stats"><div><strong id="trip-planned">0</strong><span>places in your trip</span></div><div><strong id="trip-visited">0</strong><span>places visited</span></div><div><strong id="trip-journeys">0 / 15</strong><span>journeys with a visit</span></div><div><strong id="trip-categories">0 / 10</strong><span>experience types explored</span></div></div><div id="passport-journeys" class="passport-journeys"></div><div id="legacy-visits" class="legacy-visits" hidden></div><p class="edition-note">Your decisions, notes and ratings stay on this device. Download and restore a copy to move them between devices.</p></section>
+    <section class="gaps-section"><details><summary><span><span class="eyebrow">A WIDER EUROPE</span><strong>The edges of this atlas</strong></span><span>13 themes and regional extensions +</span></summary><p>Keep the guide’s open questions visible while choosing substitutions and future journeys.</p><div id="coverage-gaps" class="coverage-gaps"></div></details></section>
+    <footer><div><span class="footer-brand">Europe in fifteen stories.</span><p>Adapted from your Europe Civilizations Atlas and its complete place inventory. Source IDs and links are preserved. The learning sequence connects overlapping histories; it is not a claim that regions belong to separate eras.</p><details class="photo-credits"><summary>Photography credits and licenses</summary><div id="photo-credits"></div></details></div><a href="../">Return to the world atlas ↗</a></footer>
     <div id="feedback" role="status" aria-live="polite"></div>
-    <noscript><p class="empty-state">Enable JavaScript to explore the map, timeline and personal trip scorecard.</p></noscript>
+    <noscript><p class="loading-message">Enable JavaScript to explore the stories, maps, timeline and personal trip record.</p></noscript>
   </main>
 </body>
 </html>

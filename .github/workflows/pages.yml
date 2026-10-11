@@ -31,7 +31,9 @@ jobs:
         run: |
           mkdir _site
           cp index.html .nojekyll _site/
-          cp -R europe _site/europe
+          mkdir -p _site/europe
+          cp europe/*.html europe/*.css europe/*.js europe/*.json _site/europe/
+          cp -R europe/images _site/europe/images
 
       - name: Upload website
         uses: actions/upload-pages-artifact@v4

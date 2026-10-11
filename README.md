@@ -10,13 +10,13 @@ The repository is [6ickomod3/world-civilizations](https://github.com/6ickomod3/w
 
 [https://6ickomod3.github.io/world-civilizations/](https://6ickomod3.github.io/world-civilizations/)
 
-The world atlas is in `index.html`. The Europe architecture passport is a second static page at:
+The world atlas is in `index.html`. The Europe story atlas is a second static page at:
 
 [https://6ickomod3.github.io/world-civilizations/europe/](https://6ickomod3.github.io/world-civilizations/europe/)
 
-The Europe page connects 32 buildings across 19 countries to a map, construction dates, architecture families, and overlapping historical contexts. Its personal scorecard tracks planned and visited places, visit dates, optional impressions, notes, and coverage by country and historical period. Personal records stay in the browser and can be downloaded and restored as a JSON file; they are not stored in the repository or sent to a server.
+The Europe page presents the guide’s complete 15 regional journeys and 354 candidate places through 45 linked story scenes, maps, historical time layers, and a searchable inventory. It also preserves 112 cross-journey connections, 13 coverage extensions and the guide’s alternative route choices. A personal passport tracks kept and visited places, dates, impressions and notes. Records remain in the browser and can be downloaded/restored; the redesigned atlas migrates the previous 32-landmark passport and accepts its backups.
 
-Europe source files are in `europe/`. The datasets link to monument operators, heritage organizations, museums and academic sources. Photos are locally hosted; each selected building displays its Wikimedia Commons attribution and license, also recorded in `europe/photos.json`. Geographic points can be approximate. Modern country outlines are orientation references rather than historical borders.
+Europe source files are in `europe/`. `journeys-source.json` and `places-source.json` reproduce the public reference content from the source workbook while preserving its original IDs and 615 place source links. `journey-stories.json` adapts all 15 PDF chapters with verified page references. `place-enrichment.json` labels each map point as a site, city or regional reference, and distinguishes verified construction from contextual periods, mixed collections and landscapes. Modern country outlines provide orientation; map lines show conceptual learning connections. All 15 journey photographs and the existing landmark images have credits and license links.
 
 ## Publish with GitHub Pages
 
@@ -25,7 +25,7 @@ Europe source files are in `europe/`. The datasets link to monument operators, h
 3. Open **Actions → Deploy GitHub Pages** and run the workflow if the initial push occurred before Pages was enabled.
 4. Wait for the deployment to succeed; GitHub shows the published URL in the workflow's `github-pages` environment and in the Pages settings.
 
-The included workflow copies `index.html`, `.nojekyll`, and the `europe/` directory into the published artifact. It uses GitHub's official Pages actions and requires no extra credentials or package installation.
+The included workflow publishes the root page and only Europe HTML, CSS, JavaScript, JSON and image assets. The source PDF/Excel files remain local, are Git-ignored and are excluded from deployment. Private editable workbook decisions and personal notes are omitted from the public guide data. It uses GitHub's official Pages actions and requires no extra credentials or package installation.
 
 ## Update the atlas
 
@@ -44,3 +44,9 @@ Then visit [http://localhost:8000](http://localhost:8000).
 - [GitHub Pages overview](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
 - [Configure the publishing source](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 - [Use GitHub's official Pages workflow actions](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+
+## Guide conversion and verification
+
+With the source workbook available locally in `europe/`, run `python3 scripts/convert-trip-guide.py --check` to verify deterministic extraction of all 15 journeys, 354 places, 112 connections and 13 gaps. Run without `--check` to regenerate the two workbook-derived JSON files. PDF story changes and any geographical or temporal enrichment require review against the source.
+
+`node scripts/test-guide-core.mjs` checks complete references, original passport migration, backup formats, safe records, filters and BCE/CE boundaries. `node scripts/test-guide-app.mjs` verifies the actual app’s storage initialization, notes-only backup controls, cross-chapter search and empty selection behavior.
