@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personal Europe architecture passport: connect buildings to countries, civilizations and time, then collect the places you visit.">
+  <meta name="theme-color" content="#233b34">
+  <title>Europe Through Time · Your Architecture Passport</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#explore">Skip to the atlas</a>
+  <header class="site-header">
+    <a class="brand" href="./"><span class="brand-mark" aria-hidden="true">E</span><span>EUROPE<br><small>THROUGH TIME</small></span></a>
+    <nav aria-label="Main navigation"><a href="#explore">Atlas</a><a href="#buildings">Buildings</a><a href="#passport">My passport</a><a class="world-link" href="../">World atlas ↗</a></nav>
+  </header>
+  <main>
+    <section class="hero">
+      <div><p class="eyebrow">A FIELD GUIDE FOR YOUR NEXT TRIP</p><h1>Every place has<br>a place in <em>time.</em></h1><p class="hero-copy">Find the civilization behind a building, read its architecture, and collect the places you visit. Your Europe trip, in time and geography.</p></div>
+      <div class="hero-aside"><span class="edition">EUROPE / FIRST EDITION</span><div class="edition-rule"></div><p><strong id="landmark-total">32</strong> landmarks<br><span id="country-total">18</span> countries<br>5,000 years of building</p><span class="edition-note">A curated starting collection</span></div>
+    </section>
+    <section id="passport" class="passport-strip" aria-labelledby="passport-title">
+      <div class="passport-heading"><p class="eyebrow">YOUR TRAVEL SCORECARD</p><h2 id="passport-title">A passport to the past.</h2><p id="passport-summary">Add your first stop to start your trip.</p></div>
+      <div class="passport-metrics"><div><strong id="visited-score">0 / 0</strong><span>Stops visited / in your trip</span></div><div><strong id="countries-score">0</strong><span>Countries visited</span></div><div><strong id="eras-score">0</strong><span>Historical periods explored</span></div></div>
+      <div class="passport-actions"><button id="download-trip" class="text-button" type="button">Download my trip ↓</button><label class="text-button import-label" for="restore-trip">Restore a saved trip ↑<input id="restore-trip" type="file" accept="application/json,.json"></label><span class="save-note">Your visits and notes stay on this device.</span></div>
+    </section>
+    <section id="explore" class="explore" aria-labelledby="explore-heading">
+      <div class="section-heading"><div><p class="eyebrow">01 / FIND YOUR PLACE</p><h2 id="explore-heading">Europe, one stop at a time.</h2></div><div class="view-switch" role="group" aria-label="Collection view"><button id="view-all" type="button" class="active" aria-pressed="true">Explore all</button><button id="view-trip" type="button" aria-pressed="false">My trip</button></div></div>
+      <div class="filters">
+        <label>Country<select id="country-filter"><option value="all">All countries</option></select></label>
+        <label>Historical period<select id="era-filter"><option value="all">All periods</option></select></label>
+        <label class="search-field">Find a place<input id="search-filter" type="search" placeholder="City, building or architecture…" autocomplete="off"></label>
+        <button id="clear-filters" class="secondary-button" type="button">Clear filters</button>
+      </div>
+      <div class="atlas-grid">
+        <div class="map-panel"><div class="panel-top"><span class="eyebrow">THE GEOGRAPHY</span><span id="map-count" class="small-label">Loading landmarks…</span></div><svg id="europe-map" role="img" aria-label="Map of Europe with selectable architecture landmarks"></svg><div class="map-legend"><span><i class="dot" aria-hidden="true"></i>Discover</span><span><i class="dot planned" aria-hidden="true"></i>In my trip</span><span><i class="dot visited" aria-hidden="true"></i>Visited</span></div><p class="map-note">Modern country outlines · dots mark buildings · numbered dots group nearby stops</p><div id="cluster-choices" class="cluster-choices" hidden></div></div>
+        <article id="selected-card" class="selected-card" aria-label="Selected building"><p class="loading">Gathering the stories behind the stones…</p></article>
+      </div>
+    </section>
+    <section id="time" class="time-section" aria-labelledby="time-heading">
+      <div class="section-heading"><div><p class="eyebrow">02 / FIND ITS MOMENT</p><h2 id="time-heading">The world that built it.</h2></div><label class="time-window-label">Time window<select id="time-window"><option value="classical">Classical to present</option><option value="medieval">Medieval to present</option><option value="all">Prehistory to present</option></select></label></div>
+      <div id="time-context" class="time-context"></div>
+      <div class="timeline-shell"><svg id="history-timeline" role="img" aria-label="Historical contexts and construction dates for the selected building"></svg></div>
+      <div class="timeline-legend"><span><i class="line-key" aria-hidden="true"></i>Approximate historical period</span><span><i class="line-key selected" aria-hidden="true"></i>Selected construction phase</span><span><i class="point-key" aria-hidden="true"></i>Other buildings: construction starts</span></div>
+      <p class="time-note">These contexts overlap. Styles travel across borders and return in revivals; a building’s construction date is not the beginning or end of a civilization.</p>
+      <div id="period-detail" class="period-detail" hidden></div>
+    </section>
+    <section id="buildings" class="building-section" aria-labelledby="building-heading">
+      <div class="section-heading"><div><p class="eyebrow">03 / BUILD YOUR TRIP</p><h2 id="building-heading">The architecture collection.</h2></div><span id="collection-count" class="small-label" aria-live="polite"></span></div>
+      <div id="era-coverage" class="era-coverage" aria-label="Visited landmark coverage by historical period"></div>
+      <div id="building-grid" class="building-grid"></div>
+      <div id="empty-state" class="empty-state" hidden><h3>No stops here yet.</h3><p id="empty-copy">Try another country or period.</p><button id="empty-reset" class="primary-button" type="button">Explore the whole collection</button></div>
+    </section>
+    <footer><div><strong>Europe through time.</strong><p>A personal field guide, not a complete history of Europe. Construction phases and dates are approximate where noted. Each building links to its sources.</p></div><a href="../">Return to the world atlas ↗</a></footer>
+    <div id="feedback" role="status" aria-live="polite"></div>
+    <noscript><p class="empty-state">Enable JavaScript to explore the map, timeline and personal trip scorecard.</p></noscript>
+  </main>
+</body>
+</html>

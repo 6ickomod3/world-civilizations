@@ -1,0 +1,258 @@
+{
+  "parthenon": {
+    "src": "images/parthenon.jpg",
+    "credit": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "file": "The_Parthenon_in_Athens.jpg"
+  },
+  "pont-du-gard": {
+    "src": "images/pont-du-gard.jpg",
+    "credit": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+    "file": "Pont_du_Gard_BLS.jpg"
+  },
+  "colosseum": {
+    "src": "images/colosseum.jpg",
+    "credit": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "file": "Colosseo_2020.jpg"
+  },
+  "pantheon": {
+    "src": "images/pantheon.jpg",
+    "credit": "NikonZ7II",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "file": "Pantheon_(Rome)_-_Right_side_and_front.jpg"
+  },
+  "hagia-sophia": {
+    "src": "images/hagia-sophia.jpeg",
+    "credit": "Adli Wahid",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+    "file": "Hagia_Sophia_(228968325).jpeg"
+  },
+  "cordoba-mosque-cathedral": {
+    "src": "images/cordoba-mosque-cathedral.jpg",
+    "credit": "Toni Castillo Quero",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg",
+    "file": "Mezquita_de_Córdoba_desde_el_aire_(Córdoba,_España).jpg"
+  },
+  "santiago-cathedral": {
+    "src": "images/santiago-cathedral.jpg",
+    "credit": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg",
+    "file": "Santiago_cathedral_2021.jpg"
+  },
+  "chartres-cathedral": {
+    "src": "images/chartres-cathedral.jpg",
+    "credit": "Olvr",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Chartres.jpg",
+    "file": "Notre_Dame_de_Chartres.jpg"
+  },
+  "alhambra": {
+    "src": "images/alhambra.jpg",
+    "credit": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pavillon_Cour_des_Lions_Alhambra_Granada_Spain.jpg",
+    "file": "Pavillon Cour des Lions Alhambra Granada Spain.jpg"
+  },
+  "florence-cathedral": {
+    "src": "images/florence-cathedral.jpg",
+    "credit": "Gary Campbell-Hall",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "file": "Cattedrale_di_Santa_Maria_del_Fiore_–_Il_Duomo_di_Firenze.jpg"
+  },
+  "jeronimos-monastery": {
+    "src": "images/jeronimos-monastery.jpg",
+    "credit": "Holger Uwe Schmitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+    "file": "1502_legte_König_Manuel_I._den_Grundstein_für_das_Hieronymus_Kloster_in_Lissabon._06.jpg"
+  },
+  "st-peters-basilica": {
+    "src": "images/st-peters-basilica.jpg",
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "file": "Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg"
+  },
+  "versailles": {
+    "src": "images/versailles.jpg",
+    "credit": "ToucanWings",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg",
+    "file": "Vue_aérienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg"
+  },
+  "sagrada-familia": {
+    "src": "images/sagrada-familia.jpg",
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "file": "SF_maig_2_cropped.jpg"
+  },
+  "eiffel-tower": {
+    "src": "images/eiffel-tower.jpg",
+    "credit": "Benh LIEU SONG",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "file": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+  },
+  "stonehenge": {
+    "src": "images/stonehenge.jpg",
+    "credit": "garethwiscombe",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "file": "Stonehenge2007_07_30.jpg"
+  },
+  "diocletians-palace": {
+    "src": "images/diocletians-palace.jpg",
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Croatia-01239_-_The_Peristil_(9551533404).jpg",
+    "file": "Croatia-01239_-_The_Peristil_(9551533404).jpg"
+  },
+  "aachen-chapel": {
+    "src": "images/aachen-chapel.jpg",
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
+    "file": "Aachen_Germany_Imperial-Cathedral-01.jpg"
+  },
+  "urnes-stave-church": {
+    "src": "images/urnes-stave-church.jpg",
+    "credit": "Leo-setä",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urnes_Stave_Church_1.jpg",
+    "file": "Urnes_Stave_Church_1.jpg"
+  },
+  "westminster-abbey": {
+    "src": "images/westminster-abbey.jpg",
+    "credit": "Antiquary",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey,_Westminster.jpg",
+    "file": "Westminster_Abbey,_Westminster.jpg"
+  },
+  "cologne-cathedral": {
+    "src": "images/cologne-cathedral.jpg",
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+    "file": "Kölner_Dom_-_Westfassade_2022_ohne_Gerüst-0968_b.jpg"
+  },
+  "malbork-castle": {
+    "src": "images/malbork-castle.jpg",
+    "credit": "Gregy",
+    "license": "CC BY-SA 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zesp%C3%B3%C5%82_Zamku_Krzy%C5%BCackiego_MALBORK_01.jpg",
+    "file": "Zespół_Zamku_Krzyżackiego_MALBORK_01.jpg"
+  },
+  "st-vitus-cathedral": {
+    "src": "images/st-vitus-cathedral.jpg",
+    "credit": "MathKnight and Zachi Evenor",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PragueCathedral03.jpg",
+    "file": "PragueCathedral03.jpg"
+  },
+  "brussels-town-hall": {
+    "src": "images/brussels-town-hall.jpg",
+    "credit": "Michielverbeek",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brussels,_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg",
+    "file": "Brussels,_townhall_oeg2043-00090_foto3_2015-06-07_08.38.jpg"
+  },
+  "voronet-monastery": {
+    "src": "images/voronet-monastery.jpg",
+    "credit": "Dstefanescu",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Voronet_Intrare.JPG",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Voronet_Intrare.JPG",
+    "file": "Voronet_Intrare.JPG"
+  },
+  "st-pauls-cathedral": {
+    "src": "images/st-pauls-cathedral.jpg",
+    "credit": "Mark Fosh",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Pauls_aerial_(cropped).jpg",
+    "file": "St_Pauls_aerial_(cropped).jpg"
+  },
+  "schonbrunn-palace": {
+    "src": "images/schonbrunn-palace.jpg",
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+    "file": "Wien_-_Schloss_Schönbrunn.JPG"
+  },
+  "hungarian-parliament": {
+    "src": "images/hungarian-parliament.jpg",
+    "credit": "Kilyann Le Hen",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "file": "Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg"
+  },
+  "stockholm-city-hall": {
+    "src": "images/stockholm-city-hall.jpg",
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stockholms_stadshus_February_2026_02.jpg",
+    "file": "Stockholms_stadshus_February_2026_02.jpg"
+  },
+  "rietveld-schroder-house": {
+    "src": "images/rietveld-schroder-house.jpg",
+    "credit": "User:Husky",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG",
+    "file": "Rietveld_Schröderhuis_HayKranen-20.JPG"
+  },
+  "bauhaus-dessau": {
+    "src": "images/bauhaus-dessau.jpg",
+    "credit": "JensKunstfreund",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenansichten_des_Bauhaus-Geb%C3%A4udes_in_Dessau_01.jpg",
+    "file": "Außenansichten des Bauhaus-Gebäudes in Dessau 01.jpg"
+  },
+  "villa-savoye": {
+    "src": "images/villa-savoye.jpg",
+    "credit": "scarletgreen from Japan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Savoye32.JPG_-_Flickr_-_scarletgreen.jpg",
+    "file": "Villa Savoye32.JPG - Flickr - scarletgreen.jpg"
+  }
+}

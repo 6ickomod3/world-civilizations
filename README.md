@@ -10,7 +10,13 @@ The repository is [6ickomod3/world-civilizations](https://github.com/6ickomod3/w
 
 [https://6ickomod3.github.io/world-civilizations/](https://6ickomod3.github.io/world-civilizations/)
 
-This is a static website: all page content, styles, and interactions are in `index.html`.
+The world atlas is in `index.html`. The Europe architecture passport is a second static page at:
+
+[https://6ickomod3.github.io/world-civilizations/europe/](https://6ickomod3.github.io/world-civilizations/europe/)
+
+The Europe page connects 32 buildings across 19 countries to a map, construction dates, architecture families, and overlapping historical contexts. Its personal scorecard tracks planned and visited places, visit dates, optional impressions, notes, and coverage by country and historical period. Personal records stay in the browser and can be downloaded and restored as a JSON file; they are not stored in the repository or sent to a server.
+
+Europe source files are in `europe/`. The datasets link to monument operators, heritage organizations, museums and academic sources. Photos are locally hosted; each selected building displays its Wikimedia Commons attribution and license, also recorded in `europe/photos.json`. Geographic points can be approximate. Modern country outlines are orientation references rather than historical borders.
 
 ## Publish with GitHub Pages
 
@@ -19,11 +25,11 @@ This is a static website: all page content, styles, and interactions are in `ind
 3. Open **Actions → Deploy GitHub Pages** and run the workflow if the initial push occurred before Pages was enabled.
 4. Wait for the deployment to succeed; GitHub shows the published URL in the workflow's `github-pages` environment and in the Pages settings.
 
-The included workflow copies only `index.html` and `.nojekyll` into the published artifact. It uses GitHub's official Pages actions and requires no extra credentials or package installation.
+The included workflow copies `index.html`, `.nojekyll`, and the `europe/` directory into the published artifact. It uses GitHub's official Pages actions and requires no extra credentials or package installation.
 
 ## Update the atlas
 
-Edit `index.html`, commit the change, and push it to `main`. The workflow automatically publishes the updated page. If you change the repository name or use a different account, update the expected address above.
+Edit the relevant page or dataset, commit the change, and push it to `main`. The workflow automatically publishes the updated pages. If you change the repository name or use a different account, update the addresses above.
 
 To preview locally, open `index.html` in your browser, or run a local static server from the repository directory:
 

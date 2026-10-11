@@ -1,0 +1,144 @@
+[
+  {
+    "id": "prehistoric",
+    "label": "Prehistoric monuments",
+    "startYear": -5000,
+    "endYear": -1600,
+    "dateLabel": "c. 5000–1600 BCE · selected monumental traditions",
+    "summary": "Standing stones, stone circles and passage tombs link construction to ritual and landscape. The window spans selected European Neolithic and Bronze Age monuments, not the whole of prehistory.",
+    "sourceUrl": "https://whc.unesco.org/en/list/1725/",
+    "sourceName": "UNESCO · Megaliths of Carnac and the shores of Morbihan",
+    "rangeNote": "Illustrative range from Carnac's fifth-millennium BCE monuments through later prehistoric monumental landscapes; regional traditions differ.",
+    "additionalSources": [
+      {"url": "https://whc.unesco.org/en/list/373/", "name": "UNESCO · Stonehenge, Avebury and Associated Sites"}
+    ]
+  },
+  {
+    "id": "classical",
+    "label": "Greek & Roman classical",
+    "startYear": -700,
+    "endYear": 500,
+    "dateLabel": "c. 700 BCE–500 CE · ancient traditions",
+    "summary": "Look for column orders and temple fronts, then Roman arches, vaults and concrete construction. This broad architectural family includes Archaic, Classical, Hellenistic and Roman phases; later classical revivals belong to later construction dates.",
+    "sourceUrl": "https://www.metmuseum.org/essays/greek-art-in-the-archaic-period",
+    "sourceName": "The Metropolitan Museum of Art · Greek Art in the Archaic Period",
+    "rangeNote": "Rounded overview for ancient Greek and Roman architecture, not the dates of the narrower Classical Greek art period.",
+    "additionalSources": [
+      {"url": "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf", "name": "The Metropolitan Museum of Art · Roman Art: A Resource for Educators"}
+    ]
+  },
+  {
+    "id": "byzantine",
+    "label": "Byzantine & Orthodox traditions",
+    "startYear": 330,
+    "endYear": 1453,
+    "dateLabel": "330–1453 CE · imperial flowering",
+    "summary": "Domed sacred spaces, mosaics and carefully arranged light express the Eastern Roman tradition. Orthodox communities adapted these forms beyond imperial borders and continued them after Constantinople's fall.",
+    "sourceUrl": "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
+    "sourceName": "The Metropolitan Museum of Art · Byzantium (ca. 330–1453)",
+    "rangeNote": "Dates mark the imperial context, not the end of Byzantine influence or Orthodox church building. Later buildings may combine Byzantine and local traditions."
+  },
+  {
+    "id": "islamic",
+    "label": "Islamic European traditions",
+    "startYear": 711,
+    "endYear": 1800,
+    "dateLabel": "c. 711–1800 CE · selected historic courts",
+    "summary": "This family covers several traditions, including Andalusi palaces and Ottoman mosques. Courtyards, water, geometric ornament, arches and domes offer clues, but forms vary across regions and dynasties.",
+    "sourceUrl": "https://www.metmuseum.org/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-one/introduction",
+    "sourceName": "The Metropolitan Museum of Art · Art of Islamic Spain",
+    "rangeNote": "Illustrative historical window combining distinct Iberian and Ottoman traditions. Islamic architecture and religious communities continue beyond it.",
+    "additionalSources": [
+      {"url": "https://www.metmuseum.org/essays/the-greater-ottoman-empire-1600-1800", "name": "The Metropolitan Museum of Art · The Greater Ottoman Empire, 1600–1800"}
+    ]
+  },
+  {
+    "id": "romanesque",
+    "label": "Early medieval & Romanesque",
+    "startYear": 750,
+    "endYear": 1200,
+    "dateLabel": "c. 750–1200 CE · early medieval roots; Romanesque c. 1000–1200",
+    "summary": "Early medieval courts and monasteries reworked ancient and Byzantine models. Romanesque churches later developed round arches, strong masonry and monumental carved portals. Aachen's Carolingian chapel precedes the main Romanesque flowering.",
+    "sourceUrl": "https://www.metmuseum.org/essays/romanesque-art",
+    "sourceName": "The Metropolitan Museum of Art · Romanesque Art",
+    "rangeNote": "The early part covers related predecessors, not a claim that Romanesque began in 750. Romanesque's main western European flowering is the eleventh and twelfth centuries.",
+    "additionalSources": [
+      {"url": "https://www.metmuseum.org/essays/carolingian-art", "name": "The Metropolitan Museum of Art · Carolingian Art"}
+    ]
+  },
+  {
+    "id": "gothic",
+    "label": "Gothic",
+    "startYear": 1140,
+    "endYear": 1550,
+    "dateLabel": "c. 1140–1550 CE · medieval flowering",
+    "summary": "Pointed arches, ribbed vaults, buttresses and large stained-glass windows organise height and light. Local variants differ. Nineteenth-century Gothic Revival and later completions can share the family while belonging to much later dates.",
+    "sourceUrl": "https://www.vam.ac.uk/articles/the-gothic-style-an-introduction",
+    "sourceName": "Victoria and Albert Museum · The Gothic Style",
+    "rangeNote": "Illustrative medieval flowering; the range is not a cutoff for Gothic-looking buildings. Cologne Cathedral, for example, was completed in 1880 from medieval plans.",
+    "additionalSources": [
+      {"url": "https://whc.unesco.org/en/list/292/", "name": "UNESCO · Cologne Cathedral"}
+    ]
+  },
+  {
+    "id": "renaissance",
+    "label": "Renaissance",
+    "startYear": 1400,
+    "endYear": 1600,
+    "dateLabel": "c. 1400–1600 CE · Italian core; regional overlap",
+    "summary": "Classical orders, symmetry, proportion and domes reflect renewed study of antiquity. Italian developments spread unevenly. Buildings from this period can retain Gothic structures or mix regional forms, such as Portugal's Manueline ornament.",
+    "sourceUrl": "https://www.nga.gov/artworks/italian-renaissance",
+    "sourceName": "National Gallery of Art · Italian Renaissance",
+    "rangeNote": "Rounded Italian flowering dates, not a uniform Europe-wide start or end. Read each building's specific style and construction phases.",
+    "additionalSources": [
+      {"url": "https://whc.unesco.org/en/list/263/", "name": "UNESCO · Monastery of the Hieronymites and Tower of Belém"}
+    ]
+  },
+  {
+    "id": "baroque",
+    "label": "Baroque & Rococo",
+    "startYear": 1600,
+    "endYear": 1750,
+    "dateLabel": "c. 1600–1750 CE · main European flowering",
+    "summary": "Dramatic spaces, sculptural façades, painted illusion and coordinated gardens make power and devotion visible. Rococo elaborated lighter, intricate interiors. French court architecture often combines Baroque planning with classical restraint.",
+    "sourceUrl": "https://www.vam.ac.uk/articles/the-baroque-style",
+    "sourceName": "Victoria and Albert Museum · The Baroque Style",
+    "rangeNote": "The main European flowering runs through the seventeenth and first half of the eighteenth century; regional continuations, Rococo interiors and revivals can extend later."
+  },
+  {
+    "id": "neoclassical",
+    "label": "Neoclassical",
+    "startYear": 1750,
+    "endYear": 1850,
+    "dateLabel": "c. 1750–1850 CE · illustrative flowering",
+    "summary": "Clear geometry, temple fronts and restrained ornament renew Greek and Roman models through archaeology and the Grand Tour. The style appears in civic monuments, museums and palaces, and continued in later classical revivals.",
+    "sourceUrl": "https://www.vam.ac.uk/collections/neoclassicism",
+    "sourceName": "Victoria and Albert Museum · Neoclassicism",
+    "rangeNote": "The source dates emergence to the 1750s. The 1850 endpoint is a rounded display window, not the end of classical revival architecture."
+  },
+  {
+    "id": "industrial",
+    "label": "Industrial age & revivals",
+    "startYear": 1750,
+    "endYear": 1914,
+    "dateLabel": "c. 1750–1914 CE · an era with many styles",
+    "summary": "Iron structures, factories and railway stations changed building possibilities. The same era also produced Gothic Revival, national styles and Art Nouveau, including Catalan Modernisme. This is an era grouping; each site's style label supplies the architectural distinction.",
+    "sourceUrl": "https://www.coe.int/en/web/cultural-routes/european-route-of-industrial-heritage",
+    "sourceName": "Council of Europe · European Route of Industrial Heritage",
+    "rangeNote": "The dates provide a historical overview, not a single architectural style. Long projects and revived forms can extend beyond the window.",
+    "additionalSources": [
+      {"url": "https://www.vam.ac.uk/collections/art-nouveau", "name": "Victoria and Albert Museum · Art Nouveau"}
+    ]
+  },
+  {
+    "id": "modern",
+    "label": "Modern & contemporary",
+    "startYear": 1900,
+    "endYear": 2026,
+    "dateLabel": "c. 1900–present · varied twentieth-century and later traditions",
+    "summary": "Modernist design explored new materials, open plans and reduced ornament, especially from the 1920s. National Romantic, later modern, postmodern and contemporary buildings offer different responses to history, technology and urban life.",
+    "sourceUrl": "https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond",
+    "sourceName": "Victoria and Albert Museum · Modernist Architecture: The Bauhaus and Beyond",
+    "rangeNote": "A broad modern-era grouping, not a claim that all twentieth-century buildings are Modernist. The Modern Movement's influential flowering begins in the 1920s; current buildings require their own style labels."
+  }
+]
